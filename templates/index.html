@@ -1,0 +1,163 @@
+
+<!doctype html>
+<meta charset="utf-8"/>
+<head>
+    <link rel="shortcut icon" href="../static/favicon.ico"/>
+    <!--<link rel="stylesheet" href="https://unpkg.com/react-vis/dist/style.css">-->
+    <!--react vis stylesheet-->
+    <link rel="stylesheet" href="../static/css/typeface-roboto/index.css"/>
+    <link rel="stylesheet" href="../static/css/style.css"/>
+    <link rel="stylesheet" href="../static/nouislider/distribute/nouislider.min.css" />
+    <link rel="stylesheet" href="../static/css/styleCustom.css"/>
+</head>
+
+<body>    
+<script type="text/javascript" src="../upload_data/data.json"></script>
+<script type="text/javascript" src="../upload_data/time.json"></script>
+
+<script type="text/javascript" src="../static/jquery/dist/jquery.js"></script>
+<script type="text/javascript" src="../static/nouislider/distribute/nouislider.min.js"></script>
+<script type="text/javascript" src="../static/d3/d3/build/d3.min.js"></script>
+<script type="text/javascript" src="../static/d3/d3-shape/build/d3-shape.min.js"></script>
+<script type="text/javascript" src="../static/d3/d3-sankey/build/d3-sankey.min.js"></script>
+<script type="text/javascript" src="../static/d3/d3-color/build/d3-color.min.js"></script>
+
+
+<script type="text/javascript" src="../static/js/theme.js"></script>
+<script type="text/javascript" src="../static/js/utilities.js"></script>
+<script type="text/javascript" src="../static/js/sankey.js"></script>
+<!--script type="text/javascript" src="../static/d3/d3-scale-chromatic/dist/d3-scale-chromatic.min.js"></script>-->
+<h2 id="print">Consolidated Euro Area MFI Balance Sheet</h2>
+
+<div id="canvas" class="flex-container">
+    <div id="controls" class="flex-item">
+        <div class="option-list">
+
+            <div id="control-section">
+                <p>Default mode</p>
+                    <div class="control-option">
+                        <select class="Select-control" id="date" value="init()" onChange="switch_date()"></select>
+                            <label for="date">Date</label>
+                    </div>
+                    
+                    <div class="control-option">
+                        <select class="Select-control" id="value" value="init()" onChange="switch_value()"></select>
+                            <label for="value">Value</label>
+                    </div>
+
+                    <div class="control-option">
+                        <div id="cutOffSlider" class="slider"></div>
+                        <label for="cutOffSlider">Links shown</label>
+                    </div>
+            </div>
+
+            <div id="control-section">
+                <p>Unrolled mode</p>
+                <div class="control-option">
+                    <select class="Select-control" id="mode" value="init()" onChange="switch_mode()"></select>
+                        <label for="mode">Unroll</label>
+                </div>
+
+                <div class="control-option">
+                    <select class="Select-control" id="level" value=0 onChange="switch_Level()"></select>
+                        <label for="level">Switch level</label>
+                </div>      
+            </div>
+
+            <div id="control-section">
+                <p>Analysis</p>
+                <div class="control-option" id="ratio">
+                    <div class="flex-item-output" id="ratio-name1"></div>
+                    <div class="flex-item-output" id="ratio-name2"></div>
+                    <div class="flex-item-output" id="ratio-value"></div>
+                    <label for="ratio">Ratio</label>
+                </div>  
+                <div class="control-option" id="ratio">
+                        <div class="flex-item-output" id="HHI-name"></div>
+                        <div class="flex-item-output" id="HHI-value"></div>
+                        <label for="ratio">Herfindahl Index</label>
+                </div> 
+            </div>
+
+            <div id="control-section">
+                <p>Explanation</p>
+                <p>The visualisation shows the consolidated balance sheet of the Euro Area banking sector (Monetary Financial Institutions).
+                It is based on the <a href="http://sdw.ecb.europa.eu/reports.do?node=1000002345">ECB's Who to Whom Data</a>. No intra-group positions are shown.
+                Assets are shown to the left of "core", liabilities to the right. Link width represents absolute stock sizes for the end of the selected period.
+                Total change or compound annual growth since 2013 Q4 are represented by colours. Green edges have increased in value, red ones decreased. 
+                The intensity of colour reflects the magnitude of change.
+                Small links can be filtered out using the slider.
+                The unrolled mode shows a bar chart over time for a given level of the balance sheet.
+                Ratio comparisons in the analysis section can be made by clicking the relevant nodes.
+                Clicking on a node will also compute the Herfindahl index for this level of the balance sheet.
+                </p>
+            </div>
+
+        </div>
+    </div>
+
+    <div id='sankeyChart' class='flex-item'>
+        <svg ></svg>
+    </div>
+</div>
+
+<script type="text/javascript">
+    //dates
+    let dateA = Object.values(dates)
+    $.each(dateA, function(idx, value) {
+                if (idx == dateA.length-1) {
+                    jQuery("#date").append('<option value="' + value + '" selected>' + value + '</option>');
+                }
+                else {
+                    jQuery("#date").append('<option value="' + value + '">' + value + '</option>');
+                }
+    })
+    //value
+    jQuery("#value").append('<option value="' + 'absolute' + '" selected>' + 'absolute' + '</option>');
+    jQuery("#value").append('<option value="' + 'change' + '">' + 'total change' + '</option>');
+    jQuery("#value").append('<option value="' + 'CAGR' + '">' + 'CAGR' + '</option>');
+    //mode
+    jQuery("#mode").append('<option value="' + 'default' + '" selected>' + 'default' + '</option>');
+    jQuery("#mode").append('<option value="' + 'unroll' + '">' + 'unroll' + '</option>');
+    //levels
+    let categories = sortVals(getUniqueValues(sankey_values,'source_level'))
+    $.each(categories, function(idx, value) {
+                if (idx == 0) {
+                    jQuery("#level").append('<option value="' + value + '" selected>' + value + '</option>');
+                }
+                else {
+                    jQuery("#level").append('<option value="' + value + '">' + value + '</option>');
+                }
+    })
+    //disable
+    disableOptions = () => {
+            if (document.getElementById("mode").value == 'unroll') {
+                $('#date').prop('disabled', true);
+                $('#value').prop('disabled', true);
+                $('#cutOffSlider').prop('disabled', true);
+                $('#level').prop('disabled', false);
+            }
+            else {
+                $('#date').prop('disabled', false);
+                $('#value').prop('disabled', false);
+                $('#cutOffSlider').prop('disabled', false);
+                $('#level').prop('disabled', true);
+            }
+        }
+    $(disableOptions)
+    //cutoff slider
+    //slider determining how many links will be shown
+    const setCutOffSlider = (sliderID,startValue,maxValue) => {
+            noUiSlider.create(sliderID, {
+            start: startValue,
+            range: {
+                min: [0],
+                max: [maxValue]
+            }
+            })
+    }
+</script>
+<script type="text/javascript" src="../static/js/options.js"></script>
+<script type="text/javascript" src="../static/js/unroll.js"></script>
+<script type="text/javascript" src="../static/js/sankeyDiagram.js"></script>
+</body>

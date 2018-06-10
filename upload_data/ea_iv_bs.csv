@@ -1,0 +1,1333 @@
+"","source","source_level","target","target_level","edge_type","time","value"
+"1","debt securities",2,"core",3,"debt securities","2008-Q4",1701.496759
+"2","debt securities",2,"core",3,"debt securities","2009-Q1",1705.85038
+"3","debt securities",2,"core",3,"debt securities","2009-Q2",1859.891251
+"4","debt securities",2,"core",3,"debt securities","2009-Q3",2001.728826
+"5","debt securities",2,"core",3,"debt securities","2009-Q4",2081.163606
+"6","debt securities",2,"core",3,"debt securities","2010-Q1",2215.00112713018
+"7","debt securities",2,"core",3,"debt securities","2010-Q2",2272.532569214
+"8","debt securities",2,"core",3,"debt securities","2010-Q3",2341.87253582733
+"9","debt securities",2,"core",3,"debt securities","2010-Q4",2361.3275835
+"10","debt securities",2,"core",3,"debt securities","2011-Q1",2348.879207
+"11","debt securities",2,"core",3,"debt securities","2011-Q2",2385.213992
+"12","debt securities",2,"core",3,"debt securities","2011-Q3",2380.372728
+"13","debt securities",2,"core",3,"debt securities","2011-Q4",2506.664146
+"14","debt securities",2,"core",3,"debt securities","2012-Q1",2676.443418
+"15","debt securities",2,"core",3,"debt securities","2012-Q2",2731.49928
+"16","debt securities",2,"core",3,"debt securities","2012-Q3",2858.030471
+"17","debt securities",2,"core",3,"debt securities","2012-Q4",2968.700493
+"18","debt securities",2,"core",3,"debt securities","2013-Q1",3071.681146
+"19","debt securities",2,"core",3,"debt securities","2013-Q2",3047.253938
+"20","debt securities",2,"core",3,"debt securities","2013-Q3",3098.974355
+"21","debt securities",2,"core",3,"debt securities","2013-Q4",3114.853849
+"22","debt securities",2,"core",3,"debt securities","2014-Q1",3244.54255
+"23","debt securities",2,"core",3,"debt securities","2014-Q2",3402.40167
+"24","debt securities",2,"core",3,"debt securities","2014-Q3",3563.853229643
+"25","debt securities",2,"core",3,"debt securities","2014-Q4",3616.915353777
+"26","debt securities",2,"core",3,"debt securities","2015-Q1",3966.51958346376
+"27","debt securities",2,"core",3,"debt securities","2015-Q2",3877.11156272315
+"28","debt securities",2,"core",3,"debt securities","2015-Q3",3835.22057297597
+"29","debt securities",2,"core",3,"debt securities","2015-Q4",3870.761731613
+"30","debt securities",2,"core",3,"debt securities","2016-Q1",3901.11889255619
+"31","debt securities",2,"core",3,"debt securities","2016-Q2",4077.92927164131
+"32","debt securities",2,"core",3,"debt securities","2016-Q3",4214.52343265782
+"33","debt securities",2,"core",3,"debt securities","2016-Q4",4211.80856296614
+"34","debt securities",2,"core",3,"debt securities","2017-Q1",4318.93606892459
+"35","debt securities",2,"core",3,"debt securities","2017-Q2",4384.31432123989
+"36","debt securities",2,"core",3,"debt securities","2017-Q3",4468.0550023076
+"37","debt securities",2,"core",3,"debt securities","2017-Q4",4505.30051103632
+"38","equity",2,"core",3,"total","2008-Q4",1141.450179
+"39","equity",2,"core",3,"total","2009-Q1",1056.475617
+"40","equity",2,"core",3,"total","2009-Q2",1239.104061
+"41","equity",2,"core",3,"total","2009-Q3",1548.246675
+"42","equity",2,"core",3,"total","2009-Q4",1676.275374
+"43","equity",2,"core",3,"total","2010-Q1",1815.55087452018
+"44","equity",2,"core",3,"total","2010-Q2",1713.56252560814
+"45","equity",2,"core",3,"total","2010-Q3",1796.33351624071
+"46","equity",2,"core",3,"total","2010-Q4",1992.7157712
+"47","equity",2,"core",3,"total","2011-Q1",1976.713851
+"48","equity",2,"core",3,"total","2011-Q2",1959.879636
+"49","equity",2,"core",3,"total","2011-Q3",1638.233798
+"50","equity",2,"core",3,"total","2011-Q4",1736.938436
+"51","equity",2,"core",3,"total","2012-Q1",1889.253381
+"52","equity",2,"core",3,"total","2012-Q2",1818.939868
+"53","equity",2,"core",3,"total","2012-Q3",1921.191676
+"54","equity",2,"core",3,"total","2012-Q4",1986.88269
+"55","equity",2,"core",3,"total","2013-Q1",2142.21337
+"56","equity",2,"core",3,"total","2013-Q2",2094.708285
+"57","equity",2,"core",3,"total","2013-Q3",2228.272154
+"58","equity",2,"core",3,"total","2013-Q4",2369.356088
+"59","equity",2,"core",3,"total","2014-Q1",2421.743451
+"60","equity",2,"core",3,"total","2014-Q2",2569.309015
+"61","equity",2,"core",3,"total","2014-Q3",2669.52089214382
+"62","equity",2,"core",3,"total","2014-Q4",2749.86291393389
+"63","equity",2,"core",3,"total","2015-Q1",3182.24262459821
+"64","equity",2,"core",3,"total","2015-Q2",3111.84638943036
+"65","equity",2,"core",3,"total","2015-Q3",2854.50993307298
+"66","equity",2,"core",3,"total","2015-Q4",3082.984986866
+"67","equity",2,"core",3,"total","2016-Q1",2928.78449686694
+"68","equity",2,"core",3,"total","2016-Q2",2972.48528956714
+"69","equity",2,"core",3,"total","2016-Q3",3132.67193233877
+"70","equity",2,"core",3,"total","2016-Q4",3296.54812187964
+"71","equity",2,"core",3,"total","2017-Q1",3512.16296906327
+"72","equity",2,"core",3,"total","2017-Q2",3525.82321288303
+"73","equity",2,"core",3,"total","2017-Q3",3663.94715481003
+"74","equity",2,"core",3,"total","2017-Q4",3817.78321336562
+"75","mfi debt sec",0,"Euro Area debt sec",1,"debt securities","2008-Q4",340.256115
+"76","mfi debt sec",0,"Euro Area debt sec",1,"debt securities","2009-Q1",347.131418
+"77","mfi debt sec",0,"Euro Area debt sec",1,"debt securities","2009-Q2",362.556272
+"78","mfi debt sec",0,"Euro Area debt sec",1,"debt securities","2009-Q3",384.964071
+"79","mfi debt sec",0,"Euro Area debt sec",1,"debt securities","2009-Q4",387.63053
+"80","mfi debt sec",0,"Euro Area debt sec",1,"debt securities","2010-Q1",392.834459023236
+"81","mfi debt sec",0,"Euro Area debt sec",1,"debt securities","2010-Q2",381.13891472474
+"82","mfi debt sec",0,"Euro Area debt sec",1,"debt securities","2010-Q3",385.918800780356
+"83","mfi debt sec",0,"Euro Area debt sec",1,"debt securities","2010-Q4",375.491912
+"84","mfi debt sec",0,"Euro Area debt sec",1,"debt securities","2011-Q1",383.549514
+"85","mfi debt sec",0,"Euro Area debt sec",1,"debt securities","2011-Q2",387.172103
+"86","mfi debt sec",0,"Euro Area debt sec",1,"debt securities","2011-Q3",380.708204
+"87","mfi debt sec",0,"Euro Area debt sec",1,"debt securities","2011-Q4",390.609627
+"88","mfi debt sec",0,"Euro Area debt sec",1,"debt securities","2012-Q1",422.340653
+"89","mfi debt sec",0,"Euro Area debt sec",1,"debt securities","2012-Q2",412.488328
+"90","mfi debt sec",0,"Euro Area debt sec",1,"debt securities","2012-Q3",414.511543
+"91","mfi debt sec",0,"Euro Area debt sec",1,"debt securities","2012-Q4",416.094171
+"92","mfi debt sec",0,"Euro Area debt sec",1,"debt securities","2013-Q1",407.313819
+"93","mfi debt sec",0,"Euro Area debt sec",1,"debt securities","2013-Q2",404.303144
+"94","mfi debt sec",0,"Euro Area debt sec",1,"debt securities","2013-Q3",394.398816
+"95","mfi debt sec",0,"Euro Area debt sec",1,"debt securities","2013-Q4",390.323226
+"96","mfi debt sec",0,"Euro Area debt sec",1,"debt securities","2014-Q1",409.399703
+"97","mfi debt sec",0,"Euro Area debt sec",1,"debt securities","2014-Q2",416.310906
+"98","mfi debt sec",0,"Euro Area debt sec",1,"debt securities","2014-Q3",423.96167689066
+"99","mfi debt sec",0,"Euro Area debt sec",1,"debt securities","2014-Q4",411.230501182313
+"100","mfi debt sec",0,"Euro Area debt sec",1,"debt securities","2015-Q1",409.88919461606
+"101","mfi debt sec",0,"Euro Area debt sec",1,"debt securities","2015-Q2",394.623142235208
+"102","mfi debt sec",0,"Euro Area debt sec",1,"debt securities","2015-Q3",386.784810232204
+"103","mfi debt sec",0,"Euro Area debt sec",1,"debt securities","2015-Q4",370.82572803319
+"104","mfi debt sec",0,"Euro Area debt sec",1,"debt securities","2016-Q1",371.175998584828
+"105","mfi debt sec",0,"Euro Area debt sec",1,"debt securities","2016-Q2",370.796957959649
+"106","mfi debt sec",0,"Euro Area debt sec",1,"debt securities","2016-Q3",372.609154706973
+"107","mfi debt sec",0,"Euro Area debt sec",1,"debt securities","2016-Q4",366.307916320587
+"108","mfi debt sec",0,"Euro Area debt sec",1,"debt securities","2017-Q1",375.902979359289
+"109","mfi debt sec",0,"Euro Area debt sec",1,"debt securities","2017-Q2",383.83386297396
+"110","mfi debt sec",0,"Euro Area debt sec",1,"debt securities","2017-Q3",386.246094026586
+"111","mfi debt sec",0,"Euro Area debt sec",1,"debt securities","2017-Q4",395.540696538965
+"112","govt debt sec",0,"Euro Area debt sec",1,"debt securities","2008-Q4",605.698856
+"113","govt debt sec",0,"Euro Area debt sec",1,"debt securities","2009-Q1",619.802363
+"114","govt debt sec",0,"Euro Area debt sec",1,"debt securities","2009-Q2",631.427028
+"115","govt debt sec",0,"Euro Area debt sec",1,"debt securities","2009-Q3",666.0634
+"116","govt debt sec",0,"Euro Area debt sec",1,"debt securities","2009-Q4",682.319657
+"117","govt debt sec",0,"Euro Area debt sec",1,"debt securities","2010-Q1",704.4627342369
+"118","govt debt sec",0,"Euro Area debt sec",1,"debt securities","2010-Q2",707.774035776095
+"119","govt debt sec",0,"Euro Area debt sec",1,"debt securities","2010-Q3",722.07990802792
+"120","govt debt sec",0,"Euro Area debt sec",1,"debt securities","2010-Q4",691.2940569
+"121","govt debt sec",0,"Euro Area debt sec",1,"debt securities","2011-Q1",675.352682
+"122","govt debt sec",0,"Euro Area debt sec",1,"debt securities","2011-Q2",671.92936
+"123","govt debt sec",0,"Euro Area debt sec",1,"debt securities","2011-Q3",681.226316
+"124","govt debt sec",0,"Euro Area debt sec",1,"debt securities","2011-Q4",675.557013
+"125","govt debt sec",0,"Euro Area debt sec",1,"debt securities","2012-Q1",682.439566
+"126","govt debt sec",0,"Euro Area debt sec",1,"debt securities","2012-Q2",697.695391
+"127","govt debt sec",0,"Euro Area debt sec",1,"debt securities","2012-Q3",714.405253
+"128","govt debt sec",0,"Euro Area debt sec",1,"debt securities","2012-Q4",747.733701
+"129","govt debt sec",0,"Euro Area debt sec",1,"debt securities","2013-Q1",755.54991297653
+"130","govt debt sec",0,"Euro Area debt sec",1,"debt securities","2013-Q2",773.161935
+"131","govt debt sec",0,"Euro Area debt sec",1,"debt securities","2013-Q3",800.895855
+"132","govt debt sec",0,"Euro Area debt sec",1,"debt securities","2013-Q4",809.739267
+"133","govt debt sec",0,"Euro Area debt sec",1,"debt securities","2014-Q1",858.914902
+"134","govt debt sec",0,"Euro Area debt sec",1,"debt securities","2014-Q2",889.440656
+"135","govt debt sec",0,"Euro Area debt sec",1,"debt securities","2014-Q3",915.570328675983
+"136","govt debt sec",0,"Euro Area debt sec",1,"debt securities","2014-Q4",929.14858457043
+"137","govt debt sec",0,"Euro Area debt sec",1,"debt securities","2015-Q1",996.007317964671
+"138","govt debt sec",0,"Euro Area debt sec",1,"debt securities","2015-Q2",940.32810678045
+"139","govt debt sec",0,"Euro Area debt sec",1,"debt securities","2015-Q3",959.46643489862
+"140","govt debt sec",0,"Euro Area debt sec",1,"debt securities","2015-Q4",943.795468952334
+"141","govt debt sec",0,"Euro Area debt sec",1,"debt securities","2016-Q1",947.836390250352
+"142","govt debt sec",0,"Euro Area debt sec",1,"debt securities","2016-Q2",944.466402556538
+"143","govt debt sec",0,"Euro Area debt sec",1,"debt securities","2016-Q3",934.429989717727
+"144","govt debt sec",0,"Euro Area debt sec",1,"debt securities","2016-Q4",895.947413460641
+"145","govt debt sec",0,"Euro Area debt sec",1,"debt securities","2017-Q1",864.781155116762
+"146","govt debt sec",0,"Euro Area debt sec",1,"debt securities","2017-Q2",866.133950305045
+"147","govt debt sec",0,"Euro Area debt sec",1,"debt securities","2017-Q3",868.615914937975
+"148","govt debt sec",0,"Euro Area debt sec",1,"debt securities","2017-Q4",853.93192463775
+"149","ofi debt sec",0,"Euro Area debt sec",1,"debt securities","2008-Q4",148.440791
+"150","ofi debt sec",0,"Euro Area debt sec",1,"debt securities","2009-Q1",149.597169
+"151","ofi debt sec",0,"Euro Area debt sec",1,"debt securities","2009-Q2",171.573396
+"152","ofi debt sec",0,"Euro Area debt sec",1,"debt securities","2009-Q3",187.321774
+"153","ofi debt sec",0,"Euro Area debt sec",1,"debt securities","2009-Q4",187.827191
+"154","ofi debt sec",0,"Euro Area debt sec",1,"debt securities","2010-Q1",198.839236291271
+"155","ofi debt sec",0,"Euro Area debt sec",1,"debt securities","2010-Q2",192.947705655379
+"156","ofi debt sec",0,"Euro Area debt sec",1,"debt securities","2010-Q3",193.55958702162
+"157","ofi debt sec",0,"Euro Area debt sec",1,"debt securities","2010-Q4",193.8641521
+"158","ofi debt sec",0,"Euro Area debt sec",1,"debt securities","2011-Q1",200.274156
+"159","ofi debt sec",0,"Euro Area debt sec",1,"debt securities","2011-Q2",196.321815
+"160","ofi debt sec",0,"Euro Area debt sec",1,"debt securities","2011-Q3",183.901405
+"161","ofi debt sec",0,"Euro Area debt sec",1,"debt securities","2011-Q4",186.265157
+"162","ofi debt sec",0,"Euro Area debt sec",1,"debt securities","2012-Q1",209.613629
+"163","ofi debt sec",0,"Euro Area debt sec",1,"debt securities","2012-Q2",207.992647
+"164","ofi debt sec",0,"Euro Area debt sec",1,"debt securities","2012-Q3",232.690915
+"165","ofi debt sec",0,"Euro Area debt sec",1,"debt securities","2012-Q4",241.595153
+"166","ofi debt sec",0,"Euro Area debt sec",1,"debt securities","2013-Q1",245.17729565608
+"167","ofi debt sec",0,"Euro Area debt sec",1,"debt securities","2013-Q2",247.871901
+"168","ofi debt sec",0,"Euro Area debt sec",1,"debt securities","2013-Q3",257.43295
+"169","ofi debt sec",0,"Euro Area debt sec",1,"debt securities","2013-Q4",264.520304
+"170","ofi debt sec",0,"Euro Area debt sec",1,"debt securities","2014-Q1",303.71191
+"171","ofi debt sec",0,"Euro Area debt sec",1,"debt securities","2014-Q2",325.967704
+"172","ofi debt sec",0,"Euro Area debt sec",1,"debt securities","2014-Q3",328.233957515924
+"173","ofi debt sec",0,"Euro Area debt sec",1,"debt securities","2014-Q4",332.338541
+"174","ofi debt sec",0,"Euro Area debt sec",1,"debt securities","2015-Q1",357.8097076427
+"175","ofi debt sec",0,"Euro Area debt sec",1,"debt securities","2015-Q2",352.10727941881
+"176","ofi debt sec",0,"Euro Area debt sec",1,"debt securities","2015-Q3",339.91721393322
+"177","ofi debt sec",0,"Euro Area debt sec",1,"debt securities","2015-Q4",350.4364839342
+"178","ofi debt sec",0,"Euro Area debt sec",1,"debt securities","2016-Q1",343.498696733925
+"179","ofi debt sec",0,"Euro Area debt sec",1,"debt securities","2016-Q2",355.447600909947
+"180","ofi debt sec",0,"Euro Area debt sec",1,"debt securities","2016-Q3",370.567304958541
+"181","ofi debt sec",0,"Euro Area debt sec",1,"debt securities","2016-Q4",369.592996175916
+"182","ofi debt sec",0,"Euro Area debt sec",1,"debt securities","2017-Q1",380.716448837335
+"183","ofi debt sec",0,"Euro Area debt sec",1,"debt securities","2017-Q2",395.60909059458
+"184","ofi debt sec",0,"Euro Area debt sec",1,"debt securities","2017-Q3",404.18532535674
+"185","ofi debt sec",0,"Euro Area debt sec",1,"debt securities","2017-Q4",406.503989305887
+"186","icpf debt sec",0,"Euro Area debt sec",1,"debt securities","2008-Q4",3.203308
+"187","icpf debt sec",0,"Euro Area debt sec",1,"debt securities","2009-Q1",3.982454
+"188","icpf debt sec",0,"Euro Area debt sec",1,"debt securities","2009-Q2",3.942226
+"189","icpf debt sec",0,"Euro Area debt sec",1,"debt securities","2009-Q3",4.989362
+"190","icpf debt sec",0,"Euro Area debt sec",1,"debt securities","2009-Q4",5.593802
+"191","icpf debt sec",0,"Euro Area debt sec",1,"debt securities","2010-Q1",5.906493
+"192","icpf debt sec",0,"Euro Area debt sec",1,"debt securities","2010-Q2",6.092303
+"193","icpf debt sec",0,"Euro Area debt sec",1,"debt securities","2010-Q3",6.441442
+"194","icpf debt sec",0,"Euro Area debt sec",1,"debt securities","2010-Q4",6.227661
+"195","icpf debt sec",0,"Euro Area debt sec",1,"debt securities","2011-Q1",5.605086
+"196","icpf debt sec",0,"Euro Area debt sec",1,"debt securities","2011-Q2",5.879969
+"197","icpf debt sec",0,"Euro Area debt sec",1,"debt securities","2011-Q3",4.770667
+"198","icpf debt sec",0,"Euro Area debt sec",1,"debt securities","2011-Q4",4.47963
+"199","icpf debt sec",0,"Euro Area debt sec",1,"debt securities","2012-Q1",5.609141
+"200","icpf debt sec",0,"Euro Area debt sec",1,"debt securities","2012-Q2",4.952428
+"201","icpf debt sec",0,"Euro Area debt sec",1,"debt securities","2012-Q3",5.978895
+"202","icpf debt sec",0,"Euro Area debt sec",1,"debt securities","2012-Q4",7.745642
+"203","icpf debt sec",0,"Euro Area debt sec",1,"debt securities","2013-Q1",8.231626892
+"204","icpf debt sec",0,"Euro Area debt sec",1,"debt securities","2013-Q2",8.37564
+"205","icpf debt sec",0,"Euro Area debt sec",1,"debt securities","2013-Q3",9.028795
+"206","icpf debt sec",0,"Euro Area debt sec",1,"debt securities","2013-Q4",10.417955
+"207","icpf debt sec",0,"Euro Area debt sec",1,"debt securities","2014-Q1",11.793811
+"208","icpf debt sec",0,"Euro Area debt sec",1,"debt securities","2014-Q2",11.345883
+"209","icpf debt sec",0,"Euro Area debt sec",1,"debt securities","2014-Q3",12.19132
+"210","icpf debt sec",0,"Euro Area debt sec",1,"debt securities","2014-Q4",13.35313
+"211","icpf debt sec",0,"Euro Area debt sec",1,"debt securities","2015-Q1",14.608962
+"212","icpf debt sec",0,"Euro Area debt sec",1,"debt securities","2015-Q2",13.890073
+"213","icpf debt sec",0,"Euro Area debt sec",1,"debt securities","2015-Q3",13.564202
+"214","icpf debt sec",0,"Euro Area debt sec",1,"debt securities","2015-Q4",14.922829
+"215","icpf debt sec",0,"Euro Area debt sec",1,"debt securities","2016-Q1",14.264807
+"216","icpf debt sec",0,"Euro Area debt sec",1,"debt securities","2016-Q2",14.510129
+"217","icpf debt sec",0,"Euro Area debt sec",1,"debt securities","2016-Q3",14.662909
+"218","icpf debt sec",0,"Euro Area debt sec",1,"debt securities","2016-Q4",14.631371
+"219","icpf debt sec",0,"Euro Area debt sec",1,"debt securities","2017-Q1",15.612675
+"220","icpf debt sec",0,"Euro Area debt sec",1,"debt securities","2017-Q2",16.164478
+"221","icpf debt sec",0,"Euro Area debt sec",1,"debt securities","2017-Q3",16.419905
+"222","icpf debt sec",0,"Euro Area debt sec",1,"debt securities","2017-Q4",17.35303
+"223","nfc debt sec",0,"Euro Area debt sec",1,"debt securities","2008-Q4",99.059138
+"224","nfc debt sec",0,"Euro Area debt sec",1,"debt securities","2009-Q1",105.912119
+"225","nfc debt sec",0,"Euro Area debt sec",1,"debt securities","2009-Q2",121.491842
+"226","nfc debt sec",0,"Euro Area debt sec",1,"debt securities","2009-Q3",137.294785
+"227","nfc debt sec",0,"Euro Area debt sec",1,"debt securities","2009-Q4",145.416205
+"228","nfc debt sec",0,"Euro Area debt sec",1,"debt securities","2010-Q1",156.059119060044
+"229","nfc debt sec",0,"Euro Area debt sec",1,"debt securities","2010-Q2",151.950464362315
+"230","nfc debt sec",0,"Euro Area debt sec",1,"debt securities","2010-Q3",164.476708864682
+"231","nfc debt sec",0,"Euro Area debt sec",1,"debt securities","2010-Q4",164.8741798
+"232","nfc debt sec",0,"Euro Area debt sec",1,"debt securities","2011-Q1",165.552301
+"233","nfc debt sec",0,"Euro Area debt sec",1,"debt securities","2011-Q2",170.224748
+"234","nfc debt sec",0,"Euro Area debt sec",1,"debt securities","2011-Q3",163.053983
+"235","nfc debt sec",0,"Euro Area debt sec",1,"debt securities","2011-Q4",167.94078
+"236","nfc debt sec",0,"Euro Area debt sec",1,"debt securities","2012-Q1",184.408285
+"237","nfc debt sec",0,"Euro Area debt sec",1,"debt securities","2012-Q2",184.815404
+"238","nfc debt sec",0,"Euro Area debt sec",1,"debt securities","2012-Q3",201.792672
+"239","nfc debt sec",0,"Euro Area debt sec",1,"debt securities","2012-Q4",211.030798
+"240","nfc debt sec",0,"Euro Area debt sec",1,"debt securities","2013-Q1",219.2820507731
+"241","nfc debt sec",0,"Euro Area debt sec",1,"debt securities","2013-Q2",217.978725
+"242","nfc debt sec",0,"Euro Area debt sec",1,"debt securities","2013-Q3",227.42914
+"243","nfc debt sec",0,"Euro Area debt sec",1,"debt securities","2013-Q4",235.50022
+"244","nfc debt sec",0,"Euro Area debt sec",1,"debt securities","2014-Q1",261.815053
+"245","nfc debt sec",0,"Euro Area debt sec",1,"debt securities","2014-Q2",273.290314
+"246","nfc debt sec",0,"Euro Area debt sec",1,"debt securities","2014-Q3",280.139330151127
+"247","nfc debt sec",0,"Euro Area debt sec",1,"debt securities","2014-Q4",278.711688
+"248","nfc debt sec",0,"Euro Area debt sec",1,"debt securities","2015-Q1",300.15554642389
+"249","nfc debt sec",0,"Euro Area debt sec",1,"debt securities","2015-Q2",295.147213515
+"250","nfc debt sec",0,"Euro Area debt sec",1,"debt securities","2015-Q3",292.71895244
+"251","nfc debt sec",0,"Euro Area debt sec",1,"debt securities","2015-Q4",297.94084519127
+"252","nfc debt sec",0,"Euro Area debt sec",1,"debt securities","2016-Q1",307.061212200235
+"253","nfc debt sec",0,"Euro Area debt sec",1,"debt securities","2016-Q2",328.073183207633
+"254","nfc debt sec",0,"Euro Area debt sec",1,"debt securities","2016-Q3",341.054365699045
+"255","nfc debt sec",0,"Euro Area debt sec",1,"debt securities","2016-Q4",341.080060402328
+"256","nfc debt sec",0,"Euro Area debt sec",1,"debt securities","2017-Q1",341.817614894438
+"257","nfc debt sec",0,"Euro Area debt sec",1,"debt securities","2017-Q2",348.263345237228
+"258","nfc debt sec",0,"Euro Area debt sec",1,"debt securities","2017-Q3",355.093290711717
+"259","nfc debt sec",0,"Euro Area debt sec",1,"debt securities","2017-Q4",358.696579101041
+"260","EU member states outside the Euro Area debt sec",0,"outside Euro Area debt sec",1,"debt securities","2008-Q4",130.399596
+"261","EU member states outside the Euro Area debt sec",0,"outside Euro Area debt sec",1,"debt securities","2009-Q1",140.66422
+"262","EU member states outside the Euro Area debt sec",0,"outside Euro Area debt sec",1,"debt securities","2009-Q2",159.086678
+"263","EU member states outside the Euro Area debt sec",0,"outside Euro Area debt sec",1,"debt securities","2009-Q3",179.387939
+"264","EU member states outside the Euro Area debt sec",0,"outside Euro Area debt sec",1,"debt securities","2009-Q4",198.81085
+"265","EU member states outside the Euro Area debt sec",0,"outside Euro Area debt sec",1,"debt securities","2010-Q1",217.38492828761
+"266","EU member states outside the Euro Area debt sec",0,"outside Euro Area debt sec",1,"debt securities","2010-Q2",228.85618977442
+"267","EU member states outside the Euro Area debt sec",0,"outside Euro Area debt sec",1,"debt securities","2010-Q3",242.4425847402
+"268","EU member states outside the Euro Area debt sec",0,"outside Euro Area debt sec",1,"debt securities","2010-Q4",246.4487557
+"269","EU member states outside the Euro Area debt sec",0,"outside Euro Area debt sec",1,"debt securities","2011-Q1",244.926579
+"270","EU member states outside the Euro Area debt sec",0,"outside Euro Area debt sec",1,"debt securities","2011-Q2",251.557146
+"271","EU member states outside the Euro Area debt sec",0,"outside Euro Area debt sec",1,"debt securities","2011-Q3",251.827374
+"272","EU member states outside the Euro Area debt sec",0,"outside Euro Area debt sec",1,"debt securities","2011-Q4",271.279924
+"273","EU member states outside the Euro Area debt sec",0,"outside Euro Area debt sec",1,"debt securities","2012-Q1",327.791075
+"274","EU member states outside the Euro Area debt sec",0,"outside Euro Area debt sec",1,"debt securities","2012-Q2",330.084615
+"275","EU member states outside the Euro Area debt sec",0,"outside Euro Area debt sec",1,"debt securities","2012-Q3",338.974132
+"276","EU member states outside the Euro Area debt sec",0,"outside Euro Area debt sec",1,"debt securities","2012-Q4",347.536411
+"277","EU member states outside the Euro Area debt sec",0,"outside Euro Area debt sec",1,"debt securities","2013-Q1",346.933182277361
+"278","EU member states outside the Euro Area debt sec",0,"outside Euro Area debt sec",1,"debt securities","2013-Q2",339.138308
+"279","EU member states outside the Euro Area debt sec",0,"outside Euro Area debt sec",1,"debt securities","2013-Q3",359.181791
+"280","EU member states outside the Euro Area debt sec",0,"outside Euro Area debt sec",1,"debt securities","2013-Q4",361.596265
+"281","EU member states outside the Euro Area debt sec",0,"outside Euro Area debt sec",1,"debt securities","2014-Q1",406.373153
+"282","EU member states outside the Euro Area debt sec",0,"outside Euro Area debt sec",1,"debt securities","2014-Q2",427.465085
+"283","EU member states outside the Euro Area debt sec",0,"outside Euro Area debt sec",1,"debt securities","2014-Q3",456.982281184318
+"284","EU member states outside the Euro Area debt sec",0,"outside Euro Area debt sec",1,"debt securities","2014-Q4",477.04304028
+"285","EU member states outside the Euro Area debt sec",0,"outside Euro Area debt sec",1,"debt securities","2015-Q1",528.52400556
+"286","EU member states outside the Euro Area debt sec",0,"outside Euro Area debt sec",1,"debt securities","2015-Q2",532.677726159932
+"287","EU member states outside the Euro Area debt sec",0,"outside Euro Area debt sec",1,"debt securities","2015-Q3",536.082337303729
+"288","EU member states outside the Euro Area debt sec",0,"outside Euro Area debt sec",1,"debt securities","2015-Q4",547.947657802727
+"289","EU member states outside the Euro Area debt sec",0,"outside Euro Area debt sec",1,"debt securities","2016-Q1",555.895313375615
+"290","EU member states outside the Euro Area debt sec",0,"outside Euro Area debt sec",1,"debt securities","2016-Q2",584.27671577297
+"291","EU member states outside the Euro Area debt sec",0,"outside Euro Area debt sec",1,"debt securities","2016-Q3",624.96686573732
+"292","EU member states outside the Euro Area debt sec",0,"outside Euro Area debt sec",1,"debt securities","2016-Q4",628.082687242264
+"293","EU member states outside the Euro Area debt sec",0,"outside Euro Area debt sec",1,"debt securities","2017-Q1",664.582019578127
+"294","EU member states outside the Euro Area debt sec",0,"outside Euro Area debt sec",1,"debt securities","2017-Q2",676.865651981293
+"295","EU member states outside the Euro Area debt sec",0,"outside Euro Area debt sec",1,"debt securities","2017-Q3",686.09405268153
+"296","EU member states outside the Euro Area debt sec",0,"outside Euro Area debt sec",1,"debt securities","2017-Q4",710.128808124438
+"297","United States debt sec",0,"outside Euro Area debt sec",1,"debt securities","2008-Q4",164.881652
+"298","United States debt sec",0,"outside Euro Area debt sec",1,"debt securities","2009-Q1",181.509258
+"299","United States debt sec",0,"outside Euro Area debt sec",1,"debt securities","2009-Q2",226.9795
+"300","United States debt sec",0,"outside Euro Area debt sec",1,"debt securities","2009-Q3",236.089283
+"301","United States debt sec",0,"outside Euro Area debt sec",1,"debt securities","2009-Q4",255.111231
+"302","United States debt sec",0,"outside Euro Area debt sec",1,"debt securities","2010-Q1",287.973387893265
+"303","United States debt sec",0,"outside Euro Area debt sec",1,"debt securities","2010-Q2",320.91600742823
+"304","United States debt sec",0,"outside Euro Area debt sec",1,"debt securities","2010-Q3",326.51860360495
+"305","United States debt sec",0,"outside Euro Area debt sec",1,"debt securities","2010-Q4",360.3851671
+"306","United States debt sec",0,"outside Euro Area debt sec",1,"debt securities","2011-Q1",350.6521
+"307","United States debt sec",0,"outside Euro Area debt sec",1,"debt securities","2011-Q2",357.468227
+"308","United States debt sec",0,"outside Euro Area debt sec",1,"debt securities","2011-Q3",368.680508
+"309","United States debt sec",0,"outside Euro Area debt sec",1,"debt securities","2011-Q4",436.583659
+"310","United States debt sec",0,"outside Euro Area debt sec",1,"debt securities","2012-Q1",453.809174
+"311","United States debt sec",0,"outside Euro Area debt sec",1,"debt securities","2012-Q2",467.503786
+"312","United States debt sec",0,"outside Euro Area debt sec",1,"debt securities","2012-Q3",493.827944
+"313","United States debt sec",0,"outside Euro Area debt sec",1,"debt securities","2012-Q4",510.196824
+"314","United States debt sec",0,"outside Euro Area debt sec",1,"debt securities","2013-Q1",563.179706881063
+"315","United States debt sec",0,"outside Euro Area debt sec",1,"debt securities","2013-Q2",551.105527
+"316","United States debt sec",0,"outside Euro Area debt sec",1,"debt securities","2013-Q3",548.636424
+"317","United States debt sec",0,"outside Euro Area debt sec",1,"debt securities","2013-Q4",548.187714
+"318","United States debt sec",0,"outside Euro Area debt sec",1,"debt securities","2014-Q1",524.559314
+"319","United States debt sec",0,"outside Euro Area debt sec",1,"debt securities","2014-Q2",544.977033
+"320","United States debt sec",0,"outside Euro Area debt sec",1,"debt securities","2014-Q3",593.333195703733
+"321","United States debt sec",0,"outside Euro Area debt sec",1,"debt securities","2014-Q4",617.309036216
+"322","United States debt sec",0,"outside Euro Area debt sec",1,"debt securities","2015-Q1",730.55935926228
+"323","United States debt sec",0,"outside Euro Area debt sec",1,"debt securities","2015-Q2",724.10717961754
+"324","United States debt sec",0,"outside Euro Area debt sec",1,"debt securities","2015-Q3",722.415764320101
+"325","United States debt sec",0,"outside Euro Area debt sec",1,"debt securities","2015-Q4",738.72734954341
+"326","United States debt sec",0,"outside Euro Area debt sec",1,"debt securities","2016-Q1",749.949458142375
+"327","United States debt sec",0,"outside Euro Area debt sec",1,"debt securities","2016-Q2",819.24327362266
+"328","United States debt sec",0,"outside Euro Area debt sec",1,"debt securities","2016-Q3",852.482413740575
+"329","United States debt sec",0,"outside Euro Area debt sec",1,"debt securities","2016-Q4",889.674172026151
+"330","United States debt sec",0,"outside Euro Area debt sec",1,"debt securities","2017-Q1",917.020499860987
+"331","United States debt sec",0,"outside Euro Area debt sec",1,"debt securities","2017-Q2",926.308233943783
+"332","United States debt sec",0,"outside Euro Area debt sec",1,"debt securities","2017-Q3",944.614316220563
+"333","United States debt sec",0,"outside Euro Area debt sec",1,"debt securities","2017-Q4",930.319731180837
+"334","Japan debt sec",0,"outside Euro Area debt sec",1,"debt securities","2008-Q4",26.593295
+"335","Japan debt sec",0,"outside Euro Area debt sec",1,"debt securities","2009-Q1",22.916979
+"336","Japan debt sec",0,"outside Euro Area debt sec",1,"debt securities","2009-Q2",22.213534
+"337","Japan debt sec",0,"outside Euro Area debt sec",1,"debt securities","2009-Q3",22.362579
+"338","Japan debt sec",0,"outside Euro Area debt sec",1,"debt securities","2009-Q4",16.165325
+"339","Japan debt sec",0,"outside Euro Area debt sec",1,"debt securities","2010-Q1",15.392366
+"340","Japan debt sec",0,"outside Euro Area debt sec",1,"debt securities","2010-Q2",16.035107
+"341","Japan debt sec",0,"outside Euro Area debt sec",1,"debt securities","2010-Q3",16.28258
+"342","Japan debt sec",0,"outside Euro Area debt sec",1,"debt securities","2010-Q4",16.04905
+"343","Japan debt sec",0,"outside Euro Area debt sec",1,"debt securities","2011-Q1",14.074047
+"344","Japan debt sec",0,"outside Euro Area debt sec",1,"debt securities","2011-Q2",17.683292
+"345","Japan debt sec",0,"outside Euro Area debt sec",1,"debt securities","2011-Q3",19.015715
+"346","Japan debt sec",0,"outside Euro Area debt sec",1,"debt securities","2011-Q4",20.527755
+"347","Japan debt sec",0,"outside Euro Area debt sec",1,"debt securities","2012-Q1",15.484509
+"348","Japan debt sec",0,"outside Euro Area debt sec",1,"debt securities","2012-Q2",17.845855
+"349","Japan debt sec",0,"outside Euro Area debt sec",1,"debt securities","2012-Q3",18.272891
+"350","Japan debt sec",0,"outside Euro Area debt sec",1,"debt securities","2012-Q4",16.233908
+"351","Japan debt sec",0,"outside Euro Area debt sec",1,"debt securities","2013-Q1",15.9669
+"352","Japan debt sec",0,"outside Euro Area debt sec",1,"debt securities","2013-Q2",15.216155
+"353","Japan debt sec",0,"outside Euro Area debt sec",1,"debt securities","2013-Q3",14.859205
+"354","Japan debt sec",0,"outside Euro Area debt sec",1,"debt securities","2013-Q4",13.674751
+"355","Japan debt sec",0,"outside Euro Area debt sec",1,"debt securities","2014-Q1",14.611616
+"356","Japan debt sec",0,"outside Euro Area debt sec",1,"debt securities","2014-Q2",15.116126
+"357","Japan debt sec",0,"outside Euro Area debt sec",1,"debt securities","2014-Q3",16.698252
+"358","Japan debt sec",0,"outside Euro Area debt sec",1,"debt securities","2014-Q4",18.580056
+"359","Japan debt sec",0,"outside Euro Area debt sec",1,"debt securities","2015-Q1",21.856569
+"360","Japan debt sec",0,"outside Euro Area debt sec",1,"debt securities","2015-Q2",21.353521354
+"361","Japan debt sec",0,"outside Euro Area debt sec",1,"debt securities","2015-Q3",27.163626387
+"362","Japan debt sec",0,"outside Euro Area debt sec",1,"debt securities","2015-Q4",31.25665997
+"363","Japan debt sec",0,"outside Euro Area debt sec",1,"debt securities","2016-Q1",31.2295935602108
+"364","Japan debt sec",0,"outside Euro Area debt sec",1,"debt securities","2016-Q2",34.2863443194289
+"365","Japan debt sec",0,"outside Euro Area debt sec",1,"debt securities","2016-Q3",41.344725
+"366","Japan debt sec",0,"outside Euro Area debt sec",1,"debt securities","2016-Q4",39.879071
+"367","Japan debt sec",0,"outside Euro Area debt sec",1,"debt securities","2017-Q1",41.770755
+"368","Japan debt sec",0,"outside Euro Area debt sec",1,"debt securities","2017-Q2",40.662616
+"369","Japan debt sec",0,"outside Euro Area debt sec",1,"debt securities","2017-Q3",45.570664
+"370","Japan debt sec",0,"outside Euro Area debt sec",1,"debt securities","2017-Q4",53.317592
+"371","other",0,"outside Euro Area debt sec",1,"debt securities","2008-Q4",182.964008
+"372","other",0,"outside Euro Area debt sec",1,"debt securities","2009-Q1",134.3344
+"373","other",0,"outside Euro Area debt sec",1,"debt securities","2009-Q2",160.620775
+"374","other",0,"outside Euro Area debt sec",1,"debt securities","2009-Q3",183.255633
+"375","other",0,"outside Euro Area debt sec",1,"debt securities","2009-Q4",202.288815
+"376","other",0,"outside Euro Area debt sec",1,"debt securities","2010-Q1",236.148403337859
+"377","other",0,"outside Euro Area debt sec",1,"debt securities","2010-Q2",266.821841492821
+"378","other",0,"outside Euro Area debt sec",1,"debt securities","2010-Q3",284.152320787599
+"379","other",0,"outside Euro Area debt sec",1,"debt securities","2010-Q4",306.6926489
+"380","other",0,"outside Euro Area debt sec",1,"debt securities","2011-Q1",308.892742
+"381","other",0,"outside Euro Area debt sec",1,"debt securities","2011-Q2",326.977332
+"382","other",0,"outside Euro Area debt sec",1,"debt securities","2011-Q3",327.188556
+"383","other",0,"outside Euro Area debt sec",1,"debt securities","2011-Q4",353.420601
+"384","other",0,"outside Euro Area debt sec",1,"debt securities","2012-Q1",374.947386
+"385","other",0,"outside Euro Area debt sec",1,"debt securities","2012-Q2",408.120826
+"386","other",0,"outside Euro Area debt sec",1,"debt securities","2012-Q3",437.576226
+"387","other",0,"outside Euro Area debt sec",1,"debt securities","2012-Q4",470.533885
+"388","other",0,"outside Euro Area debt sec",1,"debt securities","2013-Q1",510.046651543867
+"389","other",0,"outside Euro Area debt sec",1,"debt securities","2013-Q2",490.102602999999
+"390","other",0,"outside Euro Area debt sec",1,"debt securities","2013-Q3",487.111379
+"391","other",0,"outside Euro Area debt sec",1,"debt securities","2013-Q4",480.894146999999
+"392","other",0,"outside Euro Area debt sec",1,"debt securities","2014-Q1",453.363088
+"393","other",0,"outside Euro Area debt sec",1,"debt securities","2014-Q2",498.487963
+"394","other",0,"outside Euro Area debt sec",1,"debt securities","2014-Q3",536.742887521256
+"395","other",0,"outside Euro Area debt sec",1,"debt securities","2014-Q4",539.200776528257
+"396","other",0,"outside Euro Area debt sec",1,"debt securities","2015-Q1",607.108920994158
+"397","other",0,"outside Euro Area debt sec",1,"debt securities","2015-Q2",602.877320642214
+"398","other",0,"outside Euro Area debt sec",1,"debt securities","2015-Q3",557.107231461097
+"399","other",0,"outside Euro Area debt sec",1,"debt securities","2015-Q4",574.908709185868
+"400","other",0,"outside Euro Area debt sec",1,"debt securities","2016-Q1",580.207422708646
+"401","other",0,"outside Euro Area debt sec",1,"debt securities","2016-Q2",626.828664292479
+"402","other",0,"outside Euro Area debt sec",1,"debt securities","2016-Q3",662.405704097639
+"403","other",0,"outside Euro Area debt sec",1,"debt securities","2016-Q4",666.612875338255
+"404","other",0,"outside Euro Area debt sec",1,"debt securities","2017-Q1",716.731921277653
+"405","other",0,"outside Euro Area debt sec",1,"debt securities","2017-Q2",730.473092204001
+"406","other",0,"outside Euro Area debt sec",1,"debt securities","2017-Q3",761.215439372494
+"407","other",0,"outside Euro Area debt sec",1,"debt securities","2017-Q4",779.508160147408
+"408","Euro Area debt sec",1,"debt securities",2,"debt securities","2008-Q4",1196.658208
+"409","Euro Area debt sec",1,"debt securities",2,"debt securities","2009-Q1",1226.425523
+"410","Euro Area debt sec",1,"debt securities",2,"debt securities","2009-Q2",1290.990764
+"411","Euro Area debt sec",1,"debt securities",2,"debt securities","2009-Q3",1380.633392
+"412","Euro Area debt sec",1,"debt securities",2,"debt securities","2009-Q4",1408.787385
+"413","Euro Area debt sec",1,"debt securities",2,"debt securities","2010-Q1",1458.10204161145
+"414","Euro Area debt sec",1,"debt securities",2,"debt securities","2010-Q2",1439.90342351853
+"415","Euro Area debt sec",1,"debt securities",2,"debt securities","2010-Q3",1472.47644669458
+"416","Euro Area debt sec",1,"debt securities",2,"debt securities","2010-Q4",1431.7519618
+"417","Euro Area debt sec",1,"debt securities",2,"debt securities","2011-Q1",1430.333739
+"418","Euro Area debt sec",1,"debt securities",2,"debt securities","2011-Q2",1431.527995
+"419","Euro Area debt sec",1,"debt securities",2,"debt securities","2011-Q3",1413.660575
+"420","Euro Area debt sec",1,"debt securities",2,"debt securities","2011-Q4",1424.852207
+"421","Euro Area debt sec",1,"debt securities",2,"debt securities","2012-Q1",1504.411274
+"422","Euro Area debt sec",1,"debt securities",2,"debt securities","2012-Q2",1507.944198
+"423","Euro Area debt sec",1,"debt securities",2,"debt securities","2012-Q3",1569.379278
+"424","Euro Area debt sec",1,"debt securities",2,"debt securities","2012-Q4",1624.199465
+"425","Euro Area debt sec",1,"debt securities",2,"debt securities","2013-Q1",1635.55470529771
+"426","Euro Area debt sec",1,"debt securities",2,"debt securities","2013-Q2",1651.691345
+"427","Euro Area debt sec",1,"debt securities",2,"debt securities","2013-Q3",1689.185556
+"428","Euro Area debt sec",1,"debt securities",2,"debt securities","2013-Q4",1710.500972
+"429","Euro Area debt sec",1,"debt securities",2,"debt securities","2014-Q1",1845.635379
+"430","Euro Area debt sec",1,"debt securities",2,"debt securities","2014-Q2",1916.355463
+"431","Euro Area debt sec",1,"debt securities",2,"debt securities","2014-Q3",1960.09661323369
+"432","Euro Area debt sec",1,"debt securities",2,"debt securities","2014-Q4",1964.78244475274
+"433","Euro Area debt sec",1,"debt securities",2,"debt securities","2015-Q1",2078.47072864732
+"434","Euro Area debt sec",1,"debt securities",2,"debt securities","2015-Q2",1996.09581494947
+"435","Euro Area debt sec",1,"debt securities",2,"debt securities","2015-Q3",1992.45161350404
+"436","Euro Area debt sec",1,"debt securities",2,"debt securities","2015-Q4",1977.92135511099
+"437","Euro Area debt sec",1,"debt securities",2,"debt securities","2016-Q1",1983.83710476934
+"438","Euro Area debt sec",1,"debt securities",2,"debt securities","2016-Q2",2013.29427363377
+"439","Euro Area debt sec",1,"debt securities",2,"debt securities","2016-Q3",2033.32372408229
+"440","Euro Area debt sec",1,"debt securities",2,"debt securities","2016-Q4",1987.55975735947
+"441","Euro Area debt sec",1,"debt securities",2,"debt securities","2017-Q1",1978.83087320782
+"442","Euro Area debt sec",1,"debt securities",2,"debt securities","2017-Q2",2010.00472711081
+"443","Euro Area debt sec",1,"debt securities",2,"debt securities","2017-Q3",2030.56053003302
+"444","Euro Area debt sec",1,"debt securities",2,"debt securities","2017-Q4",2032.02621958364
+"445","outside Euro Area debt sec",1,"debt securities",2,"debt securities","2008-Q4",504.838551
+"446","outside Euro Area debt sec",1,"debt securities",2,"debt securities","2009-Q1",479.424857
+"447","outside Euro Area debt sec",1,"debt securities",2,"debt securities","2009-Q2",568.900487
+"448","outside Euro Area debt sec",1,"debt securities",2,"debt securities","2009-Q3",621.095434
+"449","outside Euro Area debt sec",1,"debt securities",2,"debt securities","2009-Q4",672.376221
+"450","outside Euro Area debt sec",1,"debt securities",2,"debt securities","2010-Q1",756.899085518734
+"451","outside Euro Area debt sec",1,"debt securities",2,"debt securities","2010-Q2",832.629145695471
+"452","outside Euro Area debt sec",1,"debt securities",2,"debt securities","2010-Q3",869.396089132749
+"453","outside Euro Area debt sec",1,"debt securities",2,"debt securities","2010-Q4",929.5756217
+"454","outside Euro Area debt sec",1,"debt securities",2,"debt securities","2011-Q1",918.545468
+"455","outside Euro Area debt sec",1,"debt securities",2,"debt securities","2011-Q2",953.685997
+"456","outside Euro Area debt sec",1,"debt securities",2,"debt securities","2011-Q3",966.712153
+"457","outside Euro Area debt sec",1,"debt securities",2,"debt securities","2011-Q4",1081.811939
+"458","outside Euro Area debt sec",1,"debt securities",2,"debt securities","2012-Q1",1172.032144
+"459","outside Euro Area debt sec",1,"debt securities",2,"debt securities","2012-Q2",1223.555082
+"460","outside Euro Area debt sec",1,"debt securities",2,"debt securities","2012-Q3",1288.651193
+"461","outside Euro Area debt sec",1,"debt securities",2,"debt securities","2012-Q4",1344.501028
+"462","outside Euro Area debt sec",1,"debt securities",2,"debt securities","2013-Q1",1436.12644070229
+"463","outside Euro Area debt sec",1,"debt securities",2,"debt securities","2013-Q2",1395.562593
+"464","outside Euro Area debt sec",1,"debt securities",2,"debt securities","2013-Q3",1409.788799
+"465","outside Euro Area debt sec",1,"debt securities",2,"debt securities","2013-Q4",1404.352877
+"466","outside Euro Area debt sec",1,"debt securities",2,"debt securities","2014-Q1",1398.907171
+"467","outside Euro Area debt sec",1,"debt securities",2,"debt securities","2014-Q2",1486.046207
+"468","outside Euro Area debt sec",1,"debt securities",2,"debt securities","2014-Q3",1603.75661640931
+"469","outside Euro Area debt sec",1,"debt securities",2,"debt securities","2014-Q4",1652.13290902426
+"470","outside Euro Area debt sec",1,"debt securities",2,"debt securities","2015-Q1",1888.04885481644
+"471","outside Euro Area debt sec",1,"debt securities",2,"debt securities","2015-Q2",1881.01574777369
+"472","outside Euro Area debt sec",1,"debt securities",2,"debt securities","2015-Q3",1842.76895947193
+"473","outside Euro Area debt sec",1,"debt securities",2,"debt securities","2015-Q4",1892.84037650201
+"474","outside Euro Area debt sec",1,"debt securities",2,"debt securities","2016-Q1",1917.28178778685
+"475","outside Euro Area debt sec",1,"debt securities",2,"debt securities","2016-Q2",2064.63499800754
+"476","outside Euro Area debt sec",1,"debt securities",2,"debt securities","2016-Q3",2181.19970857553
+"477","outside Euro Area debt sec",1,"debt securities",2,"debt securities","2016-Q4",2224.24880560667
+"478","outside Euro Area debt sec",1,"debt securities",2,"debt securities","2017-Q1",2340.10519571677
+"479","outside Euro Area debt sec",1,"debt securities",2,"debt securities","2017-Q2",2374.30959412908
+"480","outside Euro Area debt sec",1,"debt securities",2,"debt securities","2017-Q3",2437.49447227459
+"481","outside Euro Area debt sec",1,"debt securities",2,"debt securities","2017-Q4",2473.27429145268
+"482","Euro Area equity",1,"equity",2,"equity","2008-Q4",574.202225
+"483","Euro Area equity",1,"equity",2,"equity","2009-Q1",496.530481
+"484","Euro Area equity",1,"equity",2,"equity","2009-Q2",562.854784
+"485","Euro Area equity",1,"equity",2,"equity","2009-Q3",701.209444
+"486","Euro Area equity",1,"equity",2,"equity","2009-Q4",725.444456
+"487","Euro Area equity",1,"equity",2,"equity","2010-Q1",750.086227871824
+"488","Euro Area equity",1,"equity",2,"equity","2010-Q2",670.524855193341
+"489","Euro Area equity",1,"equity",2,"equity","2010-Q3",714.198878155743
+"490","Euro Area equity",1,"equity",2,"equity","2010-Q4",753.8645478
+"491","Euro Area equity",1,"equity",2,"equity","2011-Q1",786.534292
+"492","Euro Area equity",1,"equity",2,"equity","2011-Q2",775.766144
+"493","Euro Area equity",1,"equity",2,"equity","2011-Q3",621.736633
+"494","Euro Area equity",1,"equity",2,"equity","2011-Q4",636.992064
+"495","Euro Area equity",1,"equity",2,"equity","2012-Q1",689.390906
+"496","Euro Area equity",1,"equity",2,"equity","2012-Q2",639.59165
+"497","Euro Area equity",1,"equity",2,"equity","2012-Q3",685.523466
+"498","Euro Area equity",1,"equity",2,"equity","2012-Q4",721.670979
+"499","Euro Area equity",1,"equity",2,"equity","2013-Q1",738.414453931385
+"500","Euro Area equity",1,"equity",2,"equity","2013-Q2",737.890159
+"501","Euro Area equity",1,"equity",2,"equity","2013-Q3",816.74877
+"502","Euro Area equity",1,"equity",2,"equity","2013-Q4",886.014317
+"503","Euro Area equity",1,"equity",2,"equity","2014-Q1",920.999239
+"504","Euro Area equity",1,"equity",2,"equity","2014-Q2",943.945664
+"505","Euro Area equity",1,"equity",2,"equity","2014-Q3",930.711959731874
+"506","Euro Area equity",1,"equity",2,"equity","2014-Q4",929.3463158
+"507","Euro Area equity",1,"equity",2,"equity","2015-Q1",1110.49246020238
+"508","Euro Area equity",1,"equity",2,"equity","2015-Q2",1074.01742018423
+"509","Euro Area equity",1,"equity",2,"equity","2015-Q3",1037.643648888
+"510","Euro Area equity",1,"equity",2,"equity","2015-Q4",1129.3244730578
+"511","Euro Area equity",1,"equity",2,"equity","2016-Q1",1083.692176165
+"512","Euro Area equity",1,"equity",2,"equity","2016-Q2",1060.00044411997
+"513","Euro Area equity",1,"equity",2,"equity","2016-Q3",1124.51658488156
+"514","Euro Area equity",1,"equity",2,"equity","2016-Q4",1189.97930570635
+"515","Euro Area equity",1,"equity",2,"equity","2017-Q1",1284.94259013263
+"516","Euro Area equity",1,"equity",2,"equity","2017-Q2",1310.85337577864
+"517","Euro Area equity",1,"equity",2,"equity","2017-Q3",1383.74851243518
+"518","Euro Area equity",1,"equity",2,"equity","2017-Q4",1393.36547922081
+"519","outside Euro Area equity",1,"equity",2,"equity","2008-Q4",567.243966
+"520","outside Euro Area equity",1,"equity",2,"equity","2009-Q1",559.938113
+"521","outside Euro Area equity",1,"equity",2,"equity","2009-Q2",676.239843
+"522","outside Euro Area equity",1,"equity",2,"equity","2009-Q3",847.045233
+"523","outside Euro Area equity",1,"equity",2,"equity","2009-Q4",950.828917
+"524","outside Euro Area equity",1,"equity",2,"equity","2010-Q1",1065.458648649
+"525","outside Euro Area equity",1,"equity",2,"equity","2010-Q2",1043.034668415
+"526","outside Euro Area equity",1,"equity",2,"equity","2010-Q3",1082.132638085
+"527","outside Euro Area equity",1,"equity",2,"equity","2010-Q4",1238.854222
+"528","outside Euro Area equity",1,"equity",2,"equity","2011-Q1",1190.183556
+"529","outside Euro Area equity",1,"equity",2,"equity","2011-Q2",1184.104489
+"530","outside Euro Area equity",1,"equity",2,"equity","2011-Q3",1016.491165
+"531","outside Euro Area equity",1,"equity",2,"equity","2011-Q4",1099.942375
+"532","outside Euro Area equity",1,"equity",2,"equity","2012-Q1",1199.860475
+"533","outside Euro Area equity",1,"equity",2,"equity","2012-Q2",1179.348217
+"534","outside Euro Area equity",1,"equity",2,"equity","2012-Q3",1235.66621
+"535","outside Euro Area equity",1,"equity",2,"equity","2012-Q4",1265.210708
+"536","outside Euro Area equity",1,"equity",2,"equity","2013-Q1",1403.78991675906
+"537","outside Euro Area equity",1,"equity",2,"equity","2013-Q2",1356.821124
+"538","outside Euro Area equity",1,"equity",2,"equity","2013-Q3",1411.514386
+"539","outside Euro Area equity",1,"equity",2,"equity","2013-Q4",1483.333772
+"540","outside Euro Area equity",1,"equity",2,"equity","2014-Q1",1500.743214
+"541","outside Euro Area equity",1,"equity",2,"equity","2014-Q2",1625.396353
+"542","outside Euro Area equity",1,"equity",2,"equity","2014-Q3",1738.80593141228
+"543","outside Euro Area equity",1,"equity",2,"equity","2014-Q4",1820.56861684813
+"544","outside Euro Area equity",1,"equity",2,"equity","2015-Q1",2071.74716539783
+"545","outside Euro Area equity",1,"equity",2,"equity","2015-Q2",2037.82597008585
+"546","outside Euro Area equity",1,"equity",2,"equity","2015-Q3",1816.86728518524
+"547","outside Euro Area equity",1,"equity",2,"equity","2015-Q4",1953.657515808
+"548","outside Euro Area equity",1,"equity",2,"equity","2016-Q1",1845.08832370153
+"549","outside Euro Area equity",1,"equity",2,"equity","2016-Q2",1912.47984344829
+"550","outside Euro Area equity",1,"equity",2,"equity","2016-Q3",2008.11742445664
+"551","outside Euro Area equity",1,"equity",2,"equity","2016-Q4",2106.56982117357
+"552","outside Euro Area equity",1,"equity",2,"equity","2017-Q1",2227.21537892998
+"553","outside Euro Area equity",1,"equity",2,"equity","2017-Q2",2214.96483710401
+"554","outside Euro Area equity",1,"equity",2,"equity","2017-Q3",2280.19864337456
+"555","outside Euro Area equity",1,"equity",2,"equity","2017-Q4",2424.40873814461
+"556","outside Euro Area Equity",0,"outside Euro Area equity",1,"equity","2008-Q4",107.877953
+"557","outside Euro Area Equity",0,"outside Euro Area equity",1,"equity","2009-Q1",92.929132
+"558","outside Euro Area Equity",0,"outside Euro Area equity",1,"equity","2009-Q2",114.63851
+"559","outside Euro Area Equity",0,"outside Euro Area equity",1,"equity","2009-Q3",142.529071
+"560","outside Euro Area Equity",0,"outside Euro Area equity",1,"equity","2009-Q4",158.200098
+"561","outside Euro Area Equity",0,"outside Euro Area equity",1,"equity","2010-Q1",170.567162711
+"562","outside Euro Area Equity",0,"outside Euro Area equity",1,"equity","2010-Q2",161.149464887171
+"563","outside Euro Area Equity",0,"outside Euro Area equity",1,"equity","2010-Q3",176.360497595
+"564","outside Euro Area Equity",0,"outside Euro Area equity",1,"equity","2010-Q4",198.7846767
+"565","outside Euro Area Equity",0,"outside Euro Area equity",1,"equity","2011-Q1",193.836045
+"566","outside Euro Area Equity",0,"outside Euro Area equity",1,"equity","2011-Q2",192.47821
+"567","outside Euro Area Equity",0,"outside Euro Area equity",1,"equity","2011-Q3",167.270539
+"568","outside Euro Area Equity",0,"outside Euro Area equity",1,"equity","2011-Q4",182.294189
+"569","outside Euro Area Equity",0,"outside Euro Area equity",1,"equity","2012-Q1",187.976277
+"570","outside Euro Area Equity",0,"outside Euro Area equity",1,"equity","2012-Q2",190.053287
+"571","outside Euro Area Equity",0,"outside Euro Area equity",1,"equity","2012-Q3",199.985301
+"572","outside Euro Area Equity",0,"outside Euro Area equity",1,"equity","2012-Q4",203.501228
+"573","outside Euro Area Equity",0,"outside Euro Area equity",1,"equity","2013-Q1",217.60573455706
+"574","outside Euro Area Equity",0,"outside Euro Area equity",1,"equity","2013-Q2",210.099224
+"575","outside Euro Area Equity",0,"outside Euro Area equity",1,"equity","2013-Q3",227.775985
+"576","outside Euro Area Equity",0,"outside Euro Area equity",1,"equity","2013-Q4",246.562804
+"577","outside Euro Area Equity",0,"outside Euro Area equity",1,"equity","2014-Q1",247.116835
+"578","outside Euro Area Equity",0,"outside Euro Area equity",1,"equity","2014-Q2",260.764361
+"579","outside Euro Area Equity",0,"outside Euro Area equity",1,"equity","2014-Q3",265.001489260889
+"580","outside Euro Area Equity",0,"outside Euro Area equity",1,"equity","2014-Q4",266.87228169913
+"581","outside Euro Area Equity",0,"outside Euro Area equity",1,"equity","2015-Q1",310.70062887783
+"582","outside Euro Area Equity",0,"outside Euro Area equity",1,"equity","2015-Q2",323.29685670485
+"583","outside Euro Area Equity",0,"outside Euro Area equity",1,"equity","2015-Q3",303.564010098573
+"584","outside Euro Area Equity",0,"outside Euro Area equity",1,"equity","2015-Q4",323.580762406
+"585","outside Euro Area Equity",0,"outside Euro Area equity",1,"equity","2016-Q1",289.918261913529
+"586","outside Euro Area Equity",0,"outside Euro Area equity",1,"equity","2016-Q2",281.15270999874
+"587","outside Euro Area Equity",0,"outside Euro Area equity",1,"equity","2016-Q3",280.165393533094
+"588","outside Euro Area Equity",0,"outside Euro Area equity",1,"equity","2016-Q4",286.668732541447
+"589","outside Euro Area Equity",0,"outside Euro Area equity",1,"equity","2017-Q1",300.566624457285
+"590","outside Euro Area Equity",0,"outside Euro Area equity",1,"equity","2017-Q2",306.024475911068
+"591","outside Euro Area Equity",0,"outside Euro Area equity",1,"equity","2017-Q3",314.778697019935
+"592","outside Euro Area Equity",0,"outside Euro Area equity",1,"equity","2017-Q4",327.549393226748
+"593","Japan equity",0,"outside Euro Area equity",1,"equity","2008-Q4",59.137572
+"594","Japan equity",0,"outside Euro Area equity",1,"equity","2009-Q1",47.561834
+"595","Japan equity",0,"outside Euro Area equity",1,"equity","2009-Q2",59.106217
+"596","Japan equity",0,"outside Euro Area equity",1,"equity","2009-Q3",62.614545
+"597","Japan equity",0,"outside Euro Area equity",1,"equity","2009-Q4",65.48331
+"598","Japan equity",0,"outside Euro Area equity",1,"equity","2010-Q1",75.58179
+"599","Japan equity",0,"outside Euro Area equity",1,"equity","2010-Q2",78.333945
+"600","Japan equity",0,"outside Euro Area equity",1,"equity","2010-Q3",67.433359
+"601","Japan equity",0,"outside Euro Area equity",1,"equity","2010-Q4",83.92844
+"602","Japan equity",0,"outside Euro Area equity",1,"equity","2011-Q1",71.089362
+"603","Japan equity",0,"outside Euro Area equity",1,"equity","2011-Q2",76.77487
+"604","Japan equity",0,"outside Euro Area equity",1,"equity","2011-Q3",71.944936
+"605","Japan equity",0,"outside Euro Area equity",1,"equity","2011-Q4",71.84347
+"606","Japan equity",0,"outside Euro Area equity",1,"equity","2012-Q1",75.394855
+"607","Japan equity",0,"outside Euro Area equity",1,"equity","2012-Q2",78.173976
+"608","Japan equity",0,"outside Euro Area equity",1,"equity","2012-Q3",72.059524
+"609","Japan equity",0,"outside Euro Area equity",1,"equity","2012-Q4",78.063337
+"610","Japan equity",0,"outside Euro Area equity",1,"equity","2013-Q1",94.968561596
+"611","Japan equity",0,"outside Euro Area equity",1,"equity","2013-Q2",109.440419
+"612","Japan equity",0,"outside Euro Area equity",1,"equity","2013-Q3",112.698906
+"613","Japan equity",0,"outside Euro Area equity",1,"equity","2013-Q4",123.180122
+"614","Japan equity",0,"outside Euro Area equity",1,"equity","2014-Q1",116.435515
+"615","Japan equity",0,"outside Euro Area equity",1,"equity","2014-Q2",131.547172
+"616","Japan equity",0,"outside Euro Area equity",1,"equity","2014-Q3",137.410804176417
+"617","Japan equity",0,"outside Euro Area equity",1,"equity","2014-Q4",144.563654
+"618","Japan equity",0,"outside Euro Area equity",1,"equity","2015-Q1",173.733178469
+"619","Japan equity",0,"outside Euro Area equity",1,"equity","2015-Q2",183.233283088
+"620","Japan equity",0,"outside Euro Area equity",1,"equity","2015-Q3",155.586152379204
+"621","Japan equity",0,"outside Euro Area equity",1,"equity","2015-Q4",178.675272113
+"622","Japan equity",0,"outside Euro Area equity",1,"equity","2016-Q1",156.443481404222
+"623","Japan equity",0,"outside Euro Area equity",1,"equity","2016-Q2",167.414592621876
+"624","Japan equity",0,"outside Euro Area equity",1,"equity","2016-Q3",168.04021000336
+"625","Japan equity",0,"outside Euro Area equity",1,"equity","2016-Q4",188.910311456442
+"626","Japan equity",0,"outside Euro Area equity",1,"equity","2017-Q1",189.166878708658
+"627","Japan equity",0,"outside Euro Area equity",1,"equity","2017-Q2",196.779203624384
+"628","Japan equity",0,"outside Euro Area equity",1,"equity","2017-Q3",194.446080761482
+"629","Japan equity",0,"outside Euro Area equity",1,"equity","2017-Q4",218.826455879713
+"630","United States equity",0,"outside Euro Area equity",1,"equity","2008-Q4",181.011481
+"631","United States equity",0,"outside Euro Area equity",1,"equity","2009-Q1",188.204573
+"632","United States equity",0,"outside Euro Area equity",1,"equity","2009-Q2",205.259384
+"633","United States equity",0,"outside Euro Area equity",1,"equity","2009-Q3",262.391826
+"634","United States equity",0,"outside Euro Area equity",1,"equity","2009-Q4",290.783313
+"635","United States equity",0,"outside Euro Area equity",1,"equity","2010-Q1",329.624073014
+"636","United States equity",0,"outside Euro Area equity",1,"equity","2010-Q2",316.519693055907
+"637","United States equity",0,"outside Euro Area equity",1,"equity","2010-Q3",315.078147050736
+"638","United States equity",0,"outside Euro Area equity",1,"equity","2010-Q4",356.9027086
+"639","United States equity",0,"outside Euro Area equity",1,"equity","2011-Q1",365.451787
+"640","United States equity",0,"outside Euro Area equity",1,"equity","2011-Q2",364.832177
+"641","United States equity",0,"outside Euro Area equity",1,"equity","2011-Q3",323.295022
+"642","United States equity",0,"outside Euro Area equity",1,"equity","2011-Q4",358.866829
+"643","United States equity",0,"outside Euro Area equity",1,"equity","2012-Q1",390.495861
+"644","United States equity",0,"outside Euro Area equity",1,"equity","2012-Q2",392.643182
+"645","United States equity",0,"outside Euro Area equity",1,"equity","2012-Q3",412.823716
+"646","United States equity",0,"outside Euro Area equity",1,"equity","2012-Q4",408.149075
+"647","United States equity",0,"outside Euro Area equity",1,"equity","2013-Q1",478.273097790256
+"648","United States equity",0,"outside Euro Area equity",1,"equity","2013-Q2",481.935833
+"649","United States equity",0,"outside Euro Area equity",1,"equity","2013-Q3",502.385731
+"650","United States equity",0,"outside Euro Area equity",1,"equity","2013-Q4",535.958095
+"651","United States equity",0,"outside Euro Area equity",1,"equity","2014-Q1",554.705439
+"652","United States equity",0,"outside Euro Area equity",1,"equity","2014-Q2",598.758147
+"653","United States equity",0,"outside Euro Area equity",1,"equity","2014-Q3",662.272852081
+"654","United States equity",0,"outside Euro Area equity",1,"equity","2014-Q4",724.525195828
+"655","United States equity",0,"outside Euro Area equity",1,"equity","2015-Q1",812.819913586
+"656","United States equity",0,"outside Euro Area equity",1,"equity","2015-Q2",784.192411896478
+"657","United States equity",0,"outside Euro Area equity",1,"equity","2015-Q3",736.902810946919
+"658","United States equity",0,"outside Euro Area equity",1,"equity","2015-Q4",789.322645078
+"659","United States equity",0,"outside Euro Area equity",1,"equity","2016-Q1",756.733467472794
+"660","United States equity",0,"outside Euro Area equity",1,"equity","2016-Q2",790.114474814791
+"661","United States equity",0,"outside Euro Area equity",1,"equity","2016-Q3",824.365185013762
+"662","United States equity",0,"outside Euro Area equity",1,"equity","2016-Q4",887.262151408287
+"663","United States equity",0,"outside Euro Area equity",1,"equity","2017-Q1",925.33657242886
+"664","United States equity",0,"outside Euro Area equity",1,"equity","2017-Q2",898.828559478933
+"665","United States equity",0,"outside Euro Area equity",1,"equity","2017-Q3",923.827182275331
+"666","United States equity",0,"outside Euro Area equity",1,"equity","2017-Q4",981.618742739799
+"667","mfi equity",0,"Euro Area equity",1,"equity","2008-Q4",68.098581
+"668","mfi equity",0,"Euro Area equity",1,"equity","2009-Q1",49.939882
+"669","mfi equity",0,"Euro Area equity",1,"equity","2009-Q2",70.816497
+"670","mfi equity",0,"Euro Area equity",1,"equity","2009-Q3",99.437072
+"671","mfi equity",0,"Euro Area equity",1,"equity","2009-Q4",98.894679
+"672","mfi equity",0,"Euro Area equity",1,"equity","2010-Q1",96.34090077148
+"673","mfi equity",0,"Euro Area equity",1,"equity","2010-Q2",75.80694256046
+"674","mfi equity",0,"Euro Area equity",1,"equity","2010-Q3",81.45358412564
+"675","mfi equity",0,"Euro Area equity",1,"equity","2010-Q4",79.1508348
+"676","mfi equity",0,"Euro Area equity",1,"equity","2011-Q1",90.211346
+"677","mfi equity",0,"Euro Area equity",1,"equity","2011-Q2",84.4048
+"678","mfi equity",0,"Euro Area equity",1,"equity","2011-Q3",53.827427
+"679","mfi equity",0,"Euro Area equity",1,"equity","2011-Q4",47.579081
+"680","mfi equity",0,"Euro Area equity",1,"equity","2012-Q1",56.397501
+"681","mfi equity",0,"Euro Area equity",1,"equity","2012-Q2",45.467217
+"682","mfi equity",0,"Euro Area equity",1,"equity","2012-Q3",52.853278
+"683","mfi equity",0,"Euro Area equity",1,"equity","2012-Q4",60.824265
+"684","mfi equity",0,"Euro Area equity",1,"equity","2013-Q1",56.3787871098953
+"685","mfi equity",0,"Euro Area equity",1,"equity","2013-Q2",58.897555
+"686","mfi equity",0,"Euro Area equity",1,"equity","2013-Q3",72.614472
+"687","mfi equity",0,"Euro Area equity",1,"equity","2013-Q4",85.421125
+"688","mfi equity",0,"Euro Area equity",1,"equity","2014-Q1",92.414067
+"689","mfi equity",0,"Euro Area equity",1,"equity","2014-Q2",94.683546
+"690","mfi equity",0,"Euro Area equity",1,"equity","2014-Q3",92.523129217078
+"691","mfi equity",0,"Euro Area equity",1,"equity","2014-Q4",84.008236
+"692","mfi equity",0,"Euro Area equity",1,"equity","2015-Q1",104.837105034
+"693","mfi equity",0,"Euro Area equity",1,"equity","2015-Q2",101.88077989172
+"694","mfi equity",0,"Euro Area equity",1,"equity","2015-Q3",93.021820829258
+"695","mfi equity",0,"Euro Area equity",1,"equity","2015-Q4",92.109634861
+"696","mfi equity",0,"Euro Area equity",1,"equity","2016-Q1",73.686803295582
+"697","mfi equity",0,"Euro Area equity",1,"equity","2016-Q2",62.8861017348703
+"698","mfi equity",0,"Euro Area equity",1,"equity","2016-Q3",64.593836317
+"699","mfi equity",0,"Euro Area equity",1,"equity","2016-Q4",89.160690655235
+"700","mfi equity",0,"Euro Area equity",1,"equity","2017-Q1",97.728011948951
+"701","mfi equity",0,"Euro Area equity",1,"equity","2017-Q2",103.94498826691
+"702","mfi equity",0,"Euro Area equity",1,"equity","2017-Q3",115.004330804359
+"703","mfi equity",0,"Euro Area equity",1,"equity","2017-Q4",107.263153717761
+"704","ofi equity",0,"Euro Area equity",1,"equity","2008-Q4",26.490405
+"705","ofi equity",0,"Euro Area equity",1,"equity","2009-Q1",22.2691900000001
+"706","ofi equity",0,"Euro Area equity",1,"equity","2009-Q2",26.869282
+"707","ofi equity",0,"Euro Area equity",1,"equity","2009-Q3",32.6357380000001
+"708","ofi equity",0,"Euro Area equity",1,"equity","2009-Q4",31.5464510000001
+"709","ofi equity",0,"Euro Area equity",1,"equity","2010-Q1",33.2230260000001
+"710","ofi equity",0,"Euro Area equity",1,"equity","2010-Q2",31.3096630000001
+"711","ofi equity",0,"Euro Area equity",1,"equity","2010-Q3",36.500554
+"712","ofi equity",0,"Euro Area equity",1,"equity","2010-Q4",39.3857284
+"713","ofi equity",0,"Euro Area equity",1,"equity","2011-Q1",43.3397560000001
+"714","ofi equity",0,"Euro Area equity",1,"equity","2011-Q2",43.2027490000001
+"715","ofi equity",0,"Euro Area equity",1,"equity","2011-Q3",37.896782
+"716","ofi equity",0,"Euro Area equity",1,"equity","2011-Q4",39.183002
+"717","ofi equity",0,"Euro Area equity",1,"equity","2012-Q1",41.820534
+"718","ofi equity",0,"Euro Area equity",1,"equity","2012-Q2",39.030612
+"719","ofi equity",0,"Euro Area equity",1,"equity","2012-Q3",44.9619440000001
+"720","ofi equity",0,"Euro Area equity",1,"equity","2012-Q4",50.758194
+"721","ofi equity",0,"Euro Area equity",1,"equity","2013-Q1",49.4501689388726
+"722","ofi equity",0,"Euro Area equity",1,"equity","2013-Q2",51.933166
+"723","ofi equity",0,"Euro Area equity",1,"equity","2013-Q3",55.9249219999999
+"724","ofi equity",0,"Euro Area equity",1,"equity","2013-Q4",64.4671109999999
+"725","ofi equity",0,"Euro Area equity",1,"equity","2014-Q1",67.862935
+"726","ofi equity",0,"Euro Area equity",1,"equity","2014-Q2",71.4268430000001
+"727","ofi equity",0,"Euro Area equity",1,"equity","2014-Q3",76.360865
+"728","ofi equity",0,"Euro Area equity",1,"equity","2014-Q4",84.091198
+"729","ofi equity",0,"Euro Area equity",1,"equity","2015-Q1",96.64659687857
+"730","ofi equity",0,"Euro Area equity",1,"equity","2015-Q2",98.8901375314
+"731","ofi equity",0,"Euro Area equity",1,"equity","2015-Q3",96.6115442
+"732","ofi equity",0,"Euro Area equity",1,"equity","2015-Q4",109.7471725115
+"733","ofi equity",0,"Euro Area equity",1,"equity","2016-Q1",108.97458951925
+"734","ofi equity",0,"Euro Area equity",1,"equity","2016-Q2",115.46066069154
+"735","ofi equity",0,"Euro Area equity",1,"equity","2016-Q3",120.818146951565
+"736","ofi equity",0,"Euro Area equity",1,"equity","2016-Q4",129.33584268829
+"737","ofi equity",0,"Euro Area equity",1,"equity","2017-Q1",139.4519022569
+"738","ofi equity",0,"Euro Area equity",1,"equity","2017-Q2",149.75595258671
+"739","ofi equity",0,"Euro Area equity",1,"equity","2017-Q3",165.11916859229
+"740","ofi equity",0,"Euro Area equity",1,"equity","2017-Q4",173.47076137362
+"1100","Investment fund and money market shares",4,"bond funds",5,"equity","2008-Q4",1266.887958
+"4100","Investment fund and money market shares",4,"bond funds",5,"equity","2009-Q1",1260.17057
+"741","Investment fund and money market shares",4,"bond funds",5,"equity","2009-Q2",1420.075001
+"1010","Investment fund and money market shares",4,"bond funds",5,"equity","2009-Q3",1528.696613
+"1310","Investment fund and money market shares",4,"bond funds",5,"equity","2009-Q4",1574.573264
+"1610","Investment fund and money market shares",4,"bond funds",5,"equity","2010-Q1",1699.94014856765
+"1910","Investment fund and money market shares",4,"bond funds",5,"equity","2010-Q2",1749.75972799432
+"2210","Investment fund and money market shares",4,"bond funds",5,"equity","2010-Q3",1812.346056644
+"2510","Investment fund and money market shares",4,"bond funds",5,"equity","2010-Q4",1810.6138858
+"2810","Investment fund and money market shares",4,"bond funds",5,"equity","2011-Q1",1802.451553
+"3110","Investment fund and money market shares",4,"bond funds",5,"equity","2011-Q2",1813.619269
+"3410","Investment fund and money market shares",4,"bond funds",5,"equity","2011-Q3",1789.661441
+"3710","Investment fund and money market shares",4,"bond funds",5,"equity","2011-Q4",1929.371991
+"4010","Investment fund and money market shares",4,"bond funds",5,"equity","2012-Q1",2092.65243
+"4310","Investment fund and money market shares",4,"bond funds",5,"equity","2012-Q2",2177.178986
+"4610","Investment fund and money market shares",4,"bond funds",5,"equity","2012-Q3",2277.932974
+"4910","Investment fund and money market shares",4,"bond funds",5,"equity","2012-Q4",2378.748463
+"5210","Investment fund and money market shares",4,"bond funds",5,"equity","2013-Q1",2449.39088
+"5510","Investment fund and money market shares",4,"bond funds",5,"equity","2013-Q2",2418.37775
+"5810","Investment fund and money market shares",4,"bond funds",5,"equity","2013-Q3",2426.866433
+"6110","Investment fund and money market shares",4,"bond funds",5,"equity","2013-Q4",2473.663852
+"6410","Investment fund and money market shares",4,"bond funds",5,"equity","2014-Q1",2515.402208
+"6710","Investment fund and money market shares",4,"bond funds",5,"equity","2014-Q2",2611.706027
+"7010","Investment fund and money market shares",4,"bond funds",5,"equity","2014-Q3",2724.424307028
+"7310","Investment fund and money market shares",4,"bond funds",5,"equity","2014-Q4",2740.642184649
+"761","Investment fund and money market shares",4,"bond funds",5,"equity","2015-Q1",2980.521565593
+"791","Investment fund and money market shares",4,"bond funds",5,"equity","2015-Q2",2908.059739492
+"821","Investment fund and money market shares",4,"bond funds",5,"equity","2015-Q3",2796.686305954
+"851","Investment fund and money market shares",4,"bond funds",5,"equity","2015-Q4",2804.025111037
+"881","Investment fund and money market shares",4,"bond funds",5,"equity","2016-Q1",2819.745202751
+"911","Investment fund and money market shares",4,"bond funds",5,"equity","2016-Q2",2928.217183931
+"941","Investment fund and money market shares",4,"bond funds",5,"equity","2016-Q3",3026.308139588
+"971","Investment fund and money market shares",4,"bond funds",5,"equity","2016-Q4",3011.023340076
+"1001","Investment fund and money market shares",4,"bond funds",5,"equity","2017-Q1",3105.176115491
+"1031","Investment fund and money market shares",4,"bond funds",5,"equity","2017-Q2",3160.740780657
+"1061","Investment fund and money market shares",4,"bond funds",5,"equity","2017-Q3",3225.744314464
+"1091","Investment fund and money market shares",4,"bond funds",5,"equity","2017-Q4",3254.521016998
+"1101","Investment fund and money market shares",4,"equity funds",5,"equity","2008-Q4",978.32082
+"4101","Investment fund and money market shares",4,"equity funds",5,"equity","2009-Q1",912.883103
+"742","Investment fund and money market shares",4,"equity funds",5,"equity","2009-Q2",1082.164894
+"1011","Investment fund and money market shares",4,"equity funds",5,"equity","2009-Q3",1351.847929
+"1311","Investment fund and money market shares",4,"equity funds",5,"equity","2009-Q4",1459.290112
+"1611","Investment fund and money market shares",4,"equity funds",5,"equity","2010-Q1",1572.15050042579
+"1911","Investment fund and money market shares",4,"equity funds",5,"equity","2010-Q2",1495.17681003896
+"2211","Investment fund and money market shares",4,"equity funds",5,"equity","2010-Q3",1561.1601771864
+"2511","Investment fund and money market shares",4,"equity funds",5,"equity","2010-Q4",1732.3525844
+"2811","Investment fund and money market shares",4,"equity funds",5,"equity","2011-Q1",1715.156908
+"3111","Investment fund and money market shares",4,"equity funds",5,"equity","2011-Q2",1696.955012
+"3411","Investment fund and money market shares",4,"equity funds",5,"equity","2011-Q3",1419.465588
+"3711","Investment fund and money market shares",4,"equity funds",5,"equity","2011-Q4",1501.941896
+"4011","Investment fund and money market shares",4,"equity funds",5,"equity","2012-Q1",1641.980656
+"4311","Investment fund and money market shares",4,"equity funds",5,"equity","2012-Q2",1571.176376
+"4611","Investment fund and money market shares",4,"equity funds",5,"equity","2012-Q3",1654.119851
+"4911","Investment fund and money market shares",4,"equity funds",5,"equity","2012-Q4",1706.173432
+"5211","Investment fund and money market shares",4,"equity funds",5,"equity","2013-Q1",1842.299885
+"5511","Investment fund and money market shares",4,"equity funds",5,"equity","2013-Q2",1782.976812
+"5811","Investment fund and money market shares",4,"equity funds",5,"equity","2013-Q3",1908.629301
+"6111","Investment fund and money market shares",4,"equity funds",5,"equity","2013-Q4",2043.434146
+"6411","Investment fund and money market shares",4,"equity funds",5,"equity","2014-Q1",2096.223655
+"6711","Investment fund and money market shares",4,"equity funds",5,"equity","2014-Q2",2227.354121
+"7011","Investment fund and money market shares",4,"equity funds",5,"equity","2014-Q3",2312.273619915
+"7311","Investment fund and money market shares",4,"equity funds",5,"equity","2014-Q4",2435.342632277
+"762","Investment fund and money market shares",4,"equity funds",5,"equity","2015-Q1",2812.387804875
+"792","Investment fund and money market shares",4,"equity funds",5,"equity","2015-Q2",2743.382774237
+"822","Investment fund and money market shares",4,"equity funds",5,"equity","2015-Q3",2476.223157492
+"852","Investment fund and money market shares",4,"equity funds",5,"equity","2015-Q4",2687.003308424
+"882","Investment fund and money market shares",4,"equity funds",5,"equity","2016-Q1",2549.536706454
+"912","Investment fund and money market shares",4,"equity funds",5,"equity","2016-Q2",2547.519970062
+"942","Investment fund and money market shares",4,"equity funds",5,"equity","2016-Q3",2676.887858331
+"972","Investment fund and money market shares",4,"equity funds",5,"equity","2016-Q4",2818.146584475
+"1002","Investment fund and money market shares",4,"equity funds",5,"equity","2017-Q1",2994.097052404
+"1032","Investment fund and money market shares",4,"equity funds",5,"equity","2017-Q2",3015.703399772
+"1062","Investment fund and money market shares",4,"equity funds",5,"equity","2017-Q3",3122.052339817
+"1092","Investment fund and money market shares",4,"equity funds",5,"equity","2017-Q4",3256.34349646
+"1102","Investment fund and money market shares",4,"mixed funds",5,"equity","2008-Q4",1130.758468
+"4102","Investment fund and money market shares",4,"mixed funds",5,"equity","2009-Q1",1092.934522
+"743","Investment fund and money market shares",4,"mixed funds",5,"equity","2009-Q2",1115.786522
+"1012","Investment fund and money market shares",4,"mixed funds",5,"equity","2009-Q3",1200.782184
+"1312","Investment fund and money market shares",4,"mixed funds",5,"equity","2009-Q4",1257.877778
+"1612","Investment fund and money market shares",4,"mixed funds",5,"equity","2010-Q1",1307.87537557092
+"1912","Investment fund and money market shares",4,"mixed funds",5,"equity","2010-Q2",1319.6126876472
+"2212","Investment fund and money market shares",4,"mixed funds",5,"equity","2010-Q3",1372.137206452
+"2512","Investment fund and money market shares",4,"mixed funds",5,"equity","2010-Q4",1427.9107807
+"2812","Investment fund and money market shares",4,"mixed funds",5,"equity","2011-Q1",1440.282324
+"3112","Investment fund and money market shares",4,"mixed funds",5,"equity","2011-Q2",1458.467112
+"3412","Investment fund and money market shares",4,"mixed funds",5,"equity","2011-Q3",1411.806583
+"3712","Investment fund and money market shares",4,"mixed funds",5,"equity","2011-Q4",1424.931433
+"4012","Investment fund and money market shares",4,"mixed funds",5,"equity","2012-Q1",1495.137225
+"4312","Investment fund and money market shares",4,"mixed funds",5,"equity","2012-Q2",1478.868486
+"4612","Investment fund and money market shares",4,"mixed funds",5,"equity","2012-Q3",1551.434559
+"4912","Investment fund and money market shares",4,"mixed funds",5,"equity","2012-Q4",1597.711865
+"5212","Investment fund and money market shares",4,"mixed funds",5,"equity","2013-Q1",1685.525807
+"5512","Investment fund and money market shares",4,"mixed funds",5,"equity","2013-Q2",1683.914665
+"5812","Investment fund and money market shares",4,"mixed funds",5,"equity","2013-Q3",1748.106625
+"6112","Investment fund and money market shares",4,"mixed funds",5,"equity","2013-Q4",1806.479418
+"6412","Investment fund and money market shares",4,"mixed funds",5,"equity","2014-Q1",1888.564373
+"6712","Investment fund and money market shares",4,"mixed funds",5,"equity","2014-Q2",1995.643886
+"7012","Investment fund and money market shares",4,"mixed funds",5,"equity","2014-Q3",2080.73555919961
+"7312","Investment fund and money market shares",4,"mixed funds",5,"equity","2014-Q4",2080.07534491
+"763","Investment fund and money market shares",4,"mixed funds",5,"equity","2015-Q1",2337.130967219
+"793","Investment fund and money market shares",4,"mixed funds",5,"equity","2015-Q2",2371.051938891
+"823","Investment fund and money market shares",4,"mixed funds",5,"equity","2015-Q3",2342.985876522
+"853","Investment fund and money market shares",4,"mixed funds",5,"equity","2015-Q4",2436.244806924
+"883","Investment fund and money market shares",4,"mixed funds",5,"equity","2016-Q1",2427.883466358
+"913","Investment fund and money market shares",4,"mixed funds",5,"equity","2016-Q2",2482.019506549
+"943","Investment fund and money market shares",4,"mixed funds",5,"equity","2016-Q3",2557.323552544
+"973","Investment fund and money market shares",4,"mixed funds",5,"equity","2016-Q4",2609.012615419
+"1003","Investment fund and money market shares",4,"mixed funds",5,"equity","2017-Q1",2709.032504244
+"1033","Investment fund and money market shares",4,"mixed funds",5,"equity","2017-Q2",2766.655773053
+"1063","Investment fund and money market shares",4,"mixed funds",5,"equity","2017-Q3",2823.254183451
+"1093","Investment fund and money market shares",4,"mixed funds",5,"equity","2017-Q4",2886.888416028
+"1103","Investment fund and money market shares",4,"real estate funds",5,"equity","2008-Q4",223.219104
+"4103","Investment fund and money market shares",4,"real estate funds",5,"equity","2009-Q1",226.462377
+"744","Investment fund and money market shares",4,"real estate funds",5,"equity","2009-Q2",232.9357
+"1013","Investment fund and money market shares",4,"real estate funds",5,"equity","2009-Q3",236.720965
+"1313","Investment fund and money market shares",4,"real estate funds",5,"equity","2009-Q4",250.310633
+"1613","Investment fund and money market shares",4,"real estate funds",5,"equity","2010-Q1",265.701217
+"1913","Investment fund and money market shares",4,"real estate funds",5,"equity","2010-Q2",265.237831
+"2213","Investment fund and money market shares",4,"real estate funds",5,"equity","2010-Q3",267.942078
+"2513","Investment fund and money market shares",4,"real estate funds",5,"equity","2010-Q4",273.28209
+"2813","Investment fund and money market shares",4,"real estate funds",5,"equity","2011-Q1",277.485575
+"3113","Investment fund and money market shares",4,"real estate funds",5,"equity","2011-Q2",280.921654
+"3413","Investment fund and money market shares",4,"real estate funds",5,"equity","2011-Q3",294.879189
+"3713","Investment fund and money market shares",4,"real estate funds",5,"equity","2011-Q4",301.304352
+"4013","Investment fund and money market shares",4,"real estate funds",5,"equity","2012-Q1",312.196392
+"4313","Investment fund and money market shares",4,"real estate funds",5,"equity","2012-Q2",315.969266
+"4613","Investment fund and money market shares",4,"real estate funds",5,"equity","2012-Q3",319.125221
+"4913","Investment fund and money market shares",4,"real estate funds",5,"equity","2012-Q4",322.720375
+"5213","Investment fund and money market shares",4,"real estate funds",5,"equity","2013-Q1",330.564588
+"5513","Investment fund and money market shares",4,"real estate funds",5,"equity","2013-Q2",334.12451
+"5813","Investment fund and money market shares",4,"real estate funds",5,"equity","2013-Q3",337.146594
+"6113","Investment fund and money market shares",4,"real estate funds",5,"equity","2013-Q4",343.489448
+"6413","Investment fund and money market shares",4,"real estate funds",5,"equity","2014-Q1",349.789667
+"6713","Investment fund and money market shares",4,"real estate funds",5,"equity","2014-Q2",358.805974
+"7013","Investment fund and money market shares",4,"real estate funds",5,"equity","2014-Q3",369.688287838
+"7313","Investment fund and money market shares",4,"real estate funds",5,"equity","2014-Q4",389.00917761
+"764","Investment fund and money market shares",4,"real estate funds",5,"equity","2015-Q1",403.125436209
+"794","Investment fund and money market shares",4,"real estate funds",5,"equity","2015-Q2",408.067407329
+"824","Investment fund and money market shares",4,"real estate funds",5,"equity","2015-Q3",436.570149065
+"854","Investment fund and money market shares",4,"real estate funds",5,"equity","2015-Q4",455.188486765
+"884","Investment fund and money market shares",4,"real estate funds",5,"equity","2016-Q1",467.694843766
+"914","Investment fund and money market shares",4,"real estate funds",5,"equity","2016-Q2",485.844616449
+"944","Investment fund and money market shares",4,"real estate funds",5,"equity","2016-Q3",494.676843982
+"974","Investment fund and money market shares",4,"real estate funds",5,"equity","2016-Q4",509.895656375
+"1004","Investment fund and money market shares",4,"real estate funds",5,"equity","2017-Q1",525.870593084
+"1034","Investment fund and money market shares",4,"real estate funds",5,"equity","2017-Q2",540.383800743
+"1064","Investment fund and money market shares",4,"real estate funds",5,"equity","2017-Q3",552.642768815
+"1094","Investment fund and money market shares",4,"real estate funds",5,"equity","2017-Q4",566.247387909
+"1104","Investment fund and money market shares",4,"hedge funds",5,"equity","2008-Q4",90.839783
+"4104","Investment fund and money market shares",4,"hedge funds",5,"equity","2009-Q1",83.724389
+"745","Investment fund and money market shares",4,"hedge funds",5,"equity","2009-Q2",85.758713
+"1014","Investment fund and money market shares",4,"hedge funds",5,"equity","2009-Q3",85.098499
+"1314","Investment fund and money market shares",4,"hedge funds",5,"equity","2009-Q4",93.528514
+"1614","Investment fund and money market shares",4,"hedge funds",5,"equity","2010-Q1",109.110732
+"1914","Investment fund and money market shares",4,"hedge funds",5,"equity","2010-Q2",116.98588
+"2214","Investment fund and money market shares",4,"hedge funds",5,"equity","2010-Q3",110.20612
+"2514","Investment fund and money market shares",4,"hedge funds",5,"equity","2010-Q4",117.307326
+"2814","Investment fund and money market shares",4,"hedge funds",5,"equity","2011-Q1",118.997913
+"3114","Investment fund and money market shares",4,"hedge funds",5,"equity","2011-Q2",119.387987
+"3414","Investment fund and money market shares",4,"hedge funds",5,"equity","2011-Q3",125.325321
+"3714","Investment fund and money market shares",4,"hedge funds",5,"equity","2011-Q4",129.953552
+"4014","Investment fund and money market shares",4,"hedge funds",5,"equity","2012-Q1",134.039827
+"4314","Investment fund and money market shares",4,"hedge funds",5,"equity","2012-Q2",138.317003
+"4614","Investment fund and money market shares",4,"hedge funds",5,"equity","2012-Q3",140.058556
+"4914","Investment fund and money market shares",4,"hedge funds",5,"equity","2012-Q4",141.266121
+"5214","Investment fund and money market shares",4,"hedge funds",5,"equity","2013-Q1",153.972806
+"5514","Investment fund and money market shares",4,"hedge funds",5,"equity","2013-Q2",157.114727
+"5814","Investment fund and money market shares",4,"hedge funds",5,"equity","2013-Q3",160.77107
+"6114","Investment fund and money market shares",4,"hedge funds",5,"equity","2013-Q4",158.764171
+"6414","Investment fund and money market shares",4,"hedge funds",5,"equity","2014-Q1",169.450385
+"6714","Investment fund and money market shares",4,"hedge funds",5,"equity","2014-Q2",177.322143
+"7014","Investment fund and money market shares",4,"hedge funds",5,"equity","2014-Q3",190.090353
+"7314","Investment fund and money market shares",4,"hedge funds",5,"equity","2014-Q4",309.080463
+"765","Investment fund and money market shares",4,"hedge funds",5,"equity","2015-Q1",344.937767
+"795","Investment fund and money market shares",4,"hedge funds",5,"equity","2015-Q2",355.582267
+"825","Investment fund and money market shares",4,"hedge funds",5,"equity","2015-Q3",356.620292
+"855","Investment fund and money market shares",4,"hedge funds",5,"equity","2015-Q4",369.854081
+"885","Investment fund and money market shares",4,"hedge funds",5,"equity","2016-Q1",358.358259
+"915","Investment fund and money market shares",4,"hedge funds",5,"equity","2016-Q2",355.62102
+"945","Investment fund and money market shares",4,"hedge funds",5,"equity","2016-Q3",326.786102
+"975","Investment fund and money market shares",4,"hedge funds",5,"equity","2016-Q4",334.657562
+"1005","Investment fund and money market shares",4,"hedge funds",5,"equity","2017-Q1",343.568274
+"1035","Investment fund and money market shares",4,"hedge funds",5,"equity","2017-Q2",341.163433
+"1065","Investment fund and money market shares",4,"hedge funds",5,"equity","2017-Q3",349.251924
+"1095","Investment fund and money market shares",4,"hedge funds",5,"equity","2017-Q4",364.496077
+"1105","Investment fund and money market shares",4,"other funds",5,"equity","2008-Q4",352.599291
+"4105","Investment fund and money market shares",4,"other funds",5,"equity","2009-Q1",342.378475
+"746","Investment fund and money market shares",4,"other funds",5,"equity","2009-Q2",357.76952
+"1015","Investment fund and money market shares",4,"other funds",5,"equity","2009-Q3",368.876509
+"1315","Investment fund and money market shares",4,"other funds",5,"equity","2009-Q4",373.70716
+"1615","Investment fund and money market shares",4,"other funds",5,"equity","2010-Q1",400.8546594635
+"1915","Investment fund and money market shares",4,"other funds",5,"equity","2010-Q2",405.686075598
+"2215","Investment fund and money market shares",4,"other funds",5,"equity","2010-Q3",413.5288705876
+"2515","Investment fund and money market shares",4,"other funds",5,"equity","2010-Q4",420.5541281
+"2815","Investment fund and money market shares",4,"other funds",5,"equity","2011-Q1",432.594997
+"3115","Investment fund and money market shares",4,"other funds",5,"equity","2011-Q2",438.958775
+"3415","Investment fund and money market shares",4,"other funds",5,"equity","2011-Q3",389.538426
+"3715","Investment fund and money market shares",4,"other funds",5,"equity","2011-Q4",388.820444
+"4015","Investment fund and money market shares",4,"other funds",5,"equity","2012-Q1",404.095166
+"4315","Investment fund and money market shares",4,"other funds",5,"equity","2012-Q2",402.128434
+"4615","Investment fund and money market shares",4,"other funds",5,"equity","2012-Q3",411.571995
+"4915","Investment fund and money market shares",4,"other funds",5,"equity","2012-Q4",418.361383
+"5215","Investment fund and money market shares",4,"other funds",5,"equity","2013-Q1",435.474728
+"5515","Investment fund and money market shares",4,"other funds",5,"equity","2013-Q2",447.620197
+"5815","Investment fund and money market shares",4,"other funds",5,"equity","2013-Q3",467.406963
+"6115","Investment fund and money market shares",4,"other funds",5,"equity","2013-Q4",441.166734
+"6415","Investment fund and money market shares",4,"other funds",5,"equity","2014-Q1",470.078549
+"6715","Investment fund and money market shares",4,"other funds",5,"equity","2014-Q2",496.864516
+"7015","Investment fund and money market shares",4,"other funds",5,"equity","2014-Q3",518.286603279
+"7315","Investment fund and money market shares",4,"other funds",5,"equity","2014-Q4",519.518280429
+"766","Investment fund and money market shares",4,"other funds",5,"equity","2015-Q1",570.951520396
+"796","Investment fund and money market shares",4,"other funds",5,"equity","2015-Q2",576.846584
+"826","Investment fund and money market shares",4,"other funds",5,"equity","2015-Q3",595.840317
+"856","Investment fund and money market shares",4,"other funds",5,"equity","2015-Q4",612.002359
+"886","Investment fund and money market shares",4,"other funds",5,"equity","2016-Q1",619.779757228333
+"916","Investment fund and money market shares",4,"other funds",5,"equity","2016-Q2",680.257418358
+"946","Investment fund and money market shares",4,"other funds",5,"equity","2016-Q3",740.990399836
+"976","Investment fund and money market shares",4,"other funds",5,"equity","2016-Q4",768.245706681
+"1006","Investment fund and money market shares",4,"other funds",5,"equity","2017-Q1",808.970952586
+"1036","Investment fund and money market shares",4,"other funds",5,"equity","2017-Q2",828.856962621
+"1066","Investment fund and money market shares",4,"other funds",5,"equity","2017-Q3",856.979260549
+"1096","Investment fund and money market shares",4,"other funds",5,"equity","2017-Q4",883.446394459
+"1106","icpf equity",0,"Euro Area equity",1,"total","2008-Q4",26.066331
+"2100","icpf equity",0,"Euro Area equity",1,"total","2009-Q1",19.760268
+"3100","icpf equity",0,"Euro Area equity",1,"total","2009-Q2",17.02239
+"4106","icpf equity",0,"Euro Area equity",1,"total","2009-Q3",24.617177
+"5100","icpf equity",0,"Euro Area equity",1,"total","2009-Q4",23.63735
+"6100","icpf equity",0,"Euro Area equity",1,"total","2010-Q1",28.32757604792
+"747","icpf equity",0,"Euro Area equity",1,"total","2010-Q2",23.90106733248
+"810","icpf equity",0,"Euro Area equity",1,"total","2010-Q3",24.24678725189
+"910","icpf equity",0,"Euro Area equity",1,"total","2010-Q4",25.2162783
+"1016","icpf equity",0,"Euro Area equity",1,"total","2011-Q1",26.125521
+"1110","icpf equity",0,"Euro Area equity",1,"total","2011-Q2",26.002376
+"1210","icpf equity",0,"Euro Area equity",1,"total","2011-Q3",20.447825
+"1316","icpf equity",0,"Euro Area equity",1,"total","2011-Q4",21.441856
+"1410","icpf equity",0,"Euro Area equity",1,"total","2012-Q1",24.060348
+"1510","icpf equity",0,"Euro Area equity",1,"total","2012-Q2",21.855211
+"1616","icpf equity",0,"Euro Area equity",1,"total","2012-Q3",24.128716
+"1710","icpf equity",0,"Euro Area equity",1,"total","2012-Q4",27.606984
+"1810","icpf equity",0,"Euro Area equity",1,"total","2013-Q1",26.98521790969
+"1916","icpf equity",0,"Euro Area equity",1,"total","2013-Q2",28.135362
+"2010","icpf equity",0,"Euro Area equity",1,"total","2013-Q3",30.359666
+"2110","icpf equity",0,"Euro Area equity",1,"total","2013-Q4",35.495337
+"2216","icpf equity",0,"Euro Area equity",1,"total","2014-Q1",33.241407
+"2310","icpf equity",0,"Euro Area equity",1,"total","2014-Q2",29.049705
+"2410","icpf equity",0,"Euro Area equity",1,"total","2014-Q3",29.3449585715
+"2516","icpf equity",0,"Euro Area equity",1,"total","2014-Q4",31.595165
+"2610","icpf equity",0,"Euro Area equity",1,"total","2015-Q1",36.487408375
+"2710","icpf equity",0,"Euro Area equity",1,"total","2015-Q2",31.40527816955
+"2816","icpf equity",0,"Euro Area equity",1,"total","2015-Q3",32.48511589625
+"2910","icpf equity",0,"Euro Area equity",1,"total","2015-Q4",38.054290940625
+"3010","icpf equity",0,"Euro Area equity",1,"total","2016-Q1",34.449915520925
+"3116","icpf equity",0,"Euro Area equity",1,"total","2016-Q2",29.08313840485
+"3210","icpf equity",0,"Euro Area equity",1,"total","2016-Q3",30.3149956794751
+"3310","icpf equity",0,"Euro Area equity",1,"total","2016-Q4",35.9393828744
+"3416","icpf equity",0,"Euro Area equity",1,"total","2017-Q1",38.214138910245
+"3510","icpf equity",0,"Euro Area equity",1,"total","2017-Q2",36.715689667
+"3610","icpf equity",0,"Euro Area equity",1,"total","2017-Q3",39.7401623736
+"3716","icpf equity",0,"Euro Area equity",1,"total","2017-Q4",39.131529354
+"1107","nfc equity",0,"Euro Area equity",1,"total","2008-Q4",453.285907
+"2101","nfc equity",0,"Euro Area equity",1,"total","2009-Q1",404.548152
+"3101","nfc equity",0,"Euro Area equity",1,"total","2009-Q2",448.150017
+"4107","nfc equity",0,"Euro Area equity",1,"total","2009-Q3",544.504455
+"5101","nfc equity",0,"Euro Area equity",1,"total","2009-Q4",571.364975
+"6101","nfc equity",0,"Euro Area equity",1,"total","2010-Q1",592.20472705214
+"748","nfc equity",0,"Euro Area equity",1,"total","2010-Q2",539.487184300086
+"811","nfc equity",0,"Euro Area equity",1,"total","2010-Q3",571.9799537783
+"917","nfc equity",0,"Euro Area equity",1,"total","2010-Q4",610.1097049
+"1017","nfc equity",0,"Euro Area equity",1,"total","2011-Q1",626.856672
+"1111","nfc equity",0,"Euro Area equity",1,"total","2011-Q2",622.150232
+"1211","nfc equity",0,"Euro Area equity",1,"total","2011-Q3",509.558601
+"1317","nfc equity",0,"Euro Area equity",1,"total","2011-Q4",528.770124
+"1411","nfc equity",0,"Euro Area equity",1,"total","2012-Q1",567.102526
+"1511","nfc equity",0,"Euro Area equity",1,"total","2012-Q2",533.219613
+"1617","nfc equity",0,"Euro Area equity",1,"total","2012-Q3",563.568526
+"1711","nfc equity",0,"Euro Area equity",1,"total","2012-Q4",582.474732
+"1811","nfc equity",0,"Euro Area equity",1,"total","2013-Q1",605.586284972816
+"1917","nfc equity",0,"Euro Area equity",1,"total","2013-Q2",598.897167
+"2011","nfc equity",0,"Euro Area equity",1,"total","2013-Q3",657.836819
+"2111","nfc equity",0,"Euro Area equity",1,"total","2013-Q4",700.620838
+"2217","nfc equity",0,"Euro Area equity",1,"total","2014-Q1",727.467836
+"2311","nfc equity",0,"Euro Area equity",1,"total","2014-Q2",748.771677
+"2411","nfc equity",0,"Euro Area equity",1,"total","2014-Q3",732.473909944481
+"2517","nfc equity",0,"Euro Area equity",1,"total","2014-Q4",724.526259
+"2611","nfc equity",0,"Euro Area equity",1,"total","2015-Q1",870.13734891488
+"2711","nfc equity",0,"Euro Area equity",1,"total","2015-Q2",839.46622259114
+"2817","nfc equity",0,"Euro Area equity",1,"total","2015-Q3",813.239165962942
+"2911","nfc equity",0,"Euro Area equity",1,"total","2015-Q4",887.002372744569
+"3011","nfc equity",0,"Euro Area equity",1,"total","2016-Q1",864.099928829746
+"3117","nfc equity",0,"Euro Area equity",1,"total","2016-Q2",850.178153288438
+"3211","nfc equity",0,"Euro Area equity",1,"total","2016-Q3",906.314605933522
+"3311","nfc equity",0,"Euro Area equity",1,"total","2016-Q4",933.002392488359
+"3417","nfc equity",0,"Euro Area equity",1,"total","2017-Q1",1006.85101686375
+"3511","nfc equity",0,"Euro Area equity",1,"total","2017-Q2",1017.67923595056
+"3611","nfc equity",0,"Euro Area equity",1,"total","2017-Q3",1060.85064509081
+"3717","nfc equity",0,"Euro Area equity",1,"total","2017-Q4",1070.68853662551
+"1108","remaining",0,"outside Euro Area equity",1,"equity","2008-Q4",219.21696
+"2102","remaining",0,"outside Euro Area equity",1,"equity","2009-Q1",231.242574
+"3102","remaining",0,"outside Euro Area equity",1,"equity","2009-Q2",297.235732
+"4108","remaining",0,"outside Euro Area equity",1,"equity","2009-Q3",379.509791
+"5102","remaining",0,"outside Euro Area equity",1,"equity","2009-Q4",436.362196
+"6102","remaining",0,"outside Euro Area equity",1,"equity","2010-Q1",489.685622924
+"749","remaining",0,"outside Euro Area equity",1,"equity","2010-Q2",487.031565471922
+"812","remaining",0,"outside Euro Area equity",1,"equity","2010-Q3",523.260634439264
+"918","remaining",0,"outside Euro Area equity",1,"equity","2010-Q4",599.2383967
+"1018","remaining",0,"outside Euro Area equity",1,"equity","2011-Q1",559.806362
+"1112","remaining",0,"outside Euro Area equity",1,"equity","2011-Q2",550.019232
+"1212","remaining",0,"outside Euro Area equity",1,"equity","2011-Q3",453.980668
+"1318","remaining",0,"outside Euro Area equity",1,"equity","2011-Q4",486.937887
+"1412","remaining",0,"outside Euro Area equity",1,"equity","2012-Q1",545.993482
+"1512","remaining",0,"outside Euro Area equity",1,"equity","2012-Q2",518.477772
+"1618","remaining",0,"outside Euro Area equity",1,"equity","2012-Q3",550.797669
+"1712","remaining",0,"outside Euro Area equity",1,"equity","2012-Q4",575.497068
+"1812","remaining",0,"outside Euro Area equity",1,"equity","2013-Q1",612.942522815744
+"1918","remaining",0,"outside Euro Area equity",1,"equity","2013-Q2",555.345648
+"2012","remaining",0,"outside Euro Area equity",1,"equity","2013-Q3",568.653764
+"2112","remaining",0,"outside Euro Area equity",1,"equity","2013-Q4",577.632751
+"2218","remaining",0,"outside Euro Area equity",1,"equity","2014-Q1",582.485425
+"2312","remaining",0,"outside Euro Area equity",1,"equity","2014-Q2",634.326672999999
+"2412","remaining",0,"outside Euro Area equity",1,"equity","2014-Q3",674.12078589397
+"2518","remaining",0,"outside Euro Area equity",1,"equity","2014-Q4",684.607485321
+"2612","remaining",0,"outside Euro Area equity",1,"equity","2015-Q1",774.493444465
+"2712","remaining",0,"outside Euro Area equity",1,"equity","2015-Q2",747.103418396522
+"2818","remaining",0,"outside Euro Area equity",1,"equity","2015-Q3",620.814311760543
+"2912","remaining",0,"outside Euro Area equity",1,"equity","2015-Q4",662.078836211
+"3012","remaining",0,"outside Euro Area equity",1,"equity","2016-Q1",641.993112910981
+"3118","remaining",0,"outside Euro Area equity",1,"equity","2016-Q2",673.798066012882
+"3212","remaining",0,"outside Euro Area equity",1,"equity","2016-Q3",735.54663590642
+"3312","remaining",0,"outside Euro Area equity",1,"equity","2016-Q4",743.728625767389
+"3418","remaining",0,"outside Euro Area equity",1,"equity","2017-Q1",812.145303335181
+"3512","remaining",0,"outside Euro Area equity",1,"equity","2017-Q2",813.332598089629
+"3612","remaining",0,"outside Euro Area equity",1,"equity","2017-Q3",847.146683317814
+"3718","remaining",0,"outside Euro Area equity",1,"equity","2017-Q4",896.414146298346
+"1109","Investment fund and money market shares",2,"core",3,"equity","2008-Q4",630.871035
+"2103","Investment fund and money market shares",2,"core",3,"equity","2009-Q1",602.607996
+"3103","Investment fund and money market shares",2,"core",3,"equity","2009-Q2",636.643927
+"4109","Investment fund and money market shares",2,"core",3,"equity","2009-Q3",693.136929
+"5103","Investment fund and money market shares",2,"core",3,"equity","2009-Q4",725.21239
+"6103","Investment fund and money market shares",2,"core",3,"equity","2010-Q1",792.158528279069
+"750","Investment fund and money market shares",2,"core",3,"equity","2010-Q2",803.151060238531
+"813","Investment fund and money market shares",2,"core",3,"equity","2010-Q3",834.205639360516
+"919","Investment fund and money market shares",2,"core",3,"equity","2010-Q4",877.1524389
+"1019","Investment fund and money market shares",2,"core",3,"equity","2011-Q1",884.642009
+"1113","Investment fund and money market shares",2,"core",3,"equity","2011-Q2",889.457833
+"1213","Investment fund and money market shares",2,"core",3,"equity","2011-Q3",832.539772
+"1319","Investment fund and money market shares",2,"core",3,"equity","2011-Q4",841.558765
+"1413","Investment fund and money market shares",2,"core",3,"equity","2012-Q1",891.330415
+"1513","Investment fund and money market shares",2,"core",3,"equity","2012-Q2",882.149027
+"1619","Investment fund and money market shares",2,"core",3,"equity","2012-Q3",926.447027
+"1713","Investment fund and money market shares",2,"core",3,"equity","2012-Q4",963.090954
+"1813","Investment fund and money market shares",2,"core",3,"equity","2013-Q1",1026.931828
+"1919","Investment fund and money market shares",2,"core",3,"equity","2013-Q2",1018.052461
+"2013","Investment fund and money market shares",2,"core",3,"equity","2013-Q3",1063.822183
+"2113","Investment fund and money market shares",2,"core",3,"equity","2013-Q4",1117.578011
+"2219","Investment fund and money market shares",2,"core",3,"equity","2014-Q1",1179.417115
+"2313","Investment fund and money market shares",2,"core",3,"equity","2014-Q2",1245.847219
+"2413","Investment fund and money market shares",2,"core",3,"equity","2014-Q3",1306.0894850496
+"2519","Investment fund and money market shares",2,"core",3,"equity","2014-Q4",1399.51538384498
+"2613","Investment fund and money market shares",2,"core",3,"equity","2015-Q1",1563.24136498621
+"2713","Investment fund and money market shares",2,"core",3,"equity","2015-Q2",1601.45733054207
+"2819","Investment fund and money market shares",2,"core",3,"equity","2015-Q3",1543.84251868993
+"2913","Investment fund and money market shares",2,"core",3,"equity","2015-Q4",1624.50337752598
+"3013","Investment fund and money market shares",2,"core",3,"equity","2016-Q1",1603.15280570896
+"3119","Investment fund and money market shares",2,"core",3,"equity","2016-Q2",1654.16791118275
+"3213","Investment fund and money market shares",2,"core",3,"equity","2016-Q3",1714.05472132623
+"3313","Investment fund and money market shares",2,"core",3,"equity","2016-Q4",1773.34906680279
+"3419","Investment fund and money market shares",2,"core",3,"equity","2017-Q1",1860.80242098805
+"3513","Investment fund and money market shares",2,"core",3,"equity","2017-Q2",1917.33419879582
+"3613","Investment fund and money market shares",2,"core",3,"equity","2017-Q3",1963.37798890559
+"3719","Investment fund and money market shares",2,"core",3,"equity","2017-Q4",2013.58147750458
+"1114","deposit and loan claims",2,"core",3,"deposit and loan claims","2008-Q4",392.37823
+"2104","deposit and loan claims",2,"core",3,"deposit and loan claims","2009-Q1",367.139293
+"3104","deposit and loan claims",2,"core",3,"deposit and loan claims","2009-Q2",378.613769
+"4110","deposit and loan claims",2,"core",3,"deposit and loan claims","2009-Q3",375.993569
+"5104","deposit and loan claims",2,"core",3,"deposit and loan claims","2009-Q4",366.646886
+"6104","deposit and loan claims",2,"core",3,"deposit and loan claims","2010-Q1",368.29385668405
+"751","deposit and loan claims",2,"core",3,"deposit and loan claims","2010-Q2",397.45396461006
+"814","deposit and loan claims",2,"core",3,"deposit and loan claims","2010-Q3",377.049816215
+"920","deposit and loan claims",2,"core",3,"deposit and loan claims","2010-Q4",371.199979
+"1020","deposit and loan claims",2,"core",3,"deposit and loan claims","2011-Q1",392.470167
+"1115","deposit and loan claims",2,"core",3,"deposit and loan claims","2011-Q2",403.763027
+"1214","deposit and loan claims",2,"core",3,"deposit and loan claims","2011-Q3",436.962173
+"1320","deposit and loan claims",2,"core",3,"deposit and loan claims","2011-Q4",419.8782
+"1414","deposit and loan claims",2,"core",3,"deposit and loan claims","2012-Q1",450.229453
+"1514","deposit and loan claims",2,"core",3,"deposit and loan claims","2012-Q2",489.308499
+"1620","deposit and loan claims",2,"core",3,"deposit and loan claims","2012-Q3",507.145489
+"1714","deposit and loan claims",2,"core",3,"deposit and loan claims","2012-Q4",479.00799
+"1814","deposit and loan claims",2,"core",3,"deposit and loan claims","2013-Q1",506.171504
+"1920","deposit and loan claims",2,"core",3,"deposit and loan claims","2013-Q2",526.596784
+"2014","deposit and loan claims",2,"core",3,"deposit and loan claims","2013-Q3",517.640697
+"2114","deposit and loan claims",2,"core",3,"deposit and loan claims","2013-Q4",516.94102
+"2220","deposit and loan claims",2,"core",3,"deposit and loan claims","2014-Q1",552.732951
+"2314","deposit and loan claims",2,"core",3,"deposit and loan claims","2014-Q2",558.023245
+"2414","deposit and loan claims",2,"core",3,"deposit and loan claims","2014-Q3",601.27305
+"2520","deposit and loan claims",2,"core",3,"deposit and loan claims","2014-Q4",583.961648
+"2614","deposit and loan claims",2,"core",3,"deposit and loan claims","2015-Q1",661.342462
+"2714","deposit and loan claims",2,"core",3,"deposit and loan claims","2015-Q2",636.764972
+"2820","deposit and loan claims",2,"core",3,"deposit and loan claims","2015-Q3",635.328105
+"2914","deposit and loan claims",2,"core",3,"deposit and loan claims","2015-Q4",641.125465
+"3014","deposit and loan claims",2,"core",3,"deposit and loan claims","2016-Q1",661.824026
+"3120","deposit and loan claims",2,"core",3,"deposit and loan claims","2016-Q2",678.751949
+"3214","deposit and loan claims",2,"core",3,"deposit and loan claims","2016-Q3",679.85194515
+"3314","deposit and loan claims",2,"core",3,"deposit and loan claims","2016-Q4",674.518704240845
+"3420","deposit and loan claims",2,"core",3,"deposit and loan claims","2017-Q1",709.96068304446
+"3514","deposit and loan claims",2,"core",3,"deposit and loan claims","2017-Q2",721.797241052273
+"3614","deposit and loan claims",2,"core",3,"deposit and loan claims","2017-Q3",806.874421297377
+"3720","deposit and loan claims",2,"core",3,"deposit and loan claims","2017-Q4",810.510915612733
+"1116","non-financial assets",2,"core",3,"non-financial assets","2008-Q4",199.782753
+"2105","non-financial assets",2,"core",3,"non-financial assets","2009-Q1",208.917756
+"3105","non-financial assets",2,"core",3,"non-financial assets","2009-Q2",218.060506
+"4111","non-financial assets",2,"core",3,"non-financial assets","2009-Q3",217.067931
+"5105","non-financial assets",2,"core",3,"non-financial assets","2009-Q4",224.643424
+"6105","non-financial assets",2,"core",3,"non-financial assets","2010-Q1",248.729964
+"752","non-financial assets",2,"core",3,"non-financial assets","2010-Q2",257.595477
+"815","non-financial assets",2,"core",3,"non-financial assets","2010-Q3",258.559163
+"921","non-financial assets",2,"core",3,"non-financial assets","2010-Q4",230.05717
+"1021","non-financial assets",2,"core",3,"non-financial assets","2011-Q1",232.961975
+"1117","non-financial assets",2,"core",3,"non-financial assets","2011-Q2",233.433828
+"1215","non-financial assets",2,"core",3,"non-financial assets","2011-Q3",237.333372
+"1321","non-financial assets",2,"core",3,"non-financial assets","2011-Q4",237.299609
+"1415","non-financial assets",2,"core",3,"non-financial assets","2012-Q1",242.063004
+"1515","non-financial assets",2,"core",3,"non-financial assets","2012-Q2",244.748283
+"1621","non-financial assets",2,"core",3,"non-financial assets","2012-Q3",244.461197
+"1715","non-financial assets",2,"core",3,"non-financial assets","2012-Q4",246.978981
+"1815","non-financial assets",2,"core",3,"non-financial assets","2013-Q1",245.651319
+"1921","non-financial assets",2,"core",3,"non-financial assets","2013-Q2",246.771503
+"2015","non-financial assets",2,"core",3,"non-financial assets","2013-Q3",248.775169
+"2115","non-financial assets",2,"core",3,"non-financial assets","2013-Q4",252.746349
+"2221","non-financial assets",2,"core",3,"non-financial assets","2014-Q1",258.651737
+"2315","non-financial assets",2,"core",3,"non-financial assets","2014-Q2",262.22312
+"2415","non-financial assets",2,"core",3,"non-financial assets","2014-Q3",266.828147
+"2521","non-financial assets",2,"core",3,"non-financial assets","2014-Q4",266.888731
+"2615","non-financial assets",2,"core",3,"non-financial assets","2015-Q1",271.310321
+"2715","non-financial assets",2,"core",3,"non-financial assets","2015-Q2",274.648719
+"2821","non-financial assets",2,"core",3,"non-financial assets","2015-Q3",321.596038
+"2915","non-financial assets",2,"core",3,"non-financial assets","2015-Q4",328.097988
+"3015","non-financial assets",2,"core",3,"non-financial assets","2016-Q1",332.032899
+"3121","non-financial assets",2,"core",3,"non-financial assets","2016-Q2",323.805395
+"3215","non-financial assets",2,"core",3,"non-financial assets","2016-Q3",328.52922
+"3315","non-financial assets",2,"core",3,"non-financial assets","2016-Q4",331.639383
+"3421","non-financial assets",2,"core",3,"non-financial assets","2017-Q1",337.96975
+"3515","non-financial assets",2,"core",3,"non-financial assets","2017-Q2",348.996853
+"3615","non-financial assets",2,"core",3,"non-financial assets","2017-Q3",352.654935
+"3721","non-financial assets",2,"core",3,"non-financial assets","2017-Q4",361.626058
+"1118","remaining",2,"core",3,"remaining","2008-Q4",395.442459
+"2106","remaining",2,"core",3,"remaining","2009-Q1",379.397366
+"3106","remaining",2,"core",3,"remaining","2009-Q2",369.269098
+"4112","remaining",2,"core",3,"remaining","2009-Q3",349.1979905
+"5106","remaining",2,"core",3,"remaining","2009-Q4",356.515202
+"6106","remaining",2,"core",3,"remaining","2010-Q1",423.86203020183
+"753","remaining",2,"core",3,"remaining","2010-Q2",439.67765909034
+"816","remaining",2,"core",3,"remaining","2010-Q3",462.831149361
+"922","remaining",2,"core",3,"remaining","2010-Q4",463.9532743
+"1022","remaining",2,"core",3,"remaining","2011-Q1",522.980963
+"1119","remaining",2,"core",3,"remaining","2011-Q2",507.840278
+"1216","remaining",2,"core",3,"remaining","2011-Q3",573.032255
+"1322","remaining",2,"core",3,"remaining","2011-Q4",488.2175
+"1416","remaining",2,"core",3,"remaining","2012-Q1",547.904848
+"1516","remaining",2,"core",3,"remaining","2012-Q2",556.286666
+"1622","remaining",2,"core",3,"remaining","2012-Q3",591.226016
+"1716","remaining",2,"core",3,"remaining","2012-Q4",540.432341
+"1816","remaining",2,"core",3,"remaining","2013-Q1",617.681696
+"1922","remaining",2,"core",3,"remaining","2013-Q2",660.362879
+"2016","remaining",2,"core",3,"remaining","2013-Q3",620.192308
+"2116","remaining",2,"core",3,"remaining","2013-Q4",570.583997
+"2222","remaining",2,"core",3,"remaining","2014-Q1",671.436337
+"2316","remaining",2,"core",3,"remaining","2014-Q2",680.09863
+"2416","remaining",2,"core",3,"remaining","2014-Q3",761.46399787
+"2522","remaining",2,"core",3,"remaining","2014-Q4",690.060567527
+"2616","remaining",2,"core",3,"remaining","2015-Q1",864.736203
+"2716","remaining",2,"core",3,"remaining","2015-Q2",868.612504
+"2822","remaining",2,"core",3,"remaining","2015-Q3",879.935162
+"2916","remaining",2,"core",3,"remaining","2015-Q4",837.212543
+"3016","remaining",2,"core",3,"remaining","2016-Q1",893.862363
+"3122","remaining",2,"core",3,"remaining","2016-Q2",912.385774
+"3216","remaining",2,"core",3,"remaining","2016-Q3",884.131434629346
+"3316","remaining",2,"core",3,"remaining","2016-Q4",834.963366315799
+"3422","remaining",2,"core",3,"remaining","2017-Q1",951.290568247566
+"3516","remaining",2,"core",3,"remaining","2017-Q2",940.366465492234
+"3616","remaining",2,"core",3,"remaining","2017-Q3",828.048015217356
+"3722","remaining",2,"core",3,"remaining","2017-Q4",780.902236242515
+"1120","core",3,"deposit and loan claims",4,"deposit and loan claims","2008-Q4",114.331276
+"2107","core",3,"deposit and loan claims",4,"deposit and loan claims","2009-Q1",106.413712
+"3107","core",3,"deposit and loan claims",4,"deposit and loan claims","2009-Q2",111.008565
+"4113","core",3,"deposit and loan claims",4,"deposit and loan claims","2009-Q3",121.821226
+"5107","core",3,"deposit and loan claims",4,"deposit and loan claims","2009-Q4",125.355438
+"6107","core",3,"deposit and loan claims",4,"deposit and loan claims","2010-Q1",127.952735
+"754","core",3,"deposit and loan claims",4,"deposit and loan claims","2010-Q2",137.596335
+"817","core",3,"deposit and loan claims",4,"deposit and loan claims","2010-Q3",132.042458
+"923","core",3,"deposit and loan claims",4,"deposit and loan claims","2010-Q4",118.784231
+"1023","core",3,"deposit and loan claims",4,"deposit and loan claims","2011-Q1",131.192343
+"1121","core",3,"deposit and loan claims",4,"deposit and loan claims","2011-Q2",126.736655
+"1217","core",3,"deposit and loan claims",4,"deposit and loan claims","2011-Q3",133.199413
+"1323","core",3,"deposit and loan claims",4,"deposit and loan claims","2011-Q4",118.143505
+"1417","core",3,"deposit and loan claims",4,"deposit and loan claims","2012-Q1",129.534294
+"1517","core",3,"deposit and loan claims",4,"deposit and loan claims","2012-Q2",134.035017
+"1623","core",3,"deposit and loan claims",4,"deposit and loan claims","2012-Q3",155.467734
+"1717","core",3,"deposit and loan claims",4,"deposit and loan claims","2012-Q4",148.685419
+"1817","core",3,"deposit and loan claims",4,"deposit and loan claims","2013-Q1",154.837642
+"1923","core",3,"deposit and loan claims",4,"deposit and loan claims","2013-Q2",160.837296
+"2017","core",3,"deposit and loan claims",4,"deposit and loan claims","2013-Q3",167.256835
+"2117","core",3,"deposit and loan claims",4,"deposit and loan claims","2013-Q4",166.764338
+"2223","core",3,"deposit and loan claims",4,"deposit and loan claims","2014-Q1",190.305786
+"2317","core",3,"deposit and loan claims",4,"deposit and loan claims","2014-Q2",189.654243
+"2417","core",3,"deposit and loan claims",4,"deposit and loan claims","2014-Q3",211.951028
+"2523","core",3,"deposit and loan claims",4,"deposit and loan claims","2014-Q4",203.293949
+"2617","core",3,"deposit and loan claims",4,"deposit and loan claims","2015-Q1",235.098069
+"2717","core",3,"deposit and loan claims",4,"deposit and loan claims","2015-Q2",207.610905
+"2823","core",3,"deposit and loan claims",4,"deposit and loan claims","2015-Q3",246.211069
+"2917","core",3,"deposit and loan claims",4,"deposit and loan claims","2015-Q4",263.711747
+"3017","core",3,"deposit and loan claims",4,"deposit and loan claims","2016-Q1",281.068804
+"3123","core",3,"deposit and loan claims",4,"deposit and loan claims","2016-Q2",289.107691
+"3217","core",3,"deposit and loan claims",4,"deposit and loan claims","2016-Q3",301.748325
+"3317","core",3,"deposit and loan claims",4,"deposit and loan claims","2016-Q4",302.251459
+"3423","core",3,"deposit and loan claims",4,"deposit and loan claims","2017-Q1",321.631015
+"3517","core",3,"deposit and loan claims",4,"deposit and loan claims","2017-Q2",327.351488
+"3617","core",3,"deposit and loan claims",4,"deposit and loan claims","2017-Q3",376.267012
+"3723","core",3,"deposit and loan claims",4,"deposit and loan claims","2017-Q4",377.712752
+"1122","core",3,"Investment fund and money market shares",4,"equity","2008-Q4",4042.625424
+"2108","core",3,"Investment fund and money market shares",4,"equity","2009-Q1",3918.553436
+"3108","core",3,"Investment fund and money market shares",4,"equity","2009-Q2",4294.49035
+"4114","core",3,"Investment fund and money market shares",4,"equity","2009-Q3",4772.022699
+"5108","core",3,"Investment fund and money market shares",4,"equity","2009-Q4",5009.287461
+"6108","core",3,"Investment fund and money market shares",4,"equity","2010-Q1",5355.63263302786
+"755","core",3,"Investment fund and money market shares",4,"equity","2010-Q2",5352.45901227848
+"818","core",3,"Investment fund and money market shares",4,"equity","2010-Q3",5537.32050887
+"924","core",3,"Investment fund and money market shares",4,"equity","2010-Q4",5782.020795
+"1024","core",3,"Investment fund and money market shares",4,"equity","2011-Q1",5786.96927
+"1123","core",3,"Investment fund and money market shares",4,"equity","2011-Q2",5808.309809
+"1218","core",3,"Investment fund and money market shares",4,"equity","2011-Q3",5430.676548
+"1324","core",3,"Investment fund and money market shares",4,"equity","2011-Q4",5676.323668
+"1418","core",3,"Investment fund and money market shares",4,"equity","2012-Q1",6080.101696
+"1518","core",3,"Investment fund and money market shares",4,"equity","2012-Q2",6083.638551
+"1624","core",3,"Investment fund and money market shares",4,"equity","2012-Q3",6354.243156
+"1718","core",3,"Investment fund and money market shares",4,"equity","2012-Q4",6564.981639
+"1818","core",3,"Investment fund and money market shares",4,"equity","2013-Q1",6897.228694
+"1924","core",3,"Investment fund and money market shares",4,"equity","2013-Q2",6824.128661
+"2018","core",3,"Investment fund and money market shares",4,"equity","2013-Q3",7048.926986
+"2118","core",3,"Investment fund and money market shares",4,"equity","2013-Q4",7266.997769
+"2224","core",3,"Investment fund and money market shares",4,"equity","2014-Q1",7489.508837
+"2318","core",3,"Investment fund and money market shares",4,"equity","2014-Q2",7867.696667
+"2418","core",3,"Investment fund and money market shares",4,"equity","2014-Q3",8195.49873025961
+"2524","core",3,"Investment fund and money market shares",4,"equity","2014-Q4",8473.668082875
+"2618","core",3,"Investment fund and money market shares",4,"equity","2015-Q1",9449.055061292
+"2718","core",3,"Investment fund and money market shares",4,"equity","2015-Q2",9362.990710949
+"2824","core",3,"Investment fund and money market shares",4,"equity","2015-Q3",9004.926098033
+"2918","core",3,"Investment fund and money market shares",4,"equity","2015-Q4",9364.31815315
+"3018","core",3,"Investment fund and money market shares",4,"equity","2016-Q1",9242.99823555733
+"3124","core",3,"Investment fund and money market shares",4,"equity","2016-Q2",9479.479715349
+"3218","core",3,"Investment fund and money market shares",4,"equity","2016-Q3",9822.972896281
+"3318","core",3,"Investment fund and money market shares",4,"equity","2016-Q4",10050.981465026
+"3424","core",3,"Investment fund and money market shares",4,"equity","2017-Q1",10486.715491809
+"3518","core",3,"Investment fund and money market shares",4,"equity","2017-Q2",10653.504149846
+"3618","core",3,"Investment fund and money market shares",4,"equity","2017-Q3",10929.924791096
+"3724","core",3,"Investment fund and money market shares",4,"equity","2017-Q4",11211.942788854
+"1124","core",3,"remaining",4,"remaining","2008-Q4",304.467714
+"2109","core",3,"remaining",4,"remaining","2009-Q1",295.416236
+"3109","core",3,"remaining",4,"remaining","2009-Q2",296.072678
+"4115","core",3,"remaining",4,"remaining","2009-Q3",291.520964
+"5109","core",3,"remaining",4,"remaining","2009-Q4",295.809972
+"6109","core",3,"remaining",4,"remaining","2010-Q1",380.02802077128
+"756","core",3,"remaining",4,"remaining","2010-Q2",393.91894548056
+"819","core",3,"remaining",4,"remaining","2010-Q3",401.4938931396
+"925","core",3,"remaining",4,"remaining","2010-Q4",395.6012516
+"1025","core",3,"remaining",4,"remaining","2011-Q1",440.506563
+"1125","core",3,"remaining",4,"remaining","2011-Q2",444.541096
+"1219","core",3,"remaining",4,"remaining","2011-Q3",534.590098
+"1325","core",3,"remaining",4,"remaining","2011-Q4",436.093484
+"1419","core",3,"remaining",4,"remaining","2012-Q1",487.580496
+"1519","core",3,"remaining",4,"remaining","2012-Q2",505.285009
+"1625","core",3,"remaining",4,"remaining","2012-Q3",538.804011
+"1719","core",3,"remaining",4,"remaining","2012-Q4",471.450403
+"1819","core",3,"remaining",4,"remaining","2013-Q1",558.280043
+"1925","core",3,"remaining",4,"remaining","2013-Q2",608.775038
+"2019","core",3,"remaining",4,"remaining","2013-Q3",561.497048
+"2119","core",3,"remaining",4,"remaining","2013-Q4",508.299193
+"2225","core",3,"remaining",4,"remaining","2014-Q1",648.710465
+"2319","core",3,"remaining",4,"remaining","2014-Q2",660.555919
+"2419","core",3,"remaining",4,"remaining","2014-Q3",761.59110444
+"2525","core",3,"remaining",4,"remaining","2014-Q4",630.26158311
+"2619","core",3,"remaining",4,"remaining","2015-Q1",825.250155
+"2719","core",3,"remaining",4,"remaining","2015-Q2",799.834029
+"2825","core",3,"remaining",4,"remaining","2015-Q3",819.290202
+"2919","core",3,"remaining",4,"remaining","2015-Q4",756.645243
+"3019","core",3,"remaining",4,"remaining","2016-Q1",796.697701
+"3125","core",3,"remaining",4,"remaining","2016-Q2",850.943594
+"3219","core",3,"remaining",4,"remaining","2016-Q3",829.051372251994
+"3319","core",3,"remaining",4,"remaining","2016-Q4",769.598215273875
+"3425","core",3,"remaining",4,"remaining","2017-Q1",882.793414692698
+"3519","core",3,"remaining",4,"remaining","2017-Q2",857.79939397849
+"3619","core",3,"remaining",4,"remaining","2017-Q3",776.755041179409
+"3725","core",3,"remaining",4,"remaining","2017-Q4",700.047780460887

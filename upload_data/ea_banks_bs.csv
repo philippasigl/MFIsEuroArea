@@ -1,0 +1,1463 @@
+,source,target,edge_type,time,value,source_level,target_level
+324,ofi debtSt,debtSt,debt,2013-Q4,47.5865,0,1
+325,ofi debtSt,debtSt,debt,2014-Q1,61.78208,0,1
+326,ofi debtSt,debtSt,debt,2014-Q2,51.3714,0,1
+327,ofi debtSt,debtSt,debt,2014-Q3,49.85136,0,1
+328,ofi debtSt,debtSt,debt,2014-Q4,53.11327,0,1
+329,ofi debtSt,debtSt,debt,2015-Q1,42.05152,0,1
+330,ofi debtSt,debtSt,debt,2015-Q2,54.57848,0,1
+331,ofi debtSt,debtSt,debt,2015-Q3,57.18524,0,1
+332,ofi debtSt,debtSt,debt,2015-Q4,54.14134,0,1
+333,ofi debtSt,debtSt,debt,2016-Q1,56.24185,0,1
+334,ofi debtSt,debtSt,debt,2016-Q2,56.78834,0,1
+335,ofi debtSt,debtSt,debt,2016-Q3,66.62781,0,1
+336,ofi debtSt,debtSt,debt,2016-Q4,61.48443,0,1
+337,ofi debtSt,debtSt,debt,2017-Q1,57.59172,0,1
+338,ofi debtSt,debtSt,debt,2017-Q2,63.18122,0,1
+339,ofi debtSt,debtSt,debt,2017-Q3,72.01105,0,1
+340,ofi debtSt,debtSt,debt,2017-Q4,61.54016,0,1
+341,icpf debtSt,debtSt,debt,2013-Q4,0.43421,0,1
+342,icpf debtSt,debtSt,debt,2014-Q1,0.44766,0,1
+343,icpf debtSt,debtSt,debt,2014-Q2,0.44854,0,1
+344,icpf debtSt,debtSt,debt,2014-Q3,0.48489,0,1
+345,icpf debtSt,debtSt,debt,2014-Q4,0.4822,0,1
+346,icpf debtSt,debtSt,debt,2015-Q1,0.73672,0,1
+347,icpf debtSt,debtSt,debt,2015-Q2,0.65743,0,1
+348,icpf debtSt,debtSt,debt,2015-Q3,0.56276,0,1
+349,icpf debtSt,debtSt,debt,2015-Q4,0.45828,0,1
+350,icpf debtSt,debtSt,debt,2016-Q1,0.36267,0,1
+351,icpf debtSt,debtSt,debt,2016-Q2,0.4941,0,1
+352,icpf debtSt,debtSt,debt,2016-Q3,0.49736,0,1
+353,icpf debtSt,debtSt,debt,2016-Q4,0.5424,0,1
+354,icpf debtSt,debtSt,debt,2017-Q1,0.58408,0,1
+355,icpf debtSt,debtSt,debt,2017-Q2,0.64713,0,1
+356,icpf debtSt,debtSt,debt,2017-Q3,0.57985,0,1
+357,icpf debtSt,debtSt,debt,2017-Q4,0.6807,0,1
+358,govt debtSt,debtSt,debt,2013-Q4,147.62694,0,1
+359,govt debtSt,debtSt,debt,2014-Q1,138.09045,0,1
+360,govt debtSt,debtSt,debt,2014-Q2,104.9877,0,1
+361,govt debtSt,debtSt,debt,2014-Q3,84.75175,0,1
+362,govt debtSt,debtSt,debt,2014-Q4,71.96636,0,1
+363,govt debtSt,debtSt,debt,2015-Q1,95.55927,0,1
+364,govt debtSt,debtSt,debt,2015-Q2,85.25366,0,1
+365,govt debtSt,debtSt,debt,2015-Q3,98.51427,0,1
+366,govt debtSt,debtSt,debt,2015-Q4,76.72133,0,1
+367,govt debtSt,debtSt,debt,2016-Q1,120.69335,0,1
+368,govt debtSt,debtSt,debt,2016-Q2,98.08511,0,1
+369,govt debtSt,debtSt,debt,2016-Q3,79.69423,0,1
+370,govt debtSt,debtSt,debt,2016-Q4,60.01112,0,1
+371,govt debtSt,debtSt,debt,2017-Q1,56.65698,0,1
+372,govt debtSt,debtSt,debt,2017-Q2,50.72355,0,1
+373,govt debtSt,debtSt,debt,2017-Q3,51.85274,0,1
+374,govt debtSt,debtSt,debt,2017-Q4,30.11268,0,1
+375,hh debtSt,debtSt,debt,2013-Q4,0,0,1
+376,hh debtSt,debtSt,debt,2014-Q1,0,0,1
+377,hh debtSt,debtSt,debt,2014-Q2,0,0,1
+378,hh debtSt,debtSt,debt,2014-Q3,0,0,1
+379,hh debtSt,debtSt,debt,2014-Q4,0,0,1
+380,hh debtSt,debtSt,debt,2015-Q1,0,0,1
+381,hh debtSt,debtSt,debt,2015-Q2,0,0,1
+382,hh debtSt,debtSt,debt,2015-Q3,0,0,1
+383,hh debtSt,debtSt,debt,2015-Q4,0,0,1
+384,hh debtSt,debtSt,debt,2016-Q1,0,0,1
+385,hh debtSt,debtSt,debt,2016-Q2,0,0,1
+386,hh debtSt,debtSt,debt,2016-Q3,0,0,1
+387,hh debtSt,debtSt,debt,2016-Q4,0,0,1
+388,hh debtSt,debtSt,debt,2017-Q1,0,0,1
+389,hh debtSt,debtSt,debt,2017-Q2,0,0,1
+390,hh debtSt,debtSt,debt,2017-Q3,0,0,1
+391,hh debtSt,debtSt,debt,2017-Q4,0,0,1
+392,nfc debtLt,debtLt,debt,2013-Q4,134.33247,0,1
+393,nfc debtLt,debtLt,debt,2014-Q1,133.58541,0,1
+394,nfc debtLt,debtLt,debt,2014-Q2,133.26894,0,1
+395,nfc debtLt,debtLt,debt,2014-Q3,138.02941,0,1
+396,nfc debtLt,debtLt,debt,2014-Q4,133.75973,0,1
+397,nfc debtLt,debtLt,debt,2015-Q1,134.24947,0,1
+398,nfc debtLt,debtLt,debt,2015-Q2,127.8002,0,1
+399,nfc debtLt,debtLt,debt,2015-Q3,129.91104,0,1
+400,nfc debtLt,debtLt,debt,2015-Q4,128.68016,0,1
+401,nfc debtLt,debtLt,debt,2016-Q1,127.60526,0,1
+402,nfc debtLt,debtLt,debt,2016-Q2,134.86195,0,1
+403,nfc debtLt,debtLt,debt,2016-Q3,150.59491,0,1
+404,nfc debtLt,debtLt,debt,2016-Q4,162.46856,0,1
+405,nfc debtLt,debtLt,debt,2017-Q1,175.62791,0,1
+406,nfc debtLt,debtLt,debt,2017-Q2,185.92677,0,1
+407,nfc debtLt,debtLt,debt,2017-Q3,198.03616,0,1
+408,nfc debtLt,debtLt,debt,2017-Q4,214.37306,0,1
+409,iv debtLt,debtLt,debt,2013-Q4,0,0,1
+410,iv debtLt,debtLt,debt,2014-Q1,0,0,1
+411,iv debtLt,debtLt,debt,2014-Q2,0,0,1
+412,iv debtLt,debtLt,debt,2014-Q3,0,0,1
+413,iv debtLt,debtLt,debt,2014-Q4,0,0,1
+414,iv debtLt,debtLt,debt,2015-Q1,0,0,1
+415,iv debtLt,debtLt,debt,2015-Q2,0,0,1
+416,iv debtLt,debtLt,debt,2015-Q3,0,0,1
+417,iv debtLt,debtLt,debt,2015-Q4,0,0,1
+418,iv debtLt,debtLt,debt,2016-Q1,0,0,1
+419,iv debtLt,debtLt,debt,2016-Q2,0,0,1
+420,iv debtLt,debtLt,debt,2016-Q3,0,0,1
+421,iv debtLt,debtLt,debt,2016-Q4,0,0,1
+422,iv debtLt,debtLt,debt,2017-Q1,0,0,1
+423,iv debtLt,debtLt,debt,2017-Q2,0,0,1
+424,iv debtLt,debtLt,debt,2017-Q3,0,0,1
+425,iv debtLt,debtLt,debt,2017-Q4,0,0,1
+426,ofi debtLt,debtLt,debt,2013-Q4,1248.92275,0,1
+427,ofi debtLt,debtLt,debt,2014-Q1,1177.954,0,1
+428,ofi debtLt,debtLt,debt,2014-Q2,1198.31625,0,1
+429,ofi debtLt,debtLt,debt,2014-Q3,1173.64225,0,1
+430,ofi debtLt,debtLt,debt,2014-Q4,1174.11738,0,1
+431,ofi debtLt,debtLt,debt,2015-Q1,1160.34525,0,1
+432,ofi debtLt,debtLt,debt,2015-Q2,1136.214,0,1
+433,ofi debtLt,debtLt,debt,2015-Q3,1159.15563,0,1
+434,ofi debtLt,debtLt,debt,2015-Q4,1157.44538,0,1
+435,ofi debtLt,debtLt,debt,2016-Q1,1157.69425,0,1
+436,ofi debtLt,debtLt,debt,2016-Q2,1188.50225,0,1
+437,ofi debtLt,debtLt,debt,2016-Q3,1186.17875,0,1
+438,ofi debtLt,debtLt,debt,2016-Q4,1178.49788,0,1
+439,ofi debtLt,debtLt,debt,2017-Q1,1195.83525,0,1
+440,ofi debtLt,debtLt,debt,2017-Q2,1197.097,0,1
+441,ofi debtLt,debtLt,debt,2017-Q3,1174.3395,0,1
+442,ofi debtLt,debtLt,debt,2017-Q4,1165.53063,0,1
+443,icpf debtLt,debtLt,debt,2013-Q4,14.89222,0,1
+444,icpf debtLt,debtLt,debt,2014-Q1,12.61878,0,1
+445,icpf debtLt,debtLt,debt,2014-Q2,12.2022,0,1
+446,icpf debtLt,debtLt,debt,2014-Q3,15.13753,0,1
+447,icpf debtLt,debtLt,debt,2014-Q4,13.8427,0,1
+448,icpf debtLt,debtLt,debt,2015-Q1,13.93864,0,1
+449,icpf debtLt,debtLt,debt,2015-Q2,13.71963,0,1
+450,icpf debtLt,debtLt,debt,2015-Q3,13.02103,0,1
+451,icpf debtLt,debtLt,debt,2015-Q4,13.84194,0,1
+452,icpf debtLt,debtLt,debt,2016-Q1,13.47389,0,1
+453,icpf debtLt,debtLt,debt,2016-Q2,15.01849,0,1
+454,icpf debtLt,debtLt,debt,2016-Q3,14.615,0,1
+455,icpf debtLt,debtLt,debt,2016-Q4,14.89655,0,1
+456,icpf debtLt,debtLt,debt,2017-Q1,14.7581,0,1
+457,icpf debtLt,debtLt,debt,2017-Q2,14.30947,0,1
+458,icpf debtLt,debtLt,debt,2017-Q3,13.34763,0,1
+459,icpf debtLt,debtLt,debt,2017-Q4,13.32424,0,1
+460,govt debtLt,debtLt,debt,2013-Q4,2236.45175,0,1
+461,govt debtLt,debtLt,debt,2014-Q1,2315.89325,0,1
+462,govt debtLt,debtLt,debt,2014-Q2,2354.79075,0,1
+463,govt debtLt,debtLt,debt,2014-Q3,2451.8725,0,1
+464,govt debtLt,debtLt,debt,2014-Q4,2455.857,0,1
+465,govt debtLt,debtLt,debt,2015-Q1,2582.50925,0,1
+466,govt debtLt,debtLt,debt,2015-Q2,2574.75675,0,1
+467,govt debtLt,debtLt,debt,2015-Q3,2661.8815,0,1
+468,govt debtLt,debtLt,debt,2015-Q4,2727.13225,0,1
+469,govt debtLt,debtLt,debt,2016-Q1,2889.121,0,1
+470,govt debtLt,debtLt,debt,2016-Q2,3072.79625,0,1
+471,govt debtLt,debtLt,debt,2016-Q3,3156.3815,0,1
+472,govt debtLt,debtLt,debt,2016-Q4,3189.9525,0,1
+473,govt debtLt,debtLt,debt,2017-Q1,3329.896,0,1
+474,govt debtLt,debtLt,debt,2017-Q2,3388.3065,0,1
+475,govt debtLt,debtLt,debt,2017-Q3,3442.7925,0,1
+476,govt debtLt,debtLt,debt,2017-Q4,3473.203,0,1
+477,hh debtLt,debtLt,debt,2013-Q4,0,0,1
+478,hh debtLt,debtLt,debt,2014-Q1,0,0,1
+479,hh debtLt,debtLt,debt,2014-Q2,0,0,1
+480,hh debtLt,debtLt,debt,2014-Q3,0,0,1
+481,hh debtLt,debtLt,debt,2014-Q4,0,0,1
+482,hh debtLt,debtLt,debt,2015-Q1,0,0,1
+483,hh debtLt,debtLt,debt,2015-Q2,0,0,1
+484,hh debtLt,debtLt,debt,2015-Q3,0,0,1
+485,hh debtLt,debtLt,debt,2015-Q4,0,0,1
+486,hh debtLt,debtLt,debt,2016-Q1,0,0,1
+487,hh debtLt,debtLt,debt,2016-Q2,0,0,1
+488,hh debtLt,debtLt,debt,2016-Q3,0,0,1
+489,hh debtLt,debtLt,debt,2016-Q4,0,0,1
+490,hh debtLt,debtLt,debt,2017-Q1,0,0,1
+491,hh debtLt,debtLt,debt,2017-Q2,0,0,1
+492,hh debtLt,debtLt,debt,2017-Q3,0,0,1
+493,hh debtLt,debtLt,debt,2017-Q4,0,0,1
+494,nfc loanSt,loanSt,loan,2013-Q4,864.92069,0,1
+495,nfc loanSt,loanSt,loan,2014-Q1,874.39906,0,1
+496,nfc loanSt,loanSt,loan,2014-Q2,886.46344,0,1
+497,nfc loanSt,loanSt,loan,2014-Q3,871.64694,0,1
+498,nfc loanSt,loanSt,loan,2014-Q4,920.70513,0,1
+499,nfc loanSt,loanSt,loan,2015-Q1,910.10306,0,1
+500,nfc loanSt,loanSt,loan,2015-Q2,919.49363,0,1
+501,nfc loanSt,loanSt,loan,2015-Q3,887.22731,0,1
+502,nfc loanSt,loanSt,loan,2015-Q4,848.09769,0,1
+503,nfc loanSt,loanSt,loan,2016-Q1,864.0075,0,1
+504,nfc loanSt,loanSt,loan,2016-Q2,867.42781,0,1
+505,nfc loanSt,loanSt,loan,2016-Q3,825.67706,0,1
+506,nfc loanSt,loanSt,loan,2016-Q4,804.0555,0,1
+507,nfc loanSt,loanSt,loan,2017-Q1,817.65075,0,1
+508,nfc loanSt,loanSt,loan,2017-Q2,819.46675,0,1
+509,nfc loanSt,loanSt,loan,2017-Q3,781.16456,0,1
+510,nfc loanSt,loanSt,loan,2017-Q4,781.95194,0,1
+511,iv loanSt,loanSt,loan,2013-Q4,18.06375,0,1
+512,iv loanSt,loanSt,loan,2014-Q1,20.87165,0,1
+513,iv loanSt,loanSt,loan,2014-Q2,24.21944,0,1
+514,iv loanSt,loanSt,loan,2014-Q3,22.96554,0,1
+515,iv loanSt,loanSt,loan,2014-Q4,26.26872,0,1
+516,iv loanSt,loanSt,loan,2015-Q1,28.52542,0,1
+517,iv loanSt,loanSt,loan,2015-Q2,25.25797,0,1
+518,iv loanSt,loanSt,loan,2015-Q3,27.20923,0,1
+519,iv loanSt,loanSt,loan,2015-Q4,23.89569,0,1
+520,iv loanSt,loanSt,loan,2016-Q1,32.01714,0,1
+521,iv loanSt,loanSt,loan,2016-Q2,33.2048,0,1
+522,iv loanSt,loanSt,loan,2016-Q3,32.69852,0,1
+523,iv loanSt,loanSt,loan,2016-Q4,26.36022,0,1
+524,iv loanSt,loanSt,loan,2017-Q1,29.7328,0,1
+525,iv loanSt,loanSt,loan,2017-Q2,27.08129,0,1
+526,iv loanSt,loanSt,loan,2017-Q3,33.61312,0,1
+527,iv loanSt,loanSt,loan,2017-Q4,25.80277,0,1
+528,ofi loanSt,loanSt,loan,2013-Q4,429.08759,0,1
+529,ofi loanSt,loanSt,loan,2014-Q1,416.36275,0,1
+530,ofi loanSt,loanSt,loan,2014-Q2,409.80872,0,1
+531,ofi loanSt,loanSt,loan,2014-Q3,410.91438,0,1
+532,ofi loanSt,loanSt,loan,2014-Q4,425.64872,0,1
+533,ofi loanSt,loanSt,loan,2015-Q1,475.30747,0,1
+534,ofi loanSt,loanSt,loan,2015-Q2,455.98288,0,1
+535,ofi loanSt,loanSt,loan,2015-Q3,432.41788,0,1
+536,ofi loanSt,loanSt,loan,2015-Q4,415.79897,0,1
+537,ofi loanSt,loanSt,loan,2016-Q1,444.55903,0,1
+538,ofi loanSt,loanSt,loan,2016-Q2,428.22247,0,1
+539,ofi loanSt,loanSt,loan,2016-Q3,423.54525,0,1
+540,ofi loanSt,loanSt,loan,2016-Q4,411.56856,0,1
+541,ofi loanSt,loanSt,loan,2017-Q1,423.18778,0,1
+542,ofi loanSt,loanSt,loan,2017-Q2,396.47094,0,1
+543,ofi loanSt,loanSt,loan,2017-Q3,377.74009,0,1
+544,ofi loanSt,loanSt,loan,2017-Q4,378.361,0,1
+545,icpf loanSt,loanSt,loan,2013-Q4,73.45235,0,1
+546,icpf loanSt,loanSt,loan,2014-Q1,82.82508,0,1
+547,icpf loanSt,loanSt,loan,2014-Q2,83.71543,0,1
+548,icpf loanSt,loanSt,loan,2014-Q3,90.61069,0,1
+549,icpf loanSt,loanSt,loan,2014-Q4,102.80608,0,1
+550,icpf loanSt,loanSt,loan,2015-Q1,118.52262,0,1
+551,icpf loanSt,loanSt,loan,2015-Q2,122.42856,0,1
+552,icpf loanSt,loanSt,loan,2015-Q3,109.13143,0,1
+553,icpf loanSt,loanSt,loan,2015-Q4,99.64386,0,1
+554,icpf loanSt,loanSt,loan,2016-Q1,95.08747,0,1
+555,icpf loanSt,loanSt,loan,2016-Q2,92.77624,0,1
+556,icpf loanSt,loanSt,loan,2016-Q3,97.39471,0,1
+557,icpf loanSt,loanSt,loan,2016-Q4,87.8524,0,1
+558,icpf loanSt,loanSt,loan,2017-Q1,96.60908,0,1
+559,icpf loanSt,loanSt,loan,2017-Q2,96.74443,0,1
+560,icpf loanSt,loanSt,loan,2017-Q3,96.15262,0,1
+561,icpf loanSt,loanSt,loan,2017-Q4,83.3924,0,1
+562,govt loanSt,loanSt,loan,2013-Q4,157.73464,0,1
+563,govt loanSt,loanSt,loan,2014-Q1,153.11609,0,1
+564,govt loanSt,loanSt,loan,2014-Q2,151.72758,0,1
+565,govt loanSt,loanSt,loan,2014-Q3,154.75223,0,1
+566,govt loanSt,loanSt,loan,2014-Q4,162.41836,0,1
+567,govt loanSt,loanSt,loan,2015-Q1,192.3602,0,1
+568,govt loanSt,loanSt,loan,2015-Q2,161.12234,0,1
+569,govt loanSt,loanSt,loan,2015-Q3,155.33823,0,1
+570,govt loanSt,loanSt,loan,2015-Q4,152.2508,0,1
+571,govt loanSt,loanSt,loan,2016-Q1,174.17731,0,1
+572,govt loanSt,loanSt,loan,2016-Q2,172.29166,0,1
+573,govt loanSt,loanSt,loan,2016-Q3,152.85278,0,1
+574,govt loanSt,loanSt,loan,2016-Q4,148.69009,0,1
+575,govt loanSt,loanSt,loan,2017-Q1,150.17231,0,1
+576,govt loanSt,loanSt,loan,2017-Q2,140.52695,0,1
+577,govt loanSt,loanSt,loan,2017-Q3,134.46884,0,1
+578,govt loanSt,loanSt,loan,2017-Q4,130.25554,0,1
+579,hh loanSt,loanSt,loan,2013-Q4,278.19341,0,1
+580,hh loanSt,loanSt,loan,2014-Q1,275.03013,0,1
+581,hh loanSt,loanSt,loan,2014-Q2,279.80884,0,1
+582,hh loanSt,loanSt,loan,2014-Q3,270.51141,0,1
+583,hh loanSt,loanSt,loan,2014-Q4,265.36434,0,1
+584,hh loanSt,loanSt,loan,2015-Q1,264.11663,0,1
+585,hh loanSt,loanSt,loan,2015-Q2,268.89638,0,1
+586,hh loanSt,loanSt,loan,2015-Q3,258.71111,0,1
+587,hh loanSt,loanSt,loan,2015-Q4,257.67623,0,1
+588,hh loanSt,loanSt,loan,2016-Q1,250.87203,0,1
+589,hh loanSt,loanSt,loan,2016-Q2,256.25298,0,1
+590,hh loanSt,loanSt,loan,2016-Q3,247.56028,0,1
+591,hh loanSt,loanSt,loan,2016-Q4,241.44931,0,1
+592,hh loanSt,loanSt,loan,2017-Q1,239.22989,0,1
+593,hh loanSt,loanSt,loan,2017-Q2,242.14491,0,1
+594,hh loanSt,loanSt,loan,2017-Q3,233.46919,0,1
+595,hh loanSt,loanSt,loan,2017-Q4,234.23909,0,1
+596,nfc loanLt,loanLt,loan,2013-Q4,3130.95025,0,1
+597,nfc loanLt,loanLt,loan,2014-Q1,3139.618,0,1
+598,nfc loanLt,loanLt,loan,2014-Q2,3120.653,0,1
+599,nfc loanLt,loanLt,loan,2014-Q3,3116.14975,0,1
+600,nfc loanLt,loanLt,loan,2014-Q4,3107.773,0,1
+601,nfc loanLt,loanLt,loan,2015-Q1,3148.30675,0,1
+602,nfc loanLt,loanLt,loan,2015-Q2,3155.07725,0,1
+603,nfc loanLt,loanLt,loan,2015-Q3,3148.571,0,1
+604,nfc loanLt,loanLt,loan,2015-Q4,3160.13125,0,1
+605,nfc loanLt,loanLt,loan,2016-Q1,3167.34325,0,1
+606,nfc loanLt,loanLt,loan,2016-Q2,3193.06425,0,1
+607,nfc loanLt,loanLt,loan,2016-Q3,3219.9445,0,1
+608,nfc loanLt,loanLt,loan,2016-Q4,3221.252,0,1
+609,nfc loanLt,loanLt,loan,2017-Q1,3247.09825,0,1
+610,nfc loanLt,loanLt,loan,2017-Q2,3229.2225,0,1
+611,nfc loanLt,loanLt,loan,2017-Q3,3244.8635,0,1
+612,nfc loanLt,loanLt,loan,2017-Q4,3269.95925,0,1
+613,iv loanLt,loanLt,loan,2013-Q4,37.73939,0,1
+614,iv loanLt,loanLt,loan,2014-Q1,36.21775,0,1
+615,iv loanLt,loanLt,loan,2014-Q2,36.73156,0,1
+616,iv loanLt,loanLt,loan,2014-Q3,37.43542,0,1
+617,iv loanLt,loanLt,loan,2014-Q4,36.84537,0,1
+618,iv loanLt,loanLt,loan,2015-Q1,37.75973,0,1
+619,iv loanLt,loanLt,loan,2015-Q2,37.68956,0,1
+620,iv loanLt,loanLt,loan,2015-Q3,36.62416,0,1
+621,iv loanLt,loanLt,loan,2015-Q4,35.98454,0,1
+622,iv loanLt,loanLt,loan,2016-Q1,37.71926,0,1
+623,iv loanLt,loanLt,loan,2016-Q2,35.84883,0,1
+624,iv loanLt,loanLt,loan,2016-Q3,37.32524,0,1
+625,iv loanLt,loanLt,loan,2016-Q4,39.9952,0,1
+626,iv loanLt,loanLt,loan,2017-Q1,39.21069,0,1
+627,iv loanLt,loanLt,loan,2017-Q2,40.0898,0,1
+628,iv loanLt,loanLt,loan,2017-Q3,45.45101,0,1
+629,iv loanLt,loanLt,loan,2017-Q4,49.76775,0,1
+630,ofi loanLt,loanLt,loan,2013-Q4,620.36325,0,1
+631,ofi loanLt,loanLt,loan,2014-Q1,614.31319,0,1
+632,ofi loanLt,loanLt,loan,2014-Q2,621.87925,0,1
+633,ofi loanLt,loanLt,loan,2014-Q3,603.61144,0,1
+634,ofi loanLt,loanLt,loan,2014-Q4,550.29325,0,1
+635,ofi loanLt,loanLt,loan,2015-Q1,552.08825,0,1
+636,ofi loanLt,loanLt,loan,2015-Q2,537.06819,0,1
+637,ofi loanLt,loanLt,loan,2015-Q3,540.51238,0,1
+638,ofi loanLt,loanLt,loan,2015-Q4,541.8705,0,1
+639,ofi loanLt,loanLt,loan,2016-Q1,550.09788,0,1
+640,ofi loanLt,loanLt,loan,2016-Q2,548.49263,0,1
+641,ofi loanLt,loanLt,loan,2016-Q3,565.78669,0,1
+642,ofi loanLt,loanLt,loan,2016-Q4,570.64663,0,1
+643,ofi loanLt,loanLt,loan,2017-Q1,572.84444,0,1
+644,ofi loanLt,loanLt,loan,2017-Q2,568.49831,0,1
+645,ofi loanLt,loanLt,loan,2017-Q3,570.66206,0,1
+646,ofi loanLt,loanLt,loan,2017-Q4,566.31413,0,1
+647,icpf loanLt,loanLt,loan,2013-Q4,17.53367,0,1
+648,icpf loanLt,loanLt,loan,2014-Q1,17.41636,0,1
+649,icpf loanLt,loanLt,loan,2014-Q2,16.2538,0,1
+650,icpf loanLt,loanLt,loan,2014-Q3,17.29374,0,1
+651,icpf loanLt,loanLt,loan,2014-Q4,15.56403,0,1
+652,icpf loanLt,loanLt,loan,2015-Q1,15.63043,0,1
+653,icpf loanLt,loanLt,loan,2015-Q2,15.42572,0,1
+654,icpf loanLt,loanLt,loan,2015-Q3,15.51318,0,1
+655,icpf loanLt,loanLt,loan,2015-Q4,15.48295,0,1
+656,icpf loanLt,loanLt,loan,2016-Q1,14.96975,0,1
+657,icpf loanLt,loanLt,loan,2016-Q2,15.34119,0,1
+658,icpf loanLt,loanLt,loan,2016-Q3,16.20947,0,1
+659,icpf loanLt,loanLt,loan,2016-Q4,18.15766,0,1
+660,icpf loanLt,loanLt,loan,2017-Q1,18.31079,0,1
+661,icpf loanLt,loanLt,loan,2017-Q2,19.68472,0,1
+662,icpf loanLt,loanLt,loan,2017-Q3,18.80565,0,1
+663,icpf loanLt,loanLt,loan,2017-Q4,18.73144,0,1
+664,govt loanLt,loanLt,loan,2013-Q4,1140.39725,0,1
+665,govt loanLt,loanLt,loan,2014-Q1,1134.507,0,1
+666,govt loanLt,loanLt,loan,2014-Q2,1126.543,0,1
+667,govt loanLt,loanLt,loan,2014-Q3,1123.07063,0,1
+668,govt loanLt,loanLt,loan,2014-Q4,1140.81338,0,1
+669,govt loanLt,loanLt,loan,2015-Q1,1126.87213,0,1
+670,govt loanLt,loanLt,loan,2015-Q2,1121.36588,0,1
+671,govt loanLt,loanLt,loan,2015-Q3,1118.8395,0,1
+672,govt loanLt,loanLt,loan,2015-Q4,1123.4095,0,1
+673,govt loanLt,loanLt,loan,2016-Q1,1111.3115,0,1
+674,govt loanLt,loanLt,loan,2016-Q2,1097.0735,0,1
+675,govt loanLt,loanLt,loan,2016-Q3,1093.19613,0,1
+676,govt loanLt,loanLt,loan,2016-Q4,1101.71563,0,1
+677,govt loanLt,loanLt,loan,2017-Q1,1087.63088,0,1
+678,govt loanLt,loanLt,loan,2017-Q2,1086.87475,0,1
+679,govt loanLt,loanLt,loan,2017-Q3,1082.03738,0,1
+680,govt loanLt,loanLt,loan,2017-Q4,1060.02588,0,1
+681,hh loanLt,loanLt,loan,2013-Q4,4967.369,0,1
+682,hh loanLt,loanLt,loan,2014-Q1,4957.1955,0,1
+683,hh loanLt,loanLt,loan,2014-Q2,4924.9425,0,1
+684,hh loanLt,loanLt,loan,2014-Q3,4935.955,0,1
+685,hh loanLt,loanLt,loan,2014-Q4,4950.886,0,1
+686,hh loanLt,loanLt,loan,2015-Q1,4971.175,0,1
+687,hh loanLt,loanLt,loan,2015-Q2,4995.053,0,1
+688,hh loanLt,loanLt,loan,2015-Q3,5024.952,0,1
+689,hh loanLt,loanLt,loan,2015-Q4,5059.095,0,1
+690,hh loanLt,loanLt,loan,2016-Q1,5081.2535,0,1
+691,hh loanLt,loanLt,loan,2016-Q2,5098.717,0,1
+692,hh loanLt,loanLt,loan,2016-Q3,5139.022,0,1
+693,hh loanLt,loanLt,loan,2016-Q4,5176.682,0,1
+694,hh loanLt,loanLt,loan,2017-Q1,5211.358,0,1
+695,hh loanLt,loanLt,loan,2017-Q2,5252.1685,0,1
+696,hh loanLt,loanLt,loan,2017-Q3,5298.293,0,1
+697,hh loanLt,loanLt,loan,2017-Q4,5371.988,0,1
+1004,row debtSt,debtSt,debt,2013-Q4,47.34003,0,1
+1005,row debtSt,debtSt,debt,2014-Q1,73.89363,0,1
+1006,row debtSt,debtSt,debt,2014-Q2,89.4255,0,1
+1007,row debtSt,debtSt,debt,2014-Q3,114.36493,0,1
+1008,row debtSt,debtSt,debt,2014-Q4,100.08189,0,1
+1009,row debtSt,debtSt,debt,2015-Q1,150.52806,0,1
+1010,row debtSt,debtSt,debt,2015-Q2,137.82785,0,1
+1011,row debtSt,debtSt,debt,2015-Q3,154.19108,0,1
+1012,row debtSt,debtSt,debt,2015-Q4,180.67917,0,1
+1013,row debtSt,debtSt,debt,2016-Q1,135.32955,0,1
+1014,row debtSt,debtSt,debt,2016-Q2,150.51039,0,1
+1015,row debtSt,debtSt,debt,2016-Q3,152.59654,0,1
+1016,row debtSt,debtSt,debt,2016-Q4,197.61062,0,1
+1017,row debtSt,debtSt,debt,2017-Q1,203.29989,0,1
+1018,row debtSt,debtSt,debt,2017-Q2,200.06469,0,1
+1019,row debtSt,debtSt,debt,2017-Q3,174.90341,0,1
+1020,row debtSt,debtSt,debt,2017-Q4,190.19283,0,1
+1021,row debtLt,debtLt,debt,2013-Q4,714.93881,0,1
+1022,row debtLt,debtLt,debt,2014-Q1,725.69331,0,1
+1023,row debtLt,debtLt,debt,2014-Q2,747.67486,0,1
+1024,row debtLt,debtLt,debt,2014-Q3,766.49706,0,1
+1025,row debtLt,debtLt,debt,2014-Q4,796.38619,0,1
+1026,row debtLt,debtLt,debt,2015-Q1,866.95414,0,1
+1027,row debtLt,debtLt,debt,2015-Q2,857.92042,0,1
+1028,row debtLt,debtLt,debt,2015-Q3,863.45917,0,1
+1029,row debtLt,debtLt,debt,2015-Q4,895.70152,0,1
+1030,row debtLt,debtLt,debt,2016-Q1,934.05447,0,1
+1031,row debtLt,debtLt,debt,2016-Q2,976.18593,0,1
+1032,row debtLt,debtLt,debt,2016-Q3,969.21196,0,1
+1033,row debtLt,debtLt,debt,2016-Q4,964.71813,0,1
+1034,row debtLt,debtLt,debt,2017-Q1,936.48311,0,1
+1035,row debtLt,debtLt,debt,2017-Q2,900.54651,0,1
+1036,row debtLt,debtLt,debt,2017-Q3,895.50196,0,1
+1037,row debtLt,debtLt,debt,2017-Q4,881.81932,0,1
+1055,row loanLt,loanLt,loan,2013-Q4,589.31519,0,1
+1056,row loanLt,loanLt,loan,2014-Q1,582.6202,0,1
+1057,row loanLt,loanLt,loan,2014-Q2,578.53089,0,1
+1058,row loanLt,loanLt,loan,2014-Q3,608.00602,0,1
+1059,row loanLt,loanLt,loan,2014-Q4,609.97697,0,1
+1060,row loanLt,loanLt,loan,2015-Q1,646.33271,0,1
+1061,row loanLt,loanLt,loan,2015-Q2,658.7724,0,1
+1062,row loanLt,loanLt,loan,2015-Q3,646.12178,0,1
+1063,row loanLt,loanLt,loan,2015-Q4,675.07926,0,1
+1064,row loanLt,loanLt,loan,2016-Q1,675.49486,0,1
+1065,row loanLt,loanLt,loan,2016-Q2,694.9736,0,1
+1066,row loanLt,loanLt,loan,2016-Q3,733.52197,0,1
+1067,row loanLt,loanLt,loan,2016-Q4,689.87388,0,1
+1068,row loanLt,loanLt,loan,2017-Q1,710.38495,0,1
+1069,row loanLt,loanLt,loan,2017-Q2,690.76942,0,1
+1070,row loanLt,loanLt,loan,2017-Q3,708.8004,0,1
+1071,row loanLt,loanLt,loan,2017-Q4,675.47955,0,1
+1072,row loanSt,loanSt,loan,2013-Q4,381.33107,0,1
+1073,row loanSt,loanSt,loan,2014-Q1,408.37149,0,1
+1074,row loanSt,loanSt,loan,2014-Q2,428.4878,0,1
+1075,row loanSt,loanSt,loan,2014-Q3,466.40756,0,1
+1076,row loanSt,loanSt,loan,2014-Q4,445.8354,0,1
+1077,row loanSt,loanSt,loan,2015-Q1,530.06685,0,1
+1078,row loanSt,loanSt,loan,2015-Q2,510.17374,0,1
+1079,row loanSt,loanSt,loan,2015-Q3,479.09756,0,1
+1080,row loanSt,loanSt,loan,2015-Q4,438.13451,0,1
+1081,row loanSt,loanSt,loan,2016-Q1,469.19752,0,1
+1082,row loanSt,loanSt,loan,2016-Q2,495.37304,0,1
+1083,row loanSt,loanSt,loan,2016-Q3,500.4824,0,1
+1084,row loanSt,loanSt,loan,2016-Q4,463.54217,0,1
+1085,row loanSt,loanSt,loan,2017-Q1,505.13389,0,1
+1086,row loanSt,loanSt,loan,2017-Q2,489.85748,0,1
+1087,row loanSt,loanSt,loan,2017-Q3,487.66308,0,1
+1088,row loanSt,loanSt,loan,2017-Q4,464.68476,0,1
+698,mfi shares,shares,shares,2013-Q4,118.42033,0,2
+699,mfi shares,shares,shares,2014-Q1,110.69972,0,2
+700,mfi shares,shares,shares,2014-Q2,119.16128,0,2
+701,mfi shares,shares,shares,2014-Q3,124.70181,0,2
+702,mfi shares,shares,shares,2014-Q4,131.81539,0,2
+703,mfi shares,shares,shares,2015-Q1,138.16859,0,2
+704,mfi shares,shares,shares,2015-Q2,132.28617,0,2
+705,mfi shares,shares,shares,2015-Q3,119.34962,0,2
+706,mfi shares,shares,shares,2015-Q4,117.58654,0,2
+707,mfi shares,shares,shares,2016-Q1,103.63549,0,2
+708,mfi shares,shares,shares,2016-Q2,93.4971,0,2
+709,mfi shares,shares,shares,2016-Q3,95.20151,0,2
+710,mfi shares,shares,shares,2016-Q4,101.66415,0,2
+711,mfi shares,shares,shares,2017-Q1,112.33557,0,2
+712,mfi shares,shares,shares,2017-Q2,105.50777,0,2
+713,mfi shares,shares,shares,2017-Q3,107.87431,0,2
+714,mfi shares,shares,shares,2017-Q4,108.77082,0,2
+715,mfi shares,shares,shares,2013-Q4,3.00E-05,0,2
+716,mfi shares,shares,shares,2014-Q1,0.02252,0,2
+717,mfi shares,shares,shares,2014-Q2,0.02252,0,2
+718,mfi shares,shares,shares,2014-Q3,0.02252,0,2
+719,mfi shares,shares,shares,2014-Q4,0.02252,0,2
+720,mfi shares,shares,shares,2015-Q1,0.02252,0,2
+721,mfi shares,shares,shares,2015-Q2,0.02252,0,2
+722,mfi shares,shares,shares,2015-Q3,0.02252,0,2
+723,mfi shares,shares,shares,2015-Q4,0.02252,0,2
+724,mfi shares,shares,shares,2016-Q1,0.02252,0,2
+725,mfi shares,shares,shares,2016-Q2,0.02252,0,2
+726,mfi shares,shares,shares,2016-Q3,0.02252,0,2
+727,mfi shares,shares,shares,2016-Q4,0.02252,0,2
+728,mfi shares,shares,shares,2017-Q1,0.02252,0,2
+729,mfi shares,shares,shares,2017-Q2,0.02252,0,2
+730,mfi shares,shares,shares,2017-Q3,0.02252,0,2
+731,mfi shares,shares,shares,2017-Q4,0.02252,0,2
+732,mfi shares,shares,shares,2013-Q4,10.12348,0,2
+733,mfi shares,shares,shares,2014-Q1,10.0562,0,2
+734,mfi shares,shares,shares,2014-Q2,11.04359,0,2
+735,mfi shares,shares,shares,2014-Q3,8.09174,0,2
+736,mfi shares,shares,shares,2014-Q4,8.918,0,2
+737,mfi shares,shares,shares,2015-Q1,10.12186,0,2
+738,mfi shares,shares,shares,2015-Q2,9.59189,0,2
+739,mfi shares,shares,shares,2015-Q3,9.20496,0,2
+740,mfi shares,shares,shares,2015-Q4,18.03058,0,2
+741,mfi shares,shares,shares,2016-Q1,14.87575,0,2
+742,mfi shares,shares,shares,2016-Q2,13.28798,0,2
+743,mfi shares,shares,shares,2016-Q3,17.06305,0,2
+744,mfi shares,shares,shares,2016-Q4,15.9469,0,2
+745,mfi shares,shares,shares,2017-Q1,17.28046,0,2
+746,mfi shares,shares,shares,2017-Q2,17.12055,0,2
+747,mfi shares,shares,shares,2017-Q3,25.24796,0,2
+748,mfi shares,shares,shares,2017-Q4,28.25865,0,2
+749,mfi shares,shares,shares,2013-Q4,12.16177,0,2
+750,mfi shares,shares,shares,2014-Q1,11.94794,0,2
+751,mfi shares,shares,shares,2014-Q2,11.86989,0,2
+752,mfi shares,shares,shares,2014-Q3,11.5096,0,2
+753,mfi shares,shares,shares,2014-Q4,13.64271,0,2
+754,mfi shares,shares,shares,2015-Q1,14.79913,0,2
+755,mfi shares,shares,shares,2015-Q2,12.33041,0,2
+756,mfi shares,shares,shares,2015-Q3,11.34667,0,2
+757,mfi shares,shares,shares,2015-Q4,10.95824,0,2
+758,mfi shares,shares,shares,2016-Q1,10.18513,0,2
+759,mfi shares,shares,shares,2016-Q2,9.58645,0,2
+760,mfi shares,shares,shares,2016-Q3,10.34623,0,2
+761,mfi shares,shares,shares,2016-Q4,11.94788,0,2
+762,mfi shares,shares,shares,2017-Q1,11.0696,0,2
+763,mfi shares,shares,shares,2017-Q2,11.39198,0,2
+764,mfi shares,shares,shares,2017-Q3,12.42333,0,2
+765,mfi shares,shares,shares,2017-Q4,12.35418,0,2
+766,mfi shares,shares,shares,2013-Q4,0,0,2
+767,mfi shares,shares,shares,2014-Q1,0,0,2
+768,mfi shares,shares,shares,2014-Q2,0,0,2
+769,mfi shares,shares,shares,2014-Q3,0,0,2
+770,mfi shares,shares,shares,2014-Q4,0,0,2
+771,mfi shares,shares,shares,2015-Q1,0,0,2
+772,mfi shares,shares,shares,2015-Q2,0,0,2
+773,mfi shares,shares,shares,2015-Q3,0,0,2
+774,mfi shares,shares,shares,2015-Q4,0,0,2
+775,mfi shares,shares,shares,2016-Q1,0,0,2
+776,mfi shares,shares,shares,2016-Q2,0,0,2
+777,mfi shares,shares,shares,2016-Q3,0,0,2
+778,mfi shares,shares,shares,2016-Q4,0,0,2
+779,mfi shares,shares,shares,2017-Q1,0,0,2
+780,mfi shares,shares,shares,2017-Q2,0,0,2
+781,mfi shares,shares,shares,2017-Q3,0,0,2
+782,mfi shares,shares,shares,2017-Q4,0,0,2
+783,mfi ivShares,ivShares,ivShares,2013-Q4,222.72766,0,2
+784,mfi ivShares,ivShares,ivShares,2014-Q1,225.29191,0,2
+785,mfi ivShares,ivShares,ivShares,2014-Q2,238.39419,0,2
+786,mfi ivShares,ivShares,ivShares,2014-Q3,239.96256,0,2
+787,mfi ivShares,ivShares,ivShares,2014-Q4,238.63288,0,2
+788,mfi ivShares,ivShares,ivShares,2015-Q1,258.38148,0,2
+789,mfi ivShares,ivShares,ivShares,2015-Q2,259.15066,0,2
+790,mfi ivShares,ivShares,ivShares,2015-Q3,253.74139,0,2
+791,mfi ivShares,ivShares,ivShares,2015-Q4,255.10716,0,2
+792,mfi ivShares,ivShares,ivShares,2016-Q1,250.91378,0,2
+793,mfi ivShares,ivShares,ivShares,2016-Q2,264.443,0,2
+794,mfi ivShares,ivShares,ivShares,2016-Q3,264.37516,0,2
+795,mfi ivShares,ivShares,ivShares,2016-Q4,261.14534,0,2
+796,mfi ivShares,ivShares,ivShares,2017-Q1,267.78841,0,2
+797,mfi ivShares,ivShares,ivShares,2017-Q2,265.87225,0,2
+798,mfi ivShares,ivShares,ivShares,2017-Q3,270.00838,0,2
+799,mfi ivShares,ivShares,ivShares,2017-Q4,265.80366,0,2
+1038,mfi ivShares,ivShares,ivShares,2013-Q4,74.12784,0,2
+1039,mfi ivShares,ivShares,ivShares,2014-Q1,72.26372,0,2
+1040,mfi ivShares,ivShares,ivShares,2014-Q2,63.41515,0,2
+1041,mfi ivShares,ivShares,ivShares,2014-Q3,66.96125,0,2
+1042,mfi ivShares,ivShares,ivShares,2014-Q4,60.22065,0,2
+1043,mfi ivShares,ivShares,ivShares,2015-Q1,67.64427,0,2
+1044,mfi ivShares,ivShares,ivShares,2015-Q2,64.50693,0,2
+1045,mfi ivShares,ivShares,ivShares,2015-Q3,66.52811,0,2
+1046,mfi ivShares,ivShares,ivShares,2015-Q4,64.50687,0,2
+1047,mfi ivShares,ivShares,ivShares,2016-Q1,61.4915,0,2
+1048,mfi ivShares,ivShares,ivShares,2016-Q2,68.55469,0,2
+1049,mfi ivShares,ivShares,ivShares,2016-Q3,74.11793,0,2
+1050,mfi ivShares,ivShares,ivShares,2016-Q4,76.54057,0,2
+1051,mfi ivShares,ivShares,ivShares,2017-Q1,78.38565,0,2
+1052,mfi ivShares,ivShares,ivShares,2017-Q2,73.64013,0,2
+1053,mfi ivShares,ivShares,ivShares,2017-Q3,77.46487,0,2
+1054,mfi ivShares,ivShares,ivShares,2017-Q4,72.88634,0,2
+1089,mfi shares,shares,shares,2013-Q4,182.97879,0,2
+1090,mfi shares,shares,shares,2014-Q1,155.56962,0,2
+1091,mfi shares,shares,shares,2014-Q2,153.99865,0,2
+1092,mfi shares,shares,shares,2014-Q3,162.70466,0,2
+1093,mfi shares,shares,shares,2014-Q4,185.97725,0,2
+1094,mfi shares,shares,shares,2015-Q1,187.83715,0,2
+1095,mfi shares,shares,shares,2015-Q2,186.28691,0,2
+1096,mfi shares,shares,shares,2015-Q3,151.594,0,2
+1097,mfi shares,shares,shares,2015-Q4,170.09069,0,2
+1098,mfi shares,shares,shares,2016-Q1,152.8718,0,2
+1099,mfi shares,shares,shares,2016-Q2,150.55895,0,2
+1100,mfi shares,shares,shares,2016-Q3,149.77329,0,2
+1101,mfi shares,shares,shares,2016-Q4,158.55692,0,2
+1102,mfi shares,shares,shares,2017-Q1,162.63595,0,2
+1103,mfi shares,shares,shares,2017-Q2,154.58832,0,2
+1104,mfi shares,shares,shares,2017-Q3,149.98096,0,2
+1105,mfi shares,shares,shares,2017-Q4,149.36635,0,2
+1,debtLt,debt,debt,2013-Q4,4349.538,1,2
+2,debtLt,debt,debt,2014-Q1,4365.74475,1,2
+3,debtLt,debt,debt,2014-Q2,4446.253,1,2
+4,debtLt,debt,debt,2014-Q3,4545.17875,1,2
+5,debtLt,debt,debt,2014-Q4,4573.963,1,2
+6,debtLt,debt,debt,2015-Q1,4757.99675,1,2
+7,debtLt,debt,debt,2015-Q2,4710.411,1,2
+8,debtLt,debt,debt,2015-Q3,4827.42837,1,2
+9,debtLt,debt,debt,2015-Q4,4922.80125,1,2
+10,debtLt,debt,debt,2016-Q1,5121.94887,1,2
+11,debtLt,debt,debt,2016-Q2,5387.36487,1,2
+12,debtLt,debt,debt,2016-Q3,5476.98212,1,2
+13,debtLt,debt,debt,2016-Q4,5510.53362,1,2
+14,debtLt,debt,debt,2017-Q1,5652.60037,1,2
+15,debtLt,debt,debt,2017-Q2,5686.18625,1,2
+16,debtLt,debt,debt,2017-Q3,5724.01775,1,2
+17,debtLt,debt,debt,2017-Q4,5748.25025,1,2
+18,debtSt,debt,debt,2013-Q4,242.98768,1,2
+19,debtSt,debt,debt,2014-Q1,274.21382,1,2
+20,debtSt,debt,debt,2014-Q2,246.23314,1,2
+21,debtSt,debt,debt,2014-Q3,249.45293,1,2
+22,debtSt,debt,debt,2014-Q4,225.64372,1,2
+23,debtSt,debt,debt,2015-Q1,288.87557,1,2
+24,debtSt,debt,debt,2015-Q2,278.31742,1,2
+25,debtSt,debt,debt,2015-Q3,310.45335,1,2
+26,debtSt,debt,debt,2015-Q4,312.00012,1,2
+27,debtSt,debt,debt,2016-Q1,312.62742,1,2
+28,debtSt,debt,debt,2016-Q2,305.87794,1,2
+29,debtSt,debt,debt,2016-Q3,299.41594,1,2
+30,debtSt,debt,debt,2016-Q4,319.64857,1,2
+31,debtSt,debt,debt,2017-Q1,318.13267,1,2
+32,debtSt,debt,debt,2017-Q2,314.61659,1,2
+33,debtSt,debt,debt,2017-Q3,299.34705,1,2
+34,debtSt,debt,debt,2017-Q4,282.52637,1,2
+35,loanLt,loan,loan,2013-Q4,10503.668,1,2
+36,loanLt,loan,loan,2014-Q1,10481.888,1,2
+37,loanLt,loan,loan,2014-Q2,10425.534,1,2
+38,loanLt,loan,loan,2014-Q3,10441.522,1,2
+39,loanLt,loan,loan,2014-Q4,10412.152,1,2
+40,loanLt,loan,loan,2015-Q1,10498.165,1,2
+41,loanLt,loan,loan,2015-Q2,10520.452,1,2
+42,loanLt,loan,loan,2015-Q3,10531.134,1,2
+43,loanLt,loan,loan,2015-Q4,10611.053,1,2
+44,loanLt,loan,loan,2016-Q1,10638.19,1,2
+45,loanLt,loan,loan,2016-Q2,10683.511,1,2
+46,loanLt,loan,loan,2016-Q3,10805.006,1,2
+47,loanLt,loan,loan,2016-Q4,10818.323,1,2
+48,loanLt,loan,loan,2017-Q1,10886.838,1,2
+49,loanLt,loan,loan,2017-Q2,10887.308,1,2
+50,loanLt,loan,loan,2017-Q3,10968.913,1,2
+51,loanLt,loan,loan,2017-Q4,11012.266,1,2
+52,loanSt,loan,loan,2013-Q4,2202.7835,1,2
+53,loanSt,loan,loan,2014-Q1,2230.97625,1,2
+54,loanSt,loan,loan,2014-Q2,2264.23125,1,2
+55,loanSt,loan,loan,2014-Q3,2287.80875,1,2
+56,loanSt,loan,loan,2014-Q4,2349.04675,1,2
+57,loanSt,loan,loan,2015-Q1,2519.00225,1,2
+58,loanSt,loan,loan,2015-Q2,2463.3555,1,2
+59,loanSt,loan,loan,2015-Q3,2349.13275,1,2
+60,loanSt,loan,loan,2015-Q4,2235.49775,1,2
+61,loanSt,loan,loan,2016-Q1,2329.918,1,2
+62,loanSt,loan,loan,2016-Q2,2345.549,1,2
+63,loanSt,loan,loan,2016-Q3,2280.211,1,2
+64,loanSt,loan,loan,2016-Q4,2183.51825,1,2
+65,loanSt,loan,loan,2017-Q1,2261.7165,1,2
+66,loanSt,loan,loan,2017-Q2,2212.29275,1,2
+67,loanSt,loan,loan,2017-Q3,2144.2715,1,2
+68,loanSt,loan,loan,2017-Q4,2098.6875,1,2
+110,debt,core,debt,2013-Q4,4592.52568,2,3
+210,debt,core,debt,2014-Q1,4639.95857,2,3
+310,debt,core,debt,2014-Q2,4692.48614,2,3
+4100,debt,core,debt,2014-Q3,4794.63168,2,3
+5100,debt,core,debt,2014-Q4,4799.60672,2,3
+69,debt,core,debt,2015-Q1,5046.87232,2,3
+71,debt,core,debt,2015-Q2,4988.72842,2,3
+81,debt,core,debt,2015-Q3,5137.88172,2,3
+91,debt,core,debt,2015-Q4,5234.80137,2,3
+101,debt,core,debt,2016-Q1,5434.57629,2,3
+111,debt,core,debt,2016-Q2,5693.24281,2,3
+121,debt,core,debt,2016-Q3,5776.39806,2,3
+131,debt,core,debt,2016-Q4,5830.18219,2,3
+141,debt,core,debt,2017-Q1,5970.73304,2,3
+151,debt,core,debt,2017-Q2,6000.80284,2,3
+161,debt,core,debt,2017-Q3,6023.3648,2,3
+171,debt,core,debt,2017-Q4,6030.77662,2,3
+181,ivShares,core,ivShares,2013-Q4,296.8555,2,3
+191,ivShares,core,ivShares,2014-Q1,297.55563,2,3
+201,ivShares,core,ivShares,2014-Q2,301.80934,2,3
+211,ivShares,core,ivShares,2014-Q3,306.92381,2,3
+221,ivShares,core,ivShares,2014-Q4,298.85353,2,3
+231,ivShares,core,ivShares,2015-Q1,326.02575,2,3
+241,ivShares,core,ivShares,2015-Q2,323.65759,2,3
+251,ivShares,core,ivShares,2015-Q3,320.2695,2,3
+261,ivShares,core,ivShares,2015-Q4,319.61403,2,3
+271,ivShares,core,ivShares,2016-Q1,312.40528,2,3
+281,ivShares,core,ivShares,2016-Q2,332.99769,2,3
+291,ivShares,core,ivShares,2016-Q3,338.49309,2,3
+301,ivShares,core,ivShares,2016-Q4,337.68591,2,3
+311,ivShares,core,ivShares,2017-Q1,346.17406,2,3
+321,ivShares,core,ivShares,2017-Q2,339.51238,2,3
+3310,ivShares,core,ivShares,2017-Q3,347.47325,2,3
+3410,ivShares,core,ivShares,2017-Q4,338.69,2,3
+3510,loan,core,loan,2013-Q4,12706.4515,2,3
+3610,loan,core,loan,2014-Q1,12712.86425,2,3
+3710,loan,core,loan,2014-Q2,12689.76525,2,3
+3810,loan,core,loan,2014-Q3,12729.33075,2,3
+3910,loan,core,loan,2014-Q4,12761.19875,2,3
+4010,loan,core,loan,2015-Q1,13017.16725,2,3
+4110,loan,core,loan,2015-Q2,12983.8075,2,3
+4210,loan,core,loan,2015-Q3,12880.26675,2,3
+4310,loan,core,loan,2015-Q4,12846.55075,2,3
+4410,loan,core,loan,2016-Q1,12968.108,2,3
+4510,loan,core,loan,2016-Q2,13029.06,2,3
+4610,loan,core,loan,2016-Q3,13085.217,2,3
+4710,loan,core,loan,2016-Q4,13001.84125,2,3
+4810,loan,core,loan,2017-Q1,13148.5545,2,3
+4910,loan,core,loan,2017-Q2,13099.60075,2,3
+5010,loan,core,loan,2017-Q3,13113.1845,2,3
+5110,loan,core,loan,2017-Q4,13110.9535,2,3
+5210,shares,core,shares,2013-Q4,323.6844,2,3
+5310,shares,core,shares,2014-Q1,288.296,2,3
+5410,shares,core,shares,2014-Q2,296.09593,2,3
+5510,shares,core,shares,2014-Q3,307.03033,2,3
+5610,shares,core,shares,2014-Q4,340.37587,2,3
+5710,shares,core,shares,2015-Q1,350.94925,2,3
+5810,shares,core,shares,2015-Q2,340.5179,2,3
+5910,shares,core,shares,2015-Q3,291.51777,2,3
+6010,shares,core,shares,2015-Q4,316.68857,2,3
+6110,shares,core,shares,2016-Q1,281.59069,2,3
+6210,shares,core,shares,2016-Q2,266.953,2,3
+6310,shares,core,shares,2016-Q3,272.4066,2,3
+6410,shares,core,shares,2016-Q4,288.13837,2,3
+6510,shares,core,shares,2017-Q1,303.3441,2,3
+6610,shares,core,shares,2017-Q2,288.63114,2,3
+6710,shares,core,shares,2017-Q3,295.54908,2,3
+6810,shares,core,shares,2017-Q4,298.77252,2,3
+120,debtSt,iv debtSt,debt,2013-Q4,29.55329,5,6
+1212,debtSt,iv debtSt,debt,2014-Q1,31.55418,5,6
+122,debtSt,iv debtSt,debt,2014-Q2,30.85387,5,6
+123,debtSt,iv debtSt,debt,2014-Q3,34.27127,5,6
+124,debtSt,iv debtSt,debt,2014-Q4,35.20519,5,6
+125,debtSt,iv debtSt,debt,2015-Q1,32.36774,5,6
+126,debtSt,iv debtSt,debt,2015-Q2,32.2971,5,6
+127,debtSt,iv debtSt,debt,2015-Q3,27.74996,5,6
+128,debtSt,iv debtSt,debt,2015-Q4,25.93252,5,6
+129,debtSt,iv debtSt,debt,2016-Q1,25.7748,5,6
+130,debtSt,iv debtSt,debt,2016-Q2,24.20716,5,6
+1312,debtSt,iv debtSt,debt,2016-Q3,27.30891,5,6
+132,debtSt,iv debtSt,debt,2016-Q4,26.41689,5,6
+133,debtSt,iv debtSt,debt,2017-Q1,26.47249,5,6
+134,debtSt,iv debtSt,debt,2017-Q2,25.90561,5,6
+135,debtSt,iv debtSt,debt,2017-Q3,27.99967,5,6
+136,debtSt,iv debtSt,debt,2017-Q4,28.95443,5,6
+137,debtLt,iv debtLt,debt,2013-Q4,367.08609,5,6
+138,debtLt,iv debtLt,debt,2014-Q1,386.06306,5,6
+139,debtLt,iv debtLt,debt,2014-Q2,394.68875,5,6
+140,debtLt,iv debtLt,debt,2014-Q3,396.99638,5,6
+1412,debtLt,iv debtLt,debt,2014-Q4,383.46741,5,6
+142,debtLt,iv debtLt,debt,2015-Q1,384.78231,5,6
+143,debtLt,iv debtLt,debt,2015-Q2,360.63663,5,6
+144,debtLt,iv debtLt,debt,2015-Q3,355.42669,5,6
+145,debtLt,iv debtLt,debt,2015-Q4,339.62756,5,6
+146,debtLt,iv debtLt,debt,2016-Q1,341.03591,5,6
+147,debtLt,iv debtLt,debt,2016-Q2,342.28763,5,6
+148,debtLt,iv debtLt,debt,2016-Q3,340.25194,5,6
+149,debtLt,iv debtLt,debt,2016-Q4,333.91609,5,6
+150,debtLt,iv debtLt,debt,2017-Q1,342.24681,5,6
+1512,debtLt,iv debtLt,debt,2017-Q2,352.09078,5,6
+152,debtLt,iv debtLt,debt,2017-Q3,352.83888,5,6
+153,debtLt,iv debtLt,debt,2017-Q4,361.40494,5,6
+188,debtSt,ofi debtSt,debt,2013-Q4,40.61929,5,6
+189,debtSt,ofi debtSt,debt,2014-Q1,44.44413,5,6
+190,debtSt,ofi debtSt,debt,2014-Q2,33.44321,5,6
+1912,debtSt,ofi debtSt,debt,2014-Q3,34.71087,5,6
+192,debtSt,ofi debtSt,debt,2014-Q4,49.3564,5,6
+193,debtSt,ofi debtSt,debt,2015-Q1,42.91629,5,6
+194,debtSt,ofi debtSt,debt,2015-Q2,25.57899,5,6
+195,debtSt,ofi debtSt,debt,2015-Q3,33.45312,5,6
+196,debtSt,ofi debtSt,debt,2015-Q4,36.15489,5,6
+197,debtSt,ofi debtSt,debt,2016-Q1,27.26518,5,6
+198,debtSt,ofi debtSt,debt,2016-Q2,24.94827,5,6
+199,debtSt,ofi debtSt,debt,2016-Q3,25.45378,5,6
+200,debtSt,ofi debtSt,debt,2016-Q4,28.49,5,6
+2012,debtSt,ofi debtSt,debt,2017-Q1,18.81183,5,6
+202,debtSt,ofi debtSt,debt,2017-Q2,22.31734,5,6
+203,debtSt,ofi debtSt,debt,2017-Q3,19.04891,5,6
+204,debtSt,ofi debtSt,debt,2017-Q4,22.619,5,6
+205,debtLt,ofi debtLt,debt,2013-Q4,77.27296,5,6
+206,debtLt,ofi debtLt,debt,2014-Q1,87.22998,5,6
+207,debtLt,ofi debtLt,debt,2014-Q2,88.83598,5,6
+208,debtLt,ofi debtLt,debt,2014-Q3,95.4908,5,6
+209,debtLt,ofi debtLt,debt,2014-Q4,91.55815,5,6
+2102,debtLt,ofi debtLt,debt,2015-Q1,93.75254,5,6
+2112,debtLt,ofi debtLt,debt,2015-Q2,93.26215,5,6
+212,debtLt,ofi debtLt,debt,2015-Q3,92.18832,5,6
+213,debtLt,ofi debtLt,debt,2015-Q4,80.47205,5,6
+214,debtLt,ofi debtLt,debt,2016-Q1,76.97042,5,6
+215,debtLt,ofi debtLt,debt,2016-Q2,76.87048,5,6
+216,debtLt,ofi debtLt,debt,2016-Q3,71.79289,5,6
+217,debtLt,ofi debtLt,debt,2016-Q4,71.03889,5,6
+218,debtLt,ofi debtLt,debt,2017-Q1,67.27614,5,6
+219,debtLt,ofi debtLt,debt,2017-Q2,70.77179,5,6
+220,debtLt,ofi debtLt,debt,2017-Q3,77.88688,5,6
+2212,debtLt,ofi debtLt,debt,2017-Q4,68.33189,5,6
+256,debtSt,nfc debtSt,debt,2013-Q4,40.46235,5,6
+257,debtSt,nfc debtSt,debt,2014-Q1,41.15446,5,6
+258,debtSt,nfc debtSt,debt,2014-Q2,38.16749,5,6
+259,debtSt,nfc debtSt,debt,2014-Q3,37.3583,5,6
+260,debtSt,nfc debtSt,debt,2014-Q4,39.14014,5,6
+2612,debtSt,nfc debtSt,debt,2015-Q1,38.74751,5,6
+262,debtSt,nfc debtSt,debt,2015-Q2,34.60555,5,6
+263,debtSt,nfc debtSt,debt,2015-Q3,33.51842,5,6
+264,debtSt,nfc debtSt,debt,2015-Q4,34.50824,5,6
+265,debtSt,nfc debtSt,debt,2016-Q1,32.62942,5,6
+266,debtSt,nfc debtSt,debt,2016-Q2,33.94779,5,6
+267,debtSt,nfc debtSt,debt,2016-Q3,32.99921,5,6
+268,debtSt,nfc debtSt,debt,2016-Q4,28.42176,5,6
+269,debtSt,nfc debtSt,debt,2017-Q1,28.65815,5,6
+270,debtSt,nfc debtSt,debt,2017-Q2,23.623,5,6
+2712,debtSt,nfc debtSt,debt,2017-Q3,25.57828,5,6
+272,debtSt,nfc debtSt,debt,2017-Q4,26.58501,5,6
+273,debtLt,nfc debtLt,debt,2013-Q4,50.64691,5,6
+274,debtLt,nfc debtLt,debt,2014-Q1,53.86753,5,6
+275,debtLt,nfc debtLt,debt,2014-Q2,50.66949,5,6
+276,debtLt,nfc debtLt,debt,2014-Q3,51.43123,5,6
+277,debtLt,nfc debtLt,debt,2014-Q4,46.51564,5,6
+278,debtLt,nfc debtLt,debt,2015-Q1,38.43932,5,6
+279,debtLt,nfc debtLt,debt,2015-Q2,38.29594,5,6
+280,debtLt,nfc debtLt,debt,2015-Q3,36.29133,5,6
+2812,debtLt,nfc debtLt,debt,2015-Q4,35.21408,5,6
+282,debtLt,nfc debtLt,debt,2016-Q1,33.25209,5,6
+283,debtLt,nfc debtLt,debt,2016-Q2,31.91424,5,6
+284,debtLt,nfc debtLt,debt,2016-Q3,30.54595,5,6
+285,debtLt,nfc debtLt,debt,2016-Q4,28.24868,5,6
+286,debtLt,nfc debtLt,debt,2017-Q1,26.97886,5,6
+287,debtLt,nfc debtLt,debt,2017-Q2,27.29266,5,6
+288,debtLt,nfc debtLt,debt,2017-Q3,26.88775,5,6
+289,debtLt,nfc debtLt,debt,2017-Q4,23.74988,5,6
+800,debtSt,icpf debtSt,debt,2013-Q4,23.13734,5,6
+801,debtSt,icpf debtSt,debt,2014-Q1,24.4724,5,6
+802,debtSt,icpf debtSt,debt,2014-Q2,25.25799,5,6
+803,debtSt,icpf debtSt,debt,2014-Q3,26.73174,5,6
+804,debtSt,icpf debtSt,debt,2014-Q4,27.78717,5,6
+805,debtSt,icpf debtSt,debt,2015-Q1,31.15895,5,6
+806,debtSt,icpf debtSt,debt,2015-Q2,30.5218,5,6
+807,debtSt,icpf debtSt,debt,2015-Q3,28.01516,5,6
+808,debtSt,icpf debtSt,debt,2015-Q4,27.97299,5,6
+809,debtSt,icpf debtSt,debt,2016-Q1,26.35563,5,6
+810,debtSt,icpf debtSt,debt,2016-Q2,27.39062,5,6
+811,debtSt,icpf debtSt,debt,2016-Q3,26.01025,5,6
+812,debtSt,icpf debtSt,debt,2016-Q4,23.07021,5,6
+813,debtSt,icpf debtSt,debt,2017-Q1,24.50424,5,6
+814,debtSt,icpf debtSt,debt,2017-Q2,22.23626,5,6
+815,debtSt,icpf debtSt,debt,2017-Q3,19.74901,5,6
+816,debtSt,icpf debtSt,debt,2017-Q4,16.38766,5,6
+817,debtLt,icpf debtLt,debt,2013-Q4,567.54738,5,6
+818,debtLt,icpf debtLt,debt,2014-Q1,564.91688,5,6
+819,debtLt,icpf debtLt,debt,2014-Q2,575.10475,5,6
+820,debtLt,icpf debtLt,debt,2014-Q3,568.849,5,6
+821,debtLt,icpf debtLt,debt,2014-Q4,567.20875,5,6
+822,debtLt,icpf debtLt,debt,2015-Q1,561.24544,5,6
+823,debtLt,icpf debtLt,debt,2015-Q2,549.70506,5,6
+824,debtLt,icpf debtLt,debt,2015-Q3,540.19194,5,6
+825,debtLt,icpf debtLt,debt,2015-Q4,534.58494,5,6
+826,debtLt,icpf debtLt,debt,2016-Q1,533.33563,5,6
+827,debtLt,icpf debtLt,debt,2016-Q2,532.77869,5,6
+828,debtLt,icpf debtLt,debt,2016-Q3,527.52125,5,6
+829,debtLt,icpf debtLt,debt,2016-Q4,517.05594,5,6
+830,debtLt,icpf debtLt,debt,2017-Q1,503.50563,5,6
+831,debtLt,icpf debtLt,debt,2017-Q2,504.08866,5,6
+832,debtLt,icpf debtLt,debt,2017-Q3,499.38141,5,6
+833,debtLt,icpf debtLt,debt,2017-Q4,500.95806,5,6
+868,debtSt,govt debtSt,debt,2013-Q4,3.73675,5,6
+869,debtSt,govt debtSt,debt,2014-Q1,6.08426,5,6
+870,debtSt,govt debtSt,debt,2014-Q2,4.34381,5,6
+871,debtSt,govt debtSt,debt,2014-Q3,3.38112,5,6
+872,debtSt,govt debtSt,debt,2014-Q4,4.55717,5,6
+873,debtSt,govt debtSt,debt,2015-Q1,3.81462,5,6
+874,debtSt,govt debtSt,debt,2015-Q2,2.39769,5,6
+875,debtSt,govt debtSt,debt,2015-Q3,2.51609,5,6
+876,debtSt,govt debtSt,debt,2015-Q4,1.34653,5,6
+877,debtSt,govt debtSt,debt,2016-Q1,1.91621,5,6
+878,debtSt,govt debtSt,debt,2016-Q2,2.5691,5,6
+879,debtSt,govt debtSt,debt,2016-Q3,2.48053,5,6
+880,debtSt,govt debtSt,debt,2016-Q4,1.69305,5,6
+881,debtSt,govt debtSt,debt,2017-Q1,1.67988,5,6
+882,debtSt,govt debtSt,debt,2017-Q2,1.16798,5,6
+883,debtSt,govt debtSt,debt,2017-Q3,1.16833,5,6
+884,debtSt,govt debtSt,debt,2017-Q4,1.13823,5,6
+885,debtLt,govt debtLt,debt,2013-Q4,51.29931,5,6
+886,debtLt,govt debtLt,debt,2014-Q1,50.53457,5,6
+887,debtLt,govt debtLt,debt,2014-Q2,49.80974,5,6
+888,debtLt,govt debtLt,debt,2014-Q3,50.22895,5,6
+889,debtLt,govt debtLt,debt,2014-Q4,50.46857,5,6
+890,debtLt,govt debtLt,debt,2015-Q1,47.8871,5,6
+891,debtLt,govt debtLt,debt,2015-Q2,51.84674,5,6
+892,debtLt,govt debtLt,debt,2015-Q3,52.10861,5,6
+893,debtLt,govt debtLt,debt,2015-Q4,46.10413,5,6
+894,debtLt,govt debtLt,debt,2016-Q1,47.28795,5,6
+895,debtLt,govt debtLt,debt,2016-Q2,47.42398,5,6
+896,debtLt,govt debtLt,debt,2016-Q3,46.24963,5,6
+897,debtLt,govt debtLt,debt,2016-Q4,46.71398,5,6
+898,debtLt,govt debtLt,debt,2017-Q1,44.27072,5,6
+899,debtLt,govt debtLt,debt,2017-Q2,42.93267,5,6
+900,debtLt,govt debtLt,debt,2017-Q3,45.18817,5,6
+901,debtLt,govt debtLt,debt,2017-Q4,46.68885,5,6
+936,debtSt,hh debtSt,debt,2013-Q4,10.8367,5,6
+937,debtSt,hh debtSt,debt,2014-Q1,10.93672,5,6
+938,debtSt,hh debtSt,debt,2014-Q2,10.32868,5,6
+939,debtSt,hh debtSt,debt,2014-Q3,9.62993,5,6
+940,debtSt,hh debtSt,debt,2014-Q4,8.93161,5,6
+941,debtSt,hh debtSt,debt,2015-Q1,7.52341,5,6
+942,debtSt,hh debtSt,debt,2015-Q2,7.06141,5,6
+943,debtSt,hh debtSt,debt,2015-Q3,6.92228,5,6
+944,debtSt,hh debtSt,debt,2015-Q4,6.90028,5,6
+945,debtSt,hh debtSt,debt,2016-Q1,6.66149,5,6
+946,debtSt,hh debtSt,debt,2016-Q2,6.69502,5,6
+947,debtSt,hh debtSt,debt,2016-Q3,6.91436,5,6
+948,debtSt,hh debtSt,debt,2016-Q4,6.67184,5,6
+949,debtSt,hh debtSt,debt,2017-Q1,7.00364,5,6
+950,debtSt,hh debtSt,debt,2017-Q2,6.86711,5,6
+951,debtSt,hh debtSt,debt,2017-Q3,7.29459,5,6
+952,debtSt,hh debtSt,debt,2017-Q4,6.84449,5,6
+953,debtLt,hh debtLt,debt,2013-Q4,655.55806,5,6
+954,debtLt,hh debtLt,debt,2014-Q1,644.61575,5,6
+955,debtLt,hh debtLt,debt,2014-Q2,611.605,5,6
+956,debtLt,hh debtLt,debt,2014-Q3,573.822,5,6
+957,debtLt,hh debtLt,debt,2014-Q4,521.90363,5,6
+958,debtLt,hh debtLt,debt,2015-Q1,483.82697,5,6
+959,debtLt,hh debtLt,debt,2015-Q2,455.10519,5,6
+960,debtLt,hh debtLt,debt,2015-Q3,441.70766,5,6
+961,debtLt,hh debtLt,debt,2015-Q4,424.11378,5,6
+962,debtLt,hh debtLt,debt,2016-Q1,393.25822,5,6
+963,debtLt,hh debtLt,debt,2016-Q2,373.61909,5,6
+964,debtLt,hh debtLt,debt,2016-Q3,354.34913,5,6
+965,debtLt,hh debtLt,debt,2016-Q4,334.02581,5,6
+966,debtLt,hh debtLt,debt,2017-Q1,312.44138,5,6
+967,debtLt,hh debtLt,debt,2017-Q2,300.28363,5,6
+968,debtLt,hh debtLt,debt,2017-Q3,295.62625,5,6
+969,debtLt,hh debtLt,debt,2017-Q4,268.47159,5,6
+1106,debtSt,row debtSt,debt,2013-Q4,132.36275,5,6
+1107,debtSt,row debtSt,debt,2014-Q1,135.17867,5,6
+1108,debtSt,row debtSt,debt,2014-Q2,132.5062,5,6
+1109,debtSt,row debtSt,debt,2014-Q3,139.5183,5,6
+1110,debtSt,row debtSt,debt,2014-Q4,127.31161,5,6
+1111,debtSt,row debtSt,debt,2015-Q1,173.7143,5,6
+1112,debtSt,row debtSt,debt,2015-Q2,128.74898,5,6
+1113,debtSt,row debtSt,debt,2015-Q3,122.49244,5,6
+1114,debtSt,row debtSt,debt,2015-Q4,107.15528,5,6
+1115,debtSt,row debtSt,debt,2016-Q1,142.27154,5,6
+1116,debtSt,row debtSt,debt,2016-Q2,153.98869,5,6
+1117,debtSt,row debtSt,debt,2016-Q3,147.06327,5,6
+1118,debtSt,row debtSt,debt,2016-Q4,130.54647,5,6
+1119,debtSt,row debtSt,debt,2017-Q1,162.64596,5,6
+1120,debtSt,row debtSt,debt,2017-Q2,141.66225,5,6
+1121,debtSt,row debtSt,debt,2017-Q3,159.18407,5,6
+1122,debtSt,row debtSt,debt,2017-Q4,138.20906,5,6
+1123,debtLt,row debtLt,debt,2013-Q4,1107.43829,5,6
+1124,debtLt,row debtLt,debt,2014-Q1,1078.97848,5,6
+1125,debtLt,row debtLt,debt,2014-Q2,1095.92729,5,6
+1126,debtLt,row debtLt,debt,2014-Q3,1141.16589,5,6
+1127,debtLt,row debtLt,debt,2014-Q4,1137.36535,5,6
+1128,debtLt,row debtLt,debt,2015-Q1,1215.56007,5,6
+1129,debtLt,row debtLt,debt,2015-Q2,1172.34779,5,6
+1130,debtLt,row debtLt,debt,2015-Q3,1130.42207,5,6
+1131,debtLt,row debtLt,debt,2015-Q4,1126.90221,5,6
+1132,debtLt,row debtLt,debt,2016-Q1,1103.81915,5,6
+1133,debtLt,row debtLt,debt,2016-Q2,1100.63276,5,6
+1134,debtLt,row debtLt,debt,2016-Q3,1103.27533,5,6
+1135,debtLt,row debtLt,debt,2016-Q4,1108.80148,5,6
+1136,debtLt,row debtLt,debt,2017-Q1,1092.82158,5,6
+1137,debtLt,row debtLt,debt,2017-Q2,1074.91931,5,6
+1138,debtLt,row debtLt,debt,2017-Q3,1038.39041,5,6
+1139,debtLt,row debtLt,debt,2017-Q4,1028.81429,5,6
+1140,loanLt,row loanLt,loan,2013-Q4,0,5,6
+1141,loanLt,row loanLt,loan,2014-Q1,0,5,6
+1142,loanLt,row loanLt,loan,2014-Q2,0,5,6
+1143,loanLt,row loanLt,loan,2014-Q3,0,5,6
+1144,loanLt,row loanLt,loan,2014-Q4,0,5,6
+1145,loanLt,row loanLt,loan,2015-Q1,0,5,6
+1146,loanLt,row loanLt,loan,2015-Q2,0,5,6
+1147,loanLt,row loanLt,loan,2015-Q3,0,5,6
+1148,loanLt,row loanLt,loan,2015-Q4,0,5,6
+1149,loanLt,row loanLt,loan,2016-Q1,0,5,6
+1150,loanLt,row loanLt,loan,2016-Q2,0,5,6
+1151,loanLt,row loanLt,loan,2016-Q3,0,5,6
+1152,loanLt,row loanLt,loan,2016-Q4,0,5,6
+1153,loanLt,row loanLt,loan,2017-Q1,0,5,6
+1154,loanLt,row loanLt,loan,2017-Q2,0,5,6
+1155,loanLt,row loanLt,loan,2017-Q3,0,5,6
+1156,loanLt,row loanLt,loan,2017-Q4,0,5,6
+1193,deposits,row deposits,deposits,2013-Q4,2783.20725,4,6
+2103,deposits,row deposits,deposits,2014-Q1,2820.64625,4,6
+3100,deposits,row deposits,deposits,2014-Q2,2790.133,4,6
+4101,deposits,row deposits,deposits,2014-Q3,2904.53125,4,6
+5101,deposits,row deposits,deposits,2014-Q4,2847.77325,4,6
+6100,deposits,row deposits,deposits,2015-Q1,3130.90225,4,6
+7100,deposits,row deposits,deposits,2015-Q2,3024.5395,4,6
+8102,deposits,row deposits,deposits,2015-Q3,3001.1255,4,6
+9102,deposits,row deposits,deposits,2015-Q4,2824.87125,4,6
+10100,deposits,row deposits,deposits,2016-Q1,2933.727,4,6
+1194,deposits,row deposits,deposits,2016-Q2,3124.59025,4,6
+1213,deposits,row deposits,deposits,2016-Q3,3248.90825,4,6
+1313,deposits,row deposits,deposits,2016-Q4,3199.10775,4,6
+1413,deposits,row deposits,deposits,2017-Q1,3422.7475,4,6
+1513,deposits,row deposits,deposits,2017-Q2,3282.46775,4,6
+1612,deposits,row deposits,deposits,2017-Q3,3297.323,4,6
+1712,deposits,row deposits,deposits,2017-Q4,3239.0535,4,6
+1812,deposits,nfc deposits,deposits,2013-Q4,1774.40425,4,6
+1913,deposits,nfc deposits,deposits,2014-Q1,1754.48275,4,6
+2013,deposits,nfc deposits,deposits,2014-Q2,1760.8395,4,6
+2113,deposits,nfc deposits,deposits,2014-Q3,1818.2245,4,6
+2213,deposits,nfc deposits,deposits,2014-Q4,1914.77575,4,6
+2312,deposits,nfc deposits,deposits,2015-Q1,1897.97675,4,6
+2412,deposits,nfc deposits,deposits,2015-Q2,1902.92625,4,6
+2512,deposits,nfc deposits,deposits,2015-Q3,1952.0385,4,6
+2613,deposits,nfc deposits,deposits,2015-Q4,2018.74388,4,6
+2713,deposits,nfc deposits,deposits,2016-Q1,2041.8455,4,6
+2813,deposits,nfc deposits,deposits,2016-Q2,2063.05975,4,6
+2912,deposits,nfc deposits,deposits,2016-Q3,2114.1655,4,6
+3012,deposits,nfc deposits,deposits,2016-Q4,2167.45975,4,6
+3112,deposits,nfc deposits,deposits,2017-Q1,2198.84275,4,6
+3210,deposits,nfc deposits,deposits,2017-Q2,2211.9545,4,6
+3311,deposits,nfc deposits,deposits,2017-Q3,2253.803,4,6
+3411,deposits,nfc deposits,deposits,2017-Q4,2322.22875,4,6
+3511,deposits,iv deposits,deposits,2013-Q4,238.21764,4,6
+3611,deposits,iv deposits,deposits,2014-Q1,246.8192,4,6
+3711,deposits,iv deposits,deposits,2014-Q2,256.96723,4,6
+3811,deposits,iv deposits,deposits,2014-Q3,282.63306,4,6
+3911,deposits,iv deposits,deposits,2014-Q4,274.51884,4,6
+4011,deposits,iv deposits,deposits,2015-Q1,314.27694,4,6
+4111,deposits,iv deposits,deposits,2015-Q2,324.32744,4,6
+4211,deposits,iv deposits,deposits,2015-Q3,318.96981,4,6
+4311,deposits,iv deposits,deposits,2015-Q4,303.34616,4,6
+4411,deposits,iv deposits,deposits,2016-Q1,321.47013,4,6
+4511,deposits,iv deposits,deposits,2016-Q2,319.05984,4,6
+4611,deposits,iv deposits,deposits,2016-Q3,301.60816,4,6
+4711,deposits,iv deposits,deposits,2016-Q4,312.81869,4,6
+4811,deposits,iv deposits,deposits,2017-Q1,331.16013,4,6
+4911,deposits,iv deposits,deposits,2017-Q2,327.20741,4,6
+5011,deposits,iv deposits,deposits,2017-Q3,329.09756,4,6
+5111,deposits,iv deposits,deposits,2017-Q4,330.77169,4,6
+5211,deposits,ofi deposits,deposits,2013-Q4,1623.87475,4,6
+5311,deposits,ofi deposits,deposits,2014-Q1,1591.94838,4,6
+5411,deposits,ofi deposits,deposits,2014-Q2,1546.3,4,6
+5511,deposits,ofi deposits,deposits,2014-Q3,1510.791,4,6
+5611,deposits,ofi deposits,deposits,2014-Q4,1471.60813,4,6
+5711,deposits,ofi deposits,deposits,2015-Q1,1560.2415,4,6
+5811,deposits,ofi deposits,deposits,2015-Q2,1540.98113,4,6
+5911,deposits,ofi deposits,deposits,2015-Q3,1577.04575,4,6
+6011,deposits,ofi deposits,deposits,2015-Q4,1552.73225,4,6
+6111,deposits,ofi deposits,deposits,2016-Q1,1632.9675,4,6
+6211,deposits,ofi deposits,deposits,2016-Q2,1612.029,4,6
+6311,deposits,ofi deposits,deposits,2016-Q3,1594.158,4,6
+6411,deposits,ofi deposits,deposits,2016-Q4,1563.51913,4,6
+6511,deposits,ofi deposits,deposits,2017-Q1,1572.65713,4,6
+6611,deposits,ofi deposits,deposits,2017-Q2,1522.545,4,6
+6711,deposits,ofi deposits,deposits,2017-Q3,1490.53625,4,6
+6811,deposits,ofi deposits,deposits,2017-Q4,1478.23025,4,6
+6910,deposits,icpf deposits,deposits,2013-Q4,687.78263,4,6
+70,deposits,icpf deposits,deposits,2014-Q1,700.48213,4,6
+7110,deposits,icpf deposits,deposits,2014-Q2,689.72344,4,6
+72,deposits,icpf deposits,deposits,2014-Q3,684.39875,4,6
+73,deposits,icpf deposits,deposits,2014-Q4,684.01419,4,6
+74,deposits,icpf deposits,deposits,2015-Q1,692.31813,4,6
+75,deposits,icpf deposits,deposits,2015-Q2,675.05781,4,6
+76,deposits,icpf deposits,deposits,2015-Q3,652.09544,4,6
+77,deposits,icpf deposits,deposits,2015-Q4,641.332,4,6
+78,deposits,icpf deposits,deposits,2016-Q1,641.92406,4,6
+79,deposits,icpf deposits,deposits,2016-Q2,617.20969,4,6
+80,deposits,icpf deposits,deposits,2016-Q3,604.60325,4,6
+8111,deposits,icpf deposits,deposits,2016-Q4,582.31681,4,6
+82,deposits,icpf deposits,deposits,2017-Q1,582.17925,4,6
+83,deposits,icpf deposits,deposits,2017-Q2,569.5255,4,6
+84,deposits,icpf deposits,deposits,2017-Q3,563.27425,4,6
+85,deposits,icpf deposits,deposits,2017-Q4,547.64775,4,6
+86,deposits,govt deposits,deposits,2013-Q4,615.97388,4,6
+87,deposits,govt deposits,deposits,2014-Q1,682.241,4,6
+88,deposits,govt deposits,deposits,2014-Q2,760.74625,4,6
+89,deposits,govt deposits,deposits,2014-Q3,674.93288,4,6
+90,deposits,govt deposits,deposits,2014-Q4,656.9385,4,6
+9110,deposits,govt deposits,deposits,2015-Q1,735.462,4,6
+92,deposits,govt deposits,deposits,2015-Q2,762.56025,4,6
+93,deposits,govt deposits,deposits,2015-Q3,732.42969,4,6
+94,deposits,govt deposits,deposits,2015-Q4,680.1425,4,6
+95,deposits,govt deposits,deposits,2016-Q1,773.13881,4,6
+96,deposits,govt deposits,deposits,2016-Q2,839.234,4,6
+97,deposits,govt deposits,deposits,2016-Q3,745.926,4,6
+98,deposits,govt deposits,deposits,2016-Q4,706.76688,4,6
+99,deposits,govt deposits,deposits,2017-Q1,767.59019,4,6
+100,deposits,govt deposits,deposits,2017-Q2,823.35363,4,6
+10110,deposits,govt deposits,deposits,2017-Q3,847.22569,4,6
+102,deposits,govt deposits,deposits,2017-Q4,763.97406,4,6
+103,deposits,hh deposits,deposits,2013-Q4,6204.293,4,6
+104,deposits,hh deposits,deposits,2014-Q1,6223.117,4,6
+105,deposits,hh deposits,deposits,2014-Q2,6275.259,4,6
+106,deposits,hh deposits,deposits,2014-Q3,6273.995,4,6
+107,deposits,hh deposits,deposits,2014-Q4,6337.316,4,6
+108,deposits,hh deposits,deposits,2015-Q1,6374.11,4,6
+109,deposits,hh deposits,deposits,2015-Q2,6421.1705,4,6
+11010,deposits,hh deposits,deposits,2015-Q3,6406.218,4,6
+11110,deposits,hh deposits,deposits,2015-Q4,6486.784,4,6
+112,deposits,hh deposits,deposits,2016-Q1,6531.079,4,6
+113,deposits,hh deposits,deposits,2016-Q2,6622.715,4,6
+114,deposits,hh deposits,deposits,2016-Q3,6636.9105,4,6
+115,deposits,hh deposits,deposits,2016-Q4,6749.823,4,6
+116,deposits,hh deposits,deposits,2017-Q1,6792.21,4,6
+117,deposits,hh deposits,deposits,2017-Q2,6867.614,4,6
+118,deposits,hh deposits,deposits,2017-Q3,6885.697,4,6
+119,deposits,hh deposits,deposits,2017-Q4,6974.692,4,6
+154,shares,iv shares,shares,2013-Q4,79.52858,4,6
+155,shares,iv shares,shares,2014-Q1,91.16851,4,6
+156,shares,iv shares,shares,2014-Q2,94.45323,4,6
+157,shares,iv shares,shares,2014-Q3,90.93424,4,6
+158,shares,iv shares,shares,2014-Q4,85.24538,4,6
+159,shares,iv shares,shares,2015-Q1,105.57864,4,6
+160,shares,iv shares,shares,2015-Q2,102.58608,4,6
+1613,shares,iv shares,shares,2015-Q3,95.49511,4,6
+162,shares,iv shares,shares,2015-Q4,95.62919,4,6
+163,shares,iv shares,shares,2016-Q1,78.70471,4,6
+164,shares,iv shares,shares,2016-Q2,66.69537,4,6
+165,shares,iv shares,shares,2016-Q3,69.31678,4,6
+166,shares,iv shares,shares,2016-Q4,104.2424,4,6
+167,shares,iv shares,shares,2017-Q1,113.43436,4,6
+168,shares,iv shares,shares,2017-Q2,123.64408,4,6
+169,shares,iv shares,shares,2017-Q3,132.67873,4,6
+170,shares,iv shares,shares,2017-Q4,128.1522,4,6
+1713,ivShares,iv ivShares,ivShares,2013-Q4,74.89747,4,6
+172,ivShares,iv ivShares,ivShares,2014-Q1,80.77918,4,6
+173,ivShares,iv ivShares,ivShares,2014-Q2,82.2204,4,6
+174,ivShares,iv ivShares,ivShares,2014-Q3,84.09779,4,6
+175,ivShares,iv ivShares,ivShares,2014-Q4,89.09044,4,6
+176,ivShares,iv ivShares,ivShares,2015-Q1,95.74136,4,6
+177,ivShares,iv ivShares,ivShares,2015-Q2,119.83664,4,6
+178,ivShares,iv ivShares,ivShares,2015-Q3,136.82591,4,6
+179,ivShares,iv ivShares,ivShares,2015-Q4,143.90813,4,6
+180,ivShares,iv ivShares,ivShares,2016-Q1,128.52941,4,6
+1813,ivShares,iv ivShares,ivShares,2016-Q2,126.99684,4,6
+182,ivShares,iv ivShares,ivShares,2016-Q3,127.3908,4,6
+183,ivShares,iv ivShares,ivShares,2016-Q4,125.37998,4,6
+184,ivShares,iv ivShares,ivShares,2017-Q1,126.65208,4,6
+185,ivShares,iv ivShares,ivShares,2017-Q2,139.83173,4,6
+186,ivShares,iv ivShares,ivShares,2017-Q3,138.34011,4,6
+187,ivShares,iv ivShares,ivShares,2017-Q4,133.82378,4,6
+222,shares,ofi shares,shares,2013-Q4,28.13838,4,6
+223,shares,ofi shares,shares,2014-Q1,34.93734,4,6
+224,shares,ofi shares,shares,2014-Q2,46.69891,4,6
+225,shares,ofi shares,shares,2014-Q3,47.52693,4,6
+226,shares,ofi shares,shares,2014-Q4,53.65308,4,6
+227,shares,ofi shares,shares,2015-Q1,63.39012,4,6
+228,shares,ofi shares,shares,2015-Q2,82.42329,4,6
+229,shares,ofi shares,shares,2015-Q3,74.82553,4,6
+230,shares,ofi shares,shares,2015-Q4,71.01934,4,6
+2313,shares,ofi shares,shares,2016-Q1,46.80153,4,6
+232,shares,ofi shares,shares,2016-Q2,29.46257,4,6
+233,shares,ofi shares,shares,2016-Q3,31.42615,4,6
+234,shares,ofi shares,shares,2016-Q4,34.09426,4,6
+235,shares,ofi shares,shares,2017-Q1,48.94608,4,6
+236,shares,ofi shares,shares,2017-Q2,52.0568,4,6
+237,shares,ofi shares,shares,2017-Q3,56.25049,4,6
+238,shares,ofi shares,shares,2017-Q4,70.94127,4,6
+239,ivShares,ofi ivShares,ivShares,2013-Q4,8.23162,4,6
+240,ivShares,ofi ivShares,ivShares,2014-Q1,8.67529,4,6
+2413,ivShares,ofi ivShares,ivShares,2014-Q2,8.08623,4,6
+242,ivShares,ofi ivShares,ivShares,2014-Q3,8.42411,4,6
+243,ivShares,ofi ivShares,ivShares,2014-Q4,18.51454,4,6
+244,ivShares,ofi ivShares,ivShares,2015-Q1,16.3845,4,6
+245,ivShares,ofi ivShares,ivShares,2015-Q2,14.01973,4,6
+246,ivShares,ofi ivShares,ivShares,2015-Q3,13.02254,4,6
+247,ivShares,ofi ivShares,ivShares,2015-Q4,17.96321,4,6
+248,ivShares,ofi ivShares,ivShares,2016-Q1,18.12039,4,6
+249,ivShares,ofi ivShares,ivShares,2016-Q2,22.52668,4,6
+250,ivShares,ofi ivShares,ivShares,2016-Q3,23.7846,4,6
+2513,ivShares,ofi ivShares,ivShares,2016-Q4,30.5161,4,6
+252,ivShares,ofi ivShares,ivShares,2017-Q1,25.99584,4,6
+253,ivShares,ofi ivShares,ivShares,2017-Q2,23.31842,4,6
+254,ivShares,ofi ivShares,ivShares,2017-Q3,25.72674,4,6
+255,ivShares,ofi ivShares,ivShares,2017-Q4,20.73358,4,6
+290,shares,nfc shares,shares,2013-Q4,70.84303,4,6
+2913,shares,nfc shares,shares,2014-Q1,62.93033,4,6
+292,shares,nfc shares,shares,2014-Q2,64.43992,4,6
+293,shares,nfc shares,shares,2014-Q3,65.82183,4,6
+294,shares,nfc shares,shares,2014-Q4,55.51858,4,6
+295,shares,nfc shares,shares,2015-Q1,48.18353,4,6
+296,shares,nfc shares,shares,2015-Q2,49.60145,4,6
+297,shares,nfc shares,shares,2015-Q3,50.06801,4,6
+298,shares,nfc shares,shares,2015-Q4,49.96479,4,6
+299,shares,nfc shares,shares,2016-Q1,50.69372,4,6
+300,shares,nfc shares,shares,2016-Q2,50.8805,4,6
+3013,shares,nfc shares,shares,2016-Q3,50.44725,4,6
+302,shares,nfc shares,shares,2016-Q4,57.33233,4,6
+303,shares,nfc shares,shares,2017-Q1,58.28943,4,6
+304,shares,nfc shares,shares,2017-Q2,62.08456,4,6
+305,shares,nfc shares,shares,2017-Q3,55.35527,4,6
+306,shares,nfc shares,shares,2017-Q4,56.86,4,6
+307,ivShares,nfc ivShares,ivShares,2013-Q4,108.50372,4,6
+308,ivShares,nfc ivShares,ivShares,2014-Q1,107.64888,4,6
+309,ivShares,nfc ivShares,ivShares,2014-Q2,109.78903,4,6
+3101,ivShares,nfc ivShares,ivShares,2014-Q3,101.0317,4,6
+3113,ivShares,nfc ivShares,ivShares,2014-Q4,98.84421,4,6
+312,ivShares,nfc ivShares,ivShares,2015-Q1,101.11547,4,6
+313,ivShares,nfc ivShares,ivShares,2015-Q2,89.92197,4,6
+314,ivShares,nfc ivShares,ivShares,2015-Q3,95.41365,4,6
+315,ivShares,nfc ivShares,ivShares,2015-Q4,99.43441,4,6
+316,ivShares,nfc ivShares,ivShares,2016-Q1,89.78574,4,6
+317,ivShares,nfc ivShares,ivShares,2016-Q2,81.00558,4,6
+318,ivShares,nfc ivShares,ivShares,2016-Q3,90.66963,4,6
+319,ivShares,nfc ivShares,ivShares,2016-Q4,96.92248,4,6
+320,ivShares,nfc ivShares,ivShares,2017-Q1,117.76799,4,6
+3211,ivShares,nfc ivShares,ivShares,2017-Q2,82.91309,4,6
+322,ivShares,nfc ivShares,ivShares,2017-Q3,94.37523,4,6
+323,ivShares,nfc ivShares,ivShares,2017-Q4,78.96463,4,6
+834,shares,icpf shares,shares,2013-Q4,16.69746,4,6
+835,shares,icpf shares,shares,2014-Q1,17.43889,4,6
+836,shares,icpf shares,shares,2014-Q2,16.75433,4,6
+837,shares,icpf shares,shares,2014-Q3,16.88382,4,6
+838,shares,icpf shares,shares,2014-Q4,15.06743,4,6
+839,shares,icpf shares,shares,2015-Q1,18.88363,4,6
+840,shares,icpf shares,shares,2015-Q2,18.46366,4,6
+841,shares,icpf shares,shares,2015-Q3,17.47807,4,6
+842,shares,icpf shares,shares,2015-Q4,17.50346,4,6
+843,shares,icpf shares,shares,2016-Q1,14.61118,4,6
+844,shares,icpf shares,shares,2016-Q2,10.05046,4,6
+845,shares,icpf shares,shares,2016-Q3,11.21608,4,6
+846,shares,icpf shares,shares,2016-Q4,13.62041,4,6
+847,shares,icpf shares,shares,2017-Q1,14.63692,4,6
+848,shares,icpf shares,shares,2017-Q2,15.08149,4,6
+849,shares,icpf shares,shares,2017-Q3,15.46025,4,6
+850,shares,icpf shares,shares,2017-Q4,14.24197,4,6
+851,ivShares,icpf ivShares,ivShares,2013-Q4,72.07563,4,6
+852,ivShares,icpf ivShares,ivShares,2014-Q1,87.23884,4,6
+853,ivShares,icpf ivShares,ivShares,2014-Q2,84.24656,4,6
+854,ivShares,icpf ivShares,ivShares,2014-Q3,89.47933,4,6
+855,ivShares,icpf ivShares,ivShares,2014-Q4,81.08409,4,6
+856,ivShares,icpf ivShares,ivShares,2015-Q1,91.35423,4,6
+857,ivShares,icpf ivShares,ivShares,2015-Q2,86.25779,4,6
+858,ivShares,icpf ivShares,ivShares,2015-Q3,94.21474,4,6
+859,ivShares,icpf ivShares,ivShares,2015-Q4,88.96179,4,6
+860,ivShares,icpf ivShares,ivShares,2016-Q1,119.36623,4,6
+861,ivShares,icpf ivShares,ivShares,2016-Q2,117.02507,4,6
+862,ivShares,icpf ivShares,ivShares,2016-Q3,114.55289,4,6
+863,ivShares,icpf ivShares,ivShares,2016-Q4,102.76882,4,6
+864,ivShares,icpf ivShares,ivShares,2017-Q1,114.95249,4,6
+865,ivShares,icpf ivShares,ivShares,2017-Q2,132.13916,4,6
+866,ivShares,icpf ivShares,ivShares,2017-Q3,134.03191,4,6
+867,ivShares,icpf ivShares,ivShares,2017-Q4,130.12407,4,6
+902,shares,govt shares,shares,2013-Q4,60.87472,4,6
+903,shares,govt shares,shares,2014-Q1,64.02262,4,6
+904,shares,govt shares,shares,2014-Q2,59.11779,4,6
+905,shares,govt shares,shares,2014-Q3,58.70222,4,6
+906,shares,govt shares,shares,2014-Q4,49.91146,4,6
+907,shares,govt shares,shares,2015-Q1,49.28654,4,6
+908,shares,govt shares,shares,2015-Q2,47.40232,4,6
+909,shares,govt shares,shares,2015-Q3,40.91539,4,6
+910,shares,govt shares,shares,2015-Q4,45.69859,4,6
+911,shares,govt shares,shares,2016-Q1,41.71213,4,6
+912,shares,govt shares,shares,2016-Q2,37.42324,4,6
+913,shares,govt shares,shares,2016-Q3,39.47106,4,6
+914,shares,govt shares,shares,2016-Q4,45.16043,4,6
+915,shares,govt shares,shares,2017-Q1,45.85202,4,6
+916,shares,govt shares,shares,2017-Q2,44.50776,4,6
+917,shares,govt shares,shares,2017-Q3,46.27062,4,6
+918,shares,govt shares,shares,2017-Q4,33.36427,4,6
+919,ivShares,govt ivShares,ivShares,2013-Q4,16.40391,4,6
+920,ivShares,govt ivShares,ivShares,2014-Q1,17.95086,4,6
+921,ivShares,govt ivShares,ivShares,2014-Q2,18.77933,4,6
+922,ivShares,govt ivShares,ivShares,2014-Q3,19.54171,4,6
+923,ivShares,govt ivShares,ivShares,2014-Q4,17.96951,4,6
+924,ivShares,govt ivShares,ivShares,2015-Q1,18.83165,4,6
+925,ivShares,govt ivShares,ivShares,2015-Q2,18.52047,4,6
+926,ivShares,govt ivShares,ivShares,2015-Q3,18.21181,4,6
+927,ivShares,govt ivShares,ivShares,2015-Q4,17.21071,4,6
+928,ivShares,govt ivShares,ivShares,2016-Q1,21.02352,4,6
+929,ivShares,govt ivShares,ivShares,2016-Q2,18.5391,4,6
+930,ivShares,govt ivShares,ivShares,2016-Q3,18.84066,4,6
+931,ivShares,govt ivShares,ivShares,2016-Q4,18.63709,4,6
+932,ivShares,govt ivShares,ivShares,2017-Q1,21.13804,4,6
+933,ivShares,govt ivShares,ivShares,2017-Q2,19.51409,4,6
+934,ivShares,govt ivShares,ivShares,2017-Q3,18.91186,4,6
+935,ivShares,govt ivShares,ivShares,2017-Q4,18.31686,4,6
+970,shares,hh shares,shares,2013-Q4,76.24446,4,6
+971,shares,hh shares,shares,2014-Q1,94.90019,4,6
+972,shares,hh shares,shares,2014-Q2,90.13983,4,6
+973,shares,hh shares,shares,2014-Q3,98.50334,4,6
+974,shares,hh shares,shares,2014-Q4,98.72337,4,6
+975,shares,hh shares,shares,2015-Q1,115.69627,4,6
+976,shares,hh shares,shares,2015-Q2,120.26675,4,6
+977,shares,hh shares,shares,2015-Q3,101.84425,4,6
+978,shares,hh shares,shares,2015-Q4,101.04721,4,6
+979,shares,hh shares,shares,2016-Q1,69.71872,4,6
+980,shares,hh shares,shares,2016-Q2,63.31813,4,6
+981,shares,hh shares,shares,2016-Q3,71.06729,4,6
+982,shares,hh shares,shares,2016-Q4,85.58525,4,6
+983,shares,hh shares,shares,2017-Q1,114.4202,4,6
+984,shares,hh shares,shares,2017-Q2,118.77198,4,6
+985,shares,hh shares,shares,2017-Q3,123.29768,4,6
+986,shares,hh shares,shares,2017-Q4,120.39184,4,6
+987,ivShares,hh ivShares,ivShares,2013-Q4,80.50077,4,6
+988,ivShares,hh ivShares,ivShares,2014-Q1,67.82101,4,6
+989,ivShares,hh ivShares,ivShares,2014-Q2,62.76033,4,6
+990,ivShares,hh ivShares,ivShares,2014-Q3,59.13121,4,6
+991,ivShares,hh ivShares,ivShares,2014-Q4,56.59481,4,6
+992,ivShares,hh ivShares,ivShares,2015-Q1,57.59917,4,6
+993,ivShares,hh ivShares,ivShares,2015-Q2,57.05777,4,6
+994,ivShares,hh ivShares,ivShares,2015-Q3,57.3027,4,6
+995,ivShares,hh ivShares,ivShares,2015-Q4,58.43082,4,6
+996,ivShares,hh ivShares,ivShares,2016-Q1,59.55979,4,6
+997,ivShares,hh ivShares,ivShares,2016-Q2,51.95868,4,6
+998,ivShares,hh ivShares,ivShares,2016-Q3,47.95485,4,6
+999,ivShares,hh ivShares,ivShares,2016-Q4,47.03229,4,6
+1000,ivShares,hh ivShares,ivShares,2017-Q1,42.71077,4,6
+1001,ivShares,hh ivShares,ivShares,2017-Q2,39.47348,4,6
+1002,ivShares,hh ivShares,ivShares,2017-Q3,37.22891,4,6
+1003,ivShares,hh ivShares,ivShares,2017-Q4,36.17344,4,6
+1157,shares,row shares,shares,2013-Q4,137.9938,4,6
+1158,shares,row shares,shares,2014-Q1,171.70256,4,6
+1159,shares,row shares,shares,2014-Q2,179.70723,4,6
+1160,shares,row shares,shares,2014-Q3,186.72729,4,6
+1161,shares,row shares,shares,2014-Q4,148.27132,4,6
+1162,shares,row shares,shares,2015-Q1,205.77855,4,6
+1163,shares,row shares,shares,2015-Q2,158.6111,4,6
+1164,shares,row shares,shares,2015-Q3,124.99047,4,6
+1165,shares,row shares,shares,2015-Q4,121.14799,4,6
+1166,shares,row shares,shares,2016-Q1,100.27008,4,6
+1167,shares,row shares,shares,2016-Q2,72.78239,4,6
+1168,shares,row shares,shares,2016-Q3,89.50049,4,6
+1169,shares,row shares,shares,2016-Q4,124.29801,4,6
+1170,shares,row shares,shares,2017-Q1,136.26968,4,6
+1171,shares,row shares,shares,2017-Q2,143.06722,4,6
+1172,shares,row shares,shares,2017-Q3,160.94854,4,6
+1173,shares,row shares,shares,2017-Q4,121.1834,4,6
+1174,ivShares,row ivShares,ivShares,2013-Q4,461.45207,4,6
+1175,ivShares,row ivShares,ivShares,2014-Q1,517.22269,4,6
+1176,ivShares,row ivShares,ivShares,2014-Q2,521.26362,4,6
+1177,ivShares,row ivShares,ivShares,2014-Q3,562.4129,4,6
+1178,ivShares,row ivShares,ivShares,2014-Q4,565.77059,4,6
+1179,ivShares,row ivShares,ivShares,2015-Q1,642.44006,4,6
+1180,ivShares,row ivShares,ivShares,2015-Q2,593.00426,4,6
+1181,ivShares,row ivShares,ivShares,2015-Q3,614.12296,4,6
+1182,ivShares,row ivShares,ivShares,2015-Q4,654.99343,4,6
+1183,ivShares,row ivShares,ivShares,2016-Q1,603.67398,4,6
+1184,ivShares,row ivShares,ivShares,2016-Q2,648.7413,4,6
+1185,ivShares,row ivShares,ivShares,2016-Q3,667.55832,4,6
+1186,ivShares,row ivShares,ivShares,2016-Q4,727.30949,4,6
+1187,ivShares,row ivShares,ivShares,2017-Q1,743.48729,4,6
+1188,ivShares,row ivShares,ivShares,2017-Q2,701.12191,4,6
+1189,ivShares,row ivShares,ivShares,2017-Q3,708.02812,4,6
+1190,ivShares,row ivShares,ivShares,2017-Q4,728.53577,4,6
+11001,debt,debtLt,debt,2013-Q4,2876.849,4,5
+2100,debt,debtLt,debt,2014-Q1,2866.20625,4,5
+3241,debt,debtLt,debt,2014-Q2,2866.641,4,5
+4102,debt,debtLt,debt,2014-Q3,2877.98425,4,5
+5102,debt,debtLt,debt,2014-Q4,2798.4875,4,5
+6101,debt,debtLt,debt,2015-Q1,2825.49375,4,5
+7101,debt,debtLt,debt,2015-Q2,2721.1995,4,5
+8100,debt,debtLt,debt,2015-Q3,2648.33662,4,5
+9100,debt,debtLt,debt,2015-Q4,2587.01875,4,5
+10101,debt,debtLt,debt,2016-Q1,2528.95937,4,5
+1191,debt,debtLt,debt,2016-Q2,2505.52687,4,5
+1210,debt,debtLt,debt,2016-Q3,2473.98612,4,5
+1310,debt,debtLt,debt,2016-Q4,2439.80087,4,5
+1410,debt,debtLt,debt,2017-Q1,2389.54112,4,5
+1510,debt,debtLt,debt,2017-Q2,2372.3795,4,5
+1610,debt,debtLt,debt,2017-Q3,2336.19975,4,5
+1710,debt,debtLt,debt,2017-Q4,2298.4195,4,5
+1810,debt,debtSt,debt,2013-Q4,280.70847,4,5
+1910,debt,debtSt,debt,2014-Q1,293.82482,4,5
+2010,debt,debtSt,debt,2014-Q2,274.90125,4,5
+2110,debt,debtSt,debt,2014-Q3,285.60153,4,5
+2210,debt,debtSt,debt,2014-Q4,292.28929,4,5
+2310,debt,debtSt,debt,2015-Q1,330.24282,4,5
+2410,debt,debtSt,debt,2015-Q2,261.21152,4,5
+2510,debt,debtSt,debt,2015-Q3,254.66747,4,5
+2610,debt,debtSt,debt,2015-Q4,239.97073,4,5
+2710,debt,debtSt,debt,2016-Q1,262.87427,4,5
+2810,debt,debtSt,debt,2016-Q2,273.74665,4,5
+2910,debt,debtSt,debt,2016-Q3,268.23031,4,5
+3010,debt,debtSt,debt,2016-Q4,245.31022,4,5
+3110,debt,debtSt,debt,2017-Q1,269.77619,4,5
+3251,debt,debtSt,debt,2017-Q2,243.77955,4,5
+3312,debt,debtSt,debt,2017-Q3,260.02286,4,5
+3412,debt,debtSt,debt,2017-Q4,240.73788,4,5
+3512,loan,loanLt,loan,2013-Q4,0,4,5
+3612,loan,loanLt,loan,2014-Q1,0,4,5
+3712,loan,loanLt,loan,2014-Q2,0,4,5
+3812,loan,loanLt,loan,2014-Q3,0,4,5
+3912,loan,loanLt,loan,2014-Q4,0,4,5
+4012,loan,loanLt,loan,2015-Q1,0,4,5
+4112,loan,loanLt,loan,2015-Q2,0,4,5
+4212,loan,loanLt,loan,2015-Q3,0,4,5
+4312,loan,loanLt,loan,2015-Q4,0,4,5
+4412,loan,loanLt,loan,2016-Q1,0,4,5
+4512,loan,loanLt,loan,2016-Q2,0,4,5
+4612,loan,loanLt,loan,2016-Q3,0,4,5
+4712,loan,loanLt,loan,2016-Q4,0,4,5
+4812,loan,loanLt,loan,2017-Q1,0,4,5
+4912,loan,loanLt,loan,2017-Q2,0,4,5
+5012,loan,loanLt,loan,2017-Q3,0,4,5
+5112,loan,loanLt,loan,2017-Q4,0,4,5
+11011,core,debt,debt,2013-Q4,3157.55747,3,4
+2101,core,debt,debt,2014-Q1,3160.03107,3,4
+3261,core,debt,debt,2014-Q2,3141.54225,3,4
+4121,core,debt,debt,2014-Q3,3163.58578,3,4
+5121,core,debt,debt,2014-Q4,3090.77679,3,4
+6112,core,debt,debt,2015-Q1,3155.73657,3,4
+7111,core,debt,debt,2015-Q2,2982.41102,3,4
+8101,core,debt,debt,2015-Q3,2903.00409,3,4
+9101,core,debt,debt,2015-Q4,2826.98948,3,4
+10111,core,debt,debt,2016-Q1,2791.83364,3,4
+1192,core,debt,debt,2016-Q2,2779.27352,3,4
+1211,core,debt,debt,2016-Q3,2742.21643,3,4
+1311,core,debt,debt,2016-Q4,2685.11109,3,4
+1411,core,debt,debt,2017-Q1,2659.31731,3,4
+1511,core,debt,debt,2017-Q2,2616.15905,3,4
+1611,core,debt,debt,2017-Q3,2596.22261,3,4
+1711,core,debt,debt,2017-Q4,2539.15738,3,4
+1811,core,deposits,deposits,2013-Q4,13927.7534,3,4
+1911,core,deposits,deposits,2014-Q1,14019.73671,3,4
+2011,core,deposits,deposits,2014-Q2,14079.96842,3,4
+2111,core,deposits,deposits,2014-Q3,14149.50644,3,4
+2211,core,deposits,deposits,2014-Q4,14186.94466,3,4
+2311,core,deposits,deposits,2015-Q1,14705.28757,3,4
+2411,core,deposits,deposits,2015-Q2,14651.56288,3,4
+2511,core,deposits,deposits,2015-Q3,14639.92269,3,4
+2611,core,deposits,deposits,2015-Q4,14507.95204,3,4
+2711,core,deposits,deposits,2016-Q1,14876.152,3,4
+2811,core,deposits,deposits,2016-Q2,15197.89753,3,4
+2911,core,deposits,deposits,2016-Q3,15246.27966,3,4
+3011,core,deposits,deposits,2016-Q4,15281.81201,3,4
+3111,core,deposits,deposits,2017-Q1,15667.38695,3,4
+3271,core,deposits,deposits,2017-Q2,15604.66779,3,4
+3321,core,deposits,deposits,2017-Q3,15666.95675,3,4
+3421,core,deposits,deposits,2017-Q4,15656.598,3,4
+3521,core,ivShares,ivShares,2013-Q4,822.06519,3,4
+3621,core,ivShares,ivShares,2014-Q1,887.33675,3,4
+3721,core,ivShares,ivShares,2014-Q2,887.1455,3,4
+3821,core,ivShares,ivShares,2014-Q3,924.11875,3,4
+3921,core,ivShares,ivShares,2014-Q4,927.86819,3,4
+4021,core,ivShares,ivShares,2015-Q1,1023.46644,3,4
+4131,core,ivShares,ivShares,2015-Q2,978.61863,3,4
+4221,core,ivShares,ivShares,2015-Q3,1029.11431,3,4
+4321,core,ivShares,ivShares,2015-Q4,1080.9025,3,4
+4421,core,ivShares,ivShares,2016-Q1,1040.05906,3,4
+4521,core,ivShares,ivShares,2016-Q2,1066.79325,3,4
+4621,core,ivShares,ivShares,2016-Q3,1090.75175,3,4
+4721,core,ivShares,ivShares,2016-Q4,1148.56625,3,4
+4821,core,ivShares,ivShares,2017-Q1,1192.7045,3,4
+4921,core,ivShares,ivShares,2017-Q2,1138.31188,3,4
+5021,core,ivShares,ivShares,2017-Q3,1156.64288,3,4
+5131,core,ivShares,ivShares,2017-Q4,1146.67213,3,4
+5212,core,loan,loan,2013-Q4,0,3,4
+5312,core,loan,loan,2014-Q1,0,3,4
+5412,core,loan,loan,2014-Q2,0,3,4
+5512,core,loan,loan,2014-Q3,0,3,4
+5612,core,loan,loan,2014-Q4,0,3,4
+5712,core,loan,loan,2015-Q1,0,3,4
+5812,core,loan,loan,2015-Q2,0,3,4
+5912,core,loan,loan,2015-Q3,0,3,4
+6012,core,loan,loan,2015-Q4,0,3,4
+6121,core,loan,loan,2016-Q1,0,3,4
+6212,core,loan,loan,2016-Q2,0,3,4
+6312,core,loan,loan,2016-Q3,0,3,4
+6412,core,loan,loan,2016-Q4,0,3,4
+6512,core,loan,loan,2017-Q1,0,3,4
+6612,core,loan,loan,2017-Q2,0,3,4
+6712,core,loan,loan,2017-Q3,0,3,4
+6812,core,loan,loan,2017-Q4,0,3,4
+6911,core,shares,shares,2013-Q4,470.32043,3,4
+7011,core,shares,shares,2014-Q1,537.10044,3,4
+7121,core,shares,shares,2014-Q2,551.31124,3,4
+7211,core,shares,shares,2014-Q3,565.09967,3,4
+7311,core,shares,shares,2014-Q4,506.39062,3,4
+7411,core,shares,shares,2015-Q1,606.79728,3,4
+7511,core,shares,shares,2015-Q2,579.35465,3,4
+7611,core,shares,shares,2015-Q3,505.61683,3,4
+7711,core,shares,shares,2015-Q4,502.01057,3,4
+7811,core,shares,shares,2016-Q1,402.51207,3,4
+7911,core,shares,shares,2016-Q2,330.61266,3,4
+8010,core,shares,shares,2016-Q3,362.4451,3,4
+8110,core,shares,shares,2016-Q4,464.33309,3,4
+8210,core,shares,shares,2017-Q1,531.84869,3,4
+8310,core,shares,shares,2017-Q2,559.21389,3,4
+8410,core,shares,shares,2017-Q3,590.26158,3,4
+8510,core,shares,shares,2017-Q4,545.13495,3,4

@@ -1,0 +1,194 @@
+/* custom styles */
+
+html {
+    font-family: 'Roboto', sans-serif;
+    /*font-family:  monospace;*/
+    /*text-transform: uppercase;*/
+    font-weight: 400;
+    font-size: 14px;
+    border-radius: 3px;
+}
+
+h2 {
+    display: flex;
+    width: 100%;
+    height: 2rem;
+    margin: 0px;
+    padding: 10px;
+    align-items: center;
+    font-size: 1.5rem;
+    background-color: #222;
+    color: white;
+  }
+
+#uploadBox {
+    background-color: white;
+    height: 90px;
+    padding: 10px;
+    color: #222;
+}
+
+div {
+    display: block;
+    box-sizing: border-box;
+}
+
+body {
+    height: 100vh;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    background-color: #DCDCDC;
+}
+
+svg {
+    display: block;
+    width: 100%;
+    height: 100%;
+    margin: auto;
+    justify-content: center;
+}
+
+option {
+    font-weight: 450;
+    font-family: inherit;
+    font-size: inherit;
+}
+
+.control-option{
+    display: flex;
+    flex-shrink: 2;
+    margin-top: inherit;
+    margin-bottom: inherit;
+    /*this used to be 40*/
+    min-height: 20px;
+    vertical-align: middle;
+    align-items: center;
+}
+
+.flex-container {
+    padding: 0;
+    margin: 0;
+    flex-grow: 1;
+    width: 100%;
+    height: calc(100% - 4rem);
+    display: flex;
+}
+
+
+.flex-item {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    min-height: 1000px;
+    padding: 5px;
+    flex-shrink: 0;
+    background-color:white;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 2px 0px; 
+    border-radius: 3px;
+}
+
+.Select-control {
+    display: block;
+    float: left;
+    /*width: 495px;*/
+    /*height: 25px;*/
+    min-width: 30%;
+    /*width: 20%; */
+    height: 40px; 
+    margin-right: 10px;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 2px 0px; 
+    border-radius: 3px;
+    font-family: inherit;
+    font-size: inherit;
+    font-weight: inherit;
+    /*font-size: 20px;*/
+}
+
+.noUi-connect {
+    background: lightgrey;
+}
+
+.slider{
+    height: 20px;
+    width: 300px;
+    margin-left: 0px;
+    margin-right: 20px;
+}
+
+.links{
+    font-family: inherit;
+    font-size: 12px;
+    font-weight: inherit;
+}
+
+.nodes{
+    font-family: inherit;
+    font-size: 12px;
+    font-weight: inherit;
+}
+
+#controls {
+    width: 20rem;
+    min-width: 20vw;
+    margin-left: 0;
+    margin-right: 2px;
+    align-items: top;
+}
+
+#control-section{
+    background: white;
+    border: thin solid lightgray;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 2px 0px; 
+    cursor: pointer;
+    /*font-size: 12px;*/
+    /*font-weight: 600;*/
+    padding: 5px 10px;
+    margin: 20px;
+}
+
+#sankeyChart {
+    flex-grow: 1;
+    padding: 15px;
+    height: 100%;
+}
+.zoom {
+    zoom: 67%
+}
+
+.flex-item-output {
+    /*display: block;*/
+    /*width: 495px;*/
+    /*height: 25px;*/
+    width: 150px;
+    height: 40px; 
+    display: flex;
+    margin-left: 5px;
+    margin-right: 5px;
+    padding: 4px;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 2px 0px;
+    border-color: rgb(169, 169, 169);
+    border-radius: 3px;
+    border-width: 1px;
+    border-style: solid;
+    font-family: inherit;
+    font-size: inherit;
+    text-align: left; 
+    align-items: center; 
+    /*justify-content: center;*/
+}
+
+#ratio-value{
+    width: 70px;
+    /*text-align: center;*/
+}
+
+#HHI-name{
+    width: 70px;
+    /*text-align: center;*/
+}
+
+#HHI-value{
+    width: 70px;
+    /*text-align: center;*/
+}
