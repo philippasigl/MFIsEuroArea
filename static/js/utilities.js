@@ -13,6 +13,12 @@ const getUniqueValues = (arrayOfDict,key) => {
     return uniqueValues
 }
 
+const getUniqueArrValues = (array) => {
+    let uniqueValues = array.filter((item, pos) => {
+        return array.indexOf(item) == pos;
+    })
+    return uniqueValues
+}
 const sortVals = (vals) => { return vals.sort((a,b) => {return a-b})}
 
 const revDict = (input) => {

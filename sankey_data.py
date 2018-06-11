@@ -68,6 +68,7 @@ def eliminate_zero_values(data):
     return dataClean
 
 #slice data into two levels
+'''
 def slice_into_levels(data):
     slicedData=[]
     for row in data:
@@ -77,4 +78,4 @@ def slice_into_levels(data):
         "source_level": 1, "target_level": 2, "edge_type": row['edge_type']})
     
     return slicedData
-
+'''

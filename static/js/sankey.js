@@ -4,7 +4,7 @@ const checkValidData =() => {
     if (sankey_values === -1) return
 }
 checkValidData()
-console.log("hello")
+
 //get unique IDs which remain constant for all time periods
 const setUniqueIDs = () => {
     let uniqueProps = []
@@ -55,7 +55,6 @@ const setNodes = () => {
         let targetRow = defineNode(val,'target','target_level')
         nodes.push(targetRow)
     })  
-    
     return nodes
 }
 let duplicateNodes = setNodes()
@@ -176,7 +175,6 @@ const getFirstFullYearQuartDates = () => {
     for (let key in dates) if (key%12 == 3) return key
 }
 addDeltaStartingPeriod()
-
 
 //split the nodes into arrays for each time period (since sankey connects to nodes by their indices)
 /*

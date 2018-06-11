@@ -34,18 +34,19 @@ div {
 }
 
 body {
-    height: 100vh;
+    height: 154vh;
     margin: 0;
     display: flex;
     flex-direction: column;
     background-color: #DCDCDC;
+    zoom: 65%;
 }
 
 svg {
     display: block;
     width: 100%;
     height: 100%;
-    margin: auto;
+    margin-top: auto;
     justify-content: center;
 }
 
@@ -151,9 +152,10 @@ option {
     flex-grow: 1;
     padding: 15px;
     height: 100%;
+    align-content: flex-start;
 }
 .zoom {
-    zoom: 67%
+    zoom: 67%;
 }
 
 .flex-item-output {

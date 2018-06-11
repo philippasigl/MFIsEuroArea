@@ -21,7 +21,7 @@ const set_data = () => {
     _linkData.forEach(linkWidthAndColor)
     setLinkOpacity(_linkData)
     _nodeData = select_nodes(_linkData)
-    order_nodes(_nodeData)
+    order_nodes(_nodeData)  
     var data = {nodes: _nodeData, links: _linkData}
     return data
 }
@@ -60,7 +60,7 @@ const setOptions = () => {
     _linkOpacity = 0.2
     _nodeOpacity = 1
     _nodeWidth = 15
-    _nodePadding = 30
+    _nodePadding = 25
 }
 
 const linkWidthAndColor = (link) => {

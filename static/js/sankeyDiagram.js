@@ -16,9 +16,10 @@ var _mode = 'default'
 var _linkOpacity = 0.3
 var _nodeOpacity = 1
 var _nodeWidth = 15
-var _nodePadding = 10
+var _nodePadding = 25
 var _value
 var dateArray
+var x0positions
 
 const init = () => {
     canvas = document.getElementById("sankeyChart")
@@ -39,10 +40,15 @@ const init = () => {
     //need to make a shallow copy to ensure d is not changed!
     _linkData = JSON.parse(JSON.stringify(sankey_values))
     _value = 'absolute'
+
+    //find x0 positions for drawing
+    x0positions=x0_positions(canvas.getClientRects()[0].width-70)
     draw()
 
     //record positions of nodes
     rankedNodes=get_node_ranking(graph.nodes)
+    
+    
 }
 
 const draw = () => {
@@ -84,6 +90,7 @@ const construct_sankey = () => {
 const id = (d) => { return d.id }
 
 const define_data = (mode) => {
+      
       //ensures non-numeric source and target ids for links work
       sankey.nodeId(id)
         
@@ -93,8 +100,12 @@ const define_data = (mode) => {
 
       if (_mode!='default') data=unrollData()
       else data=set_data()
-
+      
       graph=sankey(data) 
+
+      //adjust node depth to level
+      data.nodes.map((node) => {node.x0=x0positions[parseInt(node.id.slice(-1))]; node.x1=node.x0+_nodeWidth})
+
       _links = _links
         .data(data.links)
         .enter().append("path")
@@ -116,10 +127,10 @@ const define_data = (mode) => {
       _nodes = _nodes
         .data(data.nodes)   
         .enter().append("g");
-     console.log(d3.select("g"))
+   //  console.log(d3.select("g"))
       _nodes.append("rect")
-          .attr("x", function(d) { return d.x0; })
-          .attr("y", function(d) { console.log(d.y1," ", d.y0);return d.y0; })
+      .attr("x", function(d) {return d.x0})
+          .attr("y", function(d) { return d.y0; })
           .attr("height", function(d) { return d.y1 - d.y0; })
           .attr("width", function(d) { return d.x1 - d.x0; })
           //.attr("fill", function(d) { return color(d.id.replace(/ .*/, "")); })
@@ -138,7 +149,7 @@ const define_data = (mode) => {
     
       _nodes.append("title")
           .text(function(d) { return d.id.slice(0,-1) + "\n" + format(d.value); });
-        
+    
 }
 
 const get_node_ranking = (nodes) => {
@@ -149,8 +160,16 @@ const get_node_ranking = (nodes) => {
             let sortedNodes = sortByKey(xNodes,'y0')
             sortedNodes.map((node,idx) => rankedNodes[node.id]=idx)
     })
+   
     return rankedNodes
 }  
+
+const x0_positions = (width) => {
+    let levels =_uniqueNodesAllPeriods.map((node) => {return parseInt(node.id.slice(-1))})
+    levels = getUniqueArrValues(levels)
+    let x0positions = levels.map((level) => {return width/(levels.length-1)*level})
+    return sortVals(x0positions)
+  }
 
 init()
 set_cutOff()
