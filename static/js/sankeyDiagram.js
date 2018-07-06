@@ -118,7 +118,7 @@ const define_data = (mode) => {
       _links.append("title")
           .text(function(d) { 
               if (_mode=='default' && _value == 'absolute') 
-                {return d.source.id.slice(0,-1) + " → " + d.target.id.slice(0,-1) + "\n" + (d.value).toFixed(2);}
+                {return d.source.id.slice(0,-1) + " → " + d.target.id.slice(0,-1) + "\n" + "€ " + (d.value).toFixed(2) + "bn";}
                else if (_mode=='default' && _value == 'change') { return d.source.id.slice(0,-1) + " → " + d.target.id.slice(0,-1) + "\n" + (d.deltaPct*d.deltaSign).toFixed(2) +"%" }
                else if (_mode=='default' && _value == 'CAGR') { return d.source.id.slice(0,-1) + " → " + d.target.id.slice(0,-1) + "\n" + (d.cagr*d.cagrSign).toFixed(2) +"%" }
                else {return d.edge_type.slice(0,-1) + "\n" + (d.value).toFixed(2)}
@@ -148,7 +148,7 @@ const define_data = (mode) => {
           .attr("text-anchor", "start");
     
       _nodes.append("title")
-          .text(function(d) { return d.id.slice(0,-1) + "\n" + format(d.value); });
+          .text(function(d) { return d.id.slice(0,-1) + "\n" + "€ " + format(d.value) + "bn"; });
     
 }
 
