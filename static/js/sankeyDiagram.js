@@ -16,7 +16,7 @@ var _mode = 'default'
 var _linkOpacity = 0.3
 var _nodeOpacity = 1
 var _nodeWidth = 15
-var _nodePadding = 30
+var _nodePadding = 26
 var _value
 var dateArray
 var x0positions
