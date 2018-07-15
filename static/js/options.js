@@ -60,7 +60,7 @@ const setOptions = () => {
     _linkOpacity = 0.2
     _nodeOpacity = 1
     _nodeWidth = 15
-    _nodePadding = 25
+    _nodePadding = 30
 }
 
 const linkWidthAndColor = (link) => {

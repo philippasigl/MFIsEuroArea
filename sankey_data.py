@@ -1,6 +1,3 @@
-import csv
-import json
-from flask import flash
 from utilities import *
 
 def get_periods_month(data):

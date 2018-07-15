@@ -1,10 +1,4 @@
 #transformation of individual bank data to summary statistics
-#edges are currently summed by standard deviation
-import statistics
-import math
-from operator import itemgetter
-import time as t
-from flask import flash
 
 #gets unique values for a key
 def get_unique_values(data,key):
@@ -20,7 +14,7 @@ def input(row,key):
         value=row[key]
     except KeyError:
         msg = "Data missing " + key
-        flash(msg) 
+        #flash(msg) 
         return -1
     return value
 
